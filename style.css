@@ -11,11 +11,11 @@ body {
 }
     .a_sunny {
         position: absolute;
-        width: 1728px;
-        height: 218px;
+        width: 1800px;
+        height: 250px;
         left: 0px;
         top: 242px;
-        font-family: 'National Park ';
+        font-family: 'National Park', sans-serif;
         font-style: normal;
         font-weight: 700;
         font-size: 200px;
@@ -25,39 +25,39 @@ body {
     }
     .sunday_in {
         position: absolute;
-        width: 1728px;
-        height: 234px;
+        width: 1800px;
+        height: 250px;
         left: 9px;
         top: 453px;
-        font-family: 'National Park ';
+        font-family: 'National Park', sans-serif;
         font-style: normal;
         font-weight: 700;
         font-size: 200px;
-        line-height: 236px;
+        line-height: 250px;
         text-align: center;
         color: #FFFFFF;
     }
     .the_city {
         position: absolute;
-        width: 1728px;
-        height: 226px;
+        width: 1800px;
+        height: 250px;
         left: 0px;
         top: 669px;
-        font-family: 'National Park ';
+        font-family: 'National Park', sans-serif;
         font-style: normal;
         font-weight: 700;
         font-size: 200px;
-        line-height: 236px;
+        line-height: 250px;
         text-align: center;
         color: #FFFFFF;   
     }
     .or_rainy {
         position: absolute;
-        width: 1719px;
-        height: 187px;
+        width: 1800px;
+        height: 200px;
         left: -2px;
-        top: 900px;
-        font-family: 'National Park ';
+        top: 880px;
+        font-family: 'National Park', sans-serif;
         font-style: normal;
         font-weight: 700;
         font-size: 96px;
@@ -72,7 +72,7 @@ body {
         height: 177px;
         left: 43px;
         top: 10px;
-        font-family: 'National Park ';
+        font-family: 'National Park', sans-serif;
         font-style: normal;
         font-weight: 700;
         font-size: 64px;
@@ -101,23 +101,23 @@ body {
     }
     .rainbow {
         position: absolute;
-        width: 300px;
-        height: 100px;
+        width: 434px;
+        height: 215px;
         left: 170px;
         top: 1090px;
     }
     .pizza {
         position: absolute;
-        width: 470px;
-        height: 457px;
+        width: 515px;
+        height: 500px;
         left: 622px;
-        top: 993px;
+        top: 1000px;
     }
     .photography{
         position: absolute;
-        width: 320px;
-        height: 240px;
-        left: 1183px;
-        top: 1038px;
+        width: 355px;
+        height: 265px;
+        left: 1170px;
+        top: 1040px;
     }
    
