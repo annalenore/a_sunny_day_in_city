@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+  }
+
+body{
+font-family: 'Kulim Park', sans-serif;
+position: relative;
+width: 1728px;
+height: 1117px;
+background: #FFFFFF;
+}
