@@ -22,3 +22,59 @@ body {
         text-align: center;
         color: #FFFFFF;  
     }
+    .sunday_in {
+        position: absolute;
+        width: 1728px;
+        height: 234px;
+        left: 9px;
+        top: 453px;
+        font-family: 'National Park ';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 200px;
+        line-height: 236px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+    .the_city {
+        position: absolute;
+        width: 1728px;
+        height: 226px;
+        left: 0px;
+        top: 669px;
+        font-family: 'National Park ';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 200px;
+        line-height: 236px;
+        text-align: center;
+        color: #FFFFFF;   
+    }
+    .or_rainy {
+        position: absolute;
+        width: 1719px;
+        height: 187px;
+        left: -2px;
+        top: 900px;
+        font-family: 'National Park ';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 96px;
+        line-height: 113px;
+        text-align: center;
+        color: #FFFFFF;
+
+    }
+    .heading {
+        position: absolute;
+        width: 1429px;
+        height: 177px;
+        left: 43px;
+        top: 60px;
+        font-family: 'National Park ';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 64px;
+        line-height: 76px;
+        color: #FFFFFF; 
+    }
