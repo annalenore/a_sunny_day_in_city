@@ -113,12 +113,70 @@ body {
         left: 622px;
         top: 1000px;
     }
-    .photography{
+    .photographytitle{
         position: absolute;
         width: 355px;
         height: 265px;
-        left: 1170px;
-        top: 1040px;
+        left: 1092px;
+        top: 1057px;
+    }
+
+    .photography{
+        position: absolute;
+        width: 365px;
+        height: 275px;
+        left: 90px;
+        top: 290px;
+    }
+
+    .visualart{
+        position: absolute;
+        width: 357px;
+        height: 366px;
+        left: 467px;
+        top: 260px;
+    }
+    .science{
+        position: absolute;
+        width: 366px;
+        height: 395px;
+        left: 90px;
+        top: 610px;
+    }
+    .music{
+        position: absolute;
+        width: 330px;
+        height: 300px;
+        left: 495px;
+        top: 640px;
+    }
+    .literature{
+        position: absolute;
+        width: 375px;
+        height: 310px;
+        left: 865px;
+        top: 755px;
+    }
+    .theater{
+        position: absolute;
+        width: 445px;
+        height: 385px;
+        left: 843px;
+        top: 320px;
+    }
+    .museums{
+        position: absolute;
+        width: 324px;
+        height: 260px;
+        left: 1300px;
+        top: 358px;
+    }
+    .dance{
+        position: absolute;
+        width: 275px;
+        height: 435px;
+        left: 1327px;
+        top: 645px;
     }
 
     .popup {
@@ -134,4 +192,6 @@ body {
         transform: translate(-50%, -50%);
         display: none;
       }
+
+    
    
