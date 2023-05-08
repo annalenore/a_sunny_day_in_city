@@ -1,6 +1,15 @@
 * {
     box-sizing: border-box;
   }
+p {
+   font-family: 'National Park ';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 18px;
+   line-height: 21px;
+   text-align: center;
+   color: #FFFFFF;
+}
 
 body {
     position: relative;
@@ -96,7 +105,7 @@ body {
         position: absolute;
         width: 350px;
         height: 330px;
-        left: 1394px;
+        left: 1300px;
         top: 10px;  
     }
     .rainbow {
@@ -119,14 +128,6 @@ body {
         height: 265px;
         left: 1092px;
         top: 1057px;
-    }
-
-    .photography{
-        position: absolute;
-        width: 365px;
-        height: 275px;
-        left: 90px;
-        top: 290px;
     }
 
     .visualart{
@@ -178,27 +179,120 @@ body {
         left: 1327px;
         top: 645px;
     }
-
-    .popup {
-        background-image: url(photography.jpg);
-        width: 300px;
-        height: 200px;
-        background-color: #f0f0f0;
-        border: 1px solid #ccc;
-        padding: 10px;
+    .photography{
+        position: absolute;
+        width: 365px;
+        height: 275px;
+        left: 90px;
+        top: 290px;
+    }
+    
+        .popup {
+            width: 285px;
+            height: 200px;
+            background-color: #388388;
+            border: 1px solid #388388;
+            border-radius: 30px;
+            padding: 10px;
+            position: fixed;
+            left:170px;
+            top: 405px;
+            display: none;
+          }
+      #popupTitle{
         position: fixed;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        display: none;
+        width: 286px;
+        height: 24px;
+        left: 170px;
+        top: 405px;
+        font-family: 'National Park ';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 24px;
+        /* identical to box height */
+        text-align: center;
+        color: #FFFFFF;
       }
+      #popupDescription{
+        position: fixed;
+        width: 286px;
+        height: 24px;
+        left: 170px;
+        top: 550px;
+        font-family: 'National Park ';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 21px;
+        text-align: center;
+        color: #FFFFFF;
+      }
+      #popupAddress{
+        position: fixed;
+        width: 286px;
+        height: 21px;
+        left: 170px;
+        top: 450px;
+        font-family: 'National Park ';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 21px;
+        text-align: center;
+        color: #FFFFFF;
+      }
+
+      #popupBorough{
+        position: fixed;
+        width: 286px;
+        height: 21px;
+        left: 170px;
+        top: 492px;
+        font-family: 'National Park ';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 21px;
+        text-align: center;
+        color: #FFFFFF;
+      }
+      #popupMainPhone{
+        position: fixed;
+        width: 286px;
+        height: 21px;
+        left: 170px;
+        top: 520px;
+        font-family: 'National Park ';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 21px;
+        text-align: center;
+        color: #FFFFFF;
+      }
+
+      button{
+        font-family: 'National Park ';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 21px;
+        position: fixed;
+        color:#FFFFFF;
+        left: 250px;
+        top: 570px;
+        text-align: center;
+        background: #8AB07D;
+        border-radius: 20px;
+      }
+    
 
       .currentweather{
         position: absolute;
         width: 1728px;
         height: 295px;
-        left: 0px;
-        top: 213px;
+        top: 280px;
         font-family: 'National Park ';
         font-style: normal;
         font-weight: 700;
@@ -211,14 +305,12 @@ body {
         position: absolute;
         width: 1728px;
         height: 151px;
-        left: 0px;
-        top: 360px;
+        top: 430px;
         font-family: 'National Park ';
         font-style: normal;
         font-weight: 700;
         font-size: 128px;
         line-height: 151px;
-        /* identical to box height */
         text-align: center;
         color: #FFFFFF;
 
@@ -227,14 +319,12 @@ body {
         position: absolute;
         width: 1728px;
         height: 151px;
-        left: 0px;
-        top: 813px;
+        top: 820px;
         font-family: 'National Park ';
         font-style: normal;
         font-weight: 700;
         font-size: 128px;
         line-height: 151px;
-        /* identical to box height */
         text-align: center;
         color: #FFFFFF;
       }
@@ -243,7 +333,7 @@ body {
         width: 510px;
         height: 255px;
         left: 609px;
-        top: 558px;
+        top: 570px;
       }
 
     
