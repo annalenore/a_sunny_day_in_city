@@ -193,5 +193,58 @@ body {
         display: none;
       }
 
+      .currentweather{
+        position: absolute;
+        width: 1728px;
+        height: 295px;
+        left: 0px;
+        top: 213px;
+        font-family: 'National Park ';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 128px;
+        line-height: 151px;
+        text-align: center;
+        color: #FFFFFF;
+      }
+      .forecast{
+        position: absolute;
+        width: 1728px;
+        height: 151px;
+        left: 0px;
+        top: 360px;
+        font-family: 'National Park ';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 128px;
+        line-height: 151px;
+        /* identical to box height */
+        text-align: center;
+        color: #FFFFFF;
+
+      }
+      .sunny{
+        position: absolute;
+        width: 1728px;
+        height: 151px;
+        left: 0px;
+        top: 813px;
+        font-family: 'National Park ';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 128px;
+        line-height: 151px;
+        /* identical to box height */
+        text-align: center;
+        color: #FFFFFF;
+      }
+      .weatherrainbow{
+        position: absolute;
+        width: 510px;
+        height: 255px;
+        left: 609px;
+        top: 558px;
+      }
+
     
    
