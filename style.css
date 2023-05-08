@@ -195,7 +195,7 @@ body {
             border-radius: 30px;
             padding: 10px;
             position: fixed;
-            left:170px;
+            left:172px;
             top: 405px;
             display: none;
           }
@@ -203,7 +203,7 @@ body {
         position: fixed;
         width: 286px;
         height: 24px;
-        left: 170px;
+        left: 172px;
         top: 405px;
         font-family: 'National Park ';
         font-style: normal;
@@ -214,25 +214,12 @@ body {
         text-align: center;
         color: #FFFFFF;
       }
-      #popupDescription{
-        position: fixed;
-        width: 286px;
-        height: 24px;
-        left: 170px;
-        top: 550px;
-        font-family: 'National Park ';
-        font-style: normal;
-        font-weight: 700;
-        font-size: 18px;
-        line-height: 21px;
-        text-align: center;
-        color: #FFFFFF;
-      }
+
       #popupAddress{
         position: fixed;
         width: 286px;
         height: 21px;
-        left: 170px;
+        left:172px;
         top: 450px;
         font-family: 'National Park ';
         font-style: normal;
@@ -247,8 +234,8 @@ body {
         position: fixed;
         width: 286px;
         height: 21px;
-        left: 170px;
-        top: 492px;
+        left:172px;
+        top: 495px;
         font-family: 'National Park ';
         font-style: normal;
         font-weight: 700;
@@ -261,8 +248,22 @@ body {
         position: fixed;
         width: 286px;
         height: 21px;
-        left: 170px;
+        left:172px;
         top: 520px;
+        font-family: 'National Park ';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 21px;
+        text-align: center;
+        color: #FFFFFF;
+      }
+      #popupDiscipline{
+        position: fixed;
+        width: 285px;
+        height: 21px;
+        left:172px;
+        top: 550px;
         font-family: 'National Park ';
         font-style: normal;
         font-weight: 700;
@@ -273,20 +274,20 @@ body {
       }
 
       button{
-        font-family: 'National Park ';
-        font-style: normal;
-        font-weight: 700;
-        font-size: 14px;
-        line-height: 21px;
+        width: 10px;
+        height: 10px;
+        left:365px;
+        top: 560px;
         position: fixed;
-        color:#FFFFFF;
-        left: 250px;
-        top: 570px;
         text-align: center;
-        background: #8AB07D;
+        background: #388388;
         border-radius: 20px;
+        padding: 0;
+        border: none;
+        background: none
       }
-    
+      
+
 
       .currentweather{
         position: absolute;
