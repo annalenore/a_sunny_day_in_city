@@ -8,8 +8,13 @@ function showPopup() {
         const randomItem = data[randomIndex];
   
         // Set the title and description in the popup
-        document.getElementById('popupTitle').textContent = randomItem.title;
-        document.getElementById('popupDescription').textContent = randomItem.description;
+        document.getElementById('popupTitle').textContent = randomItem['Organization Name'];
+        document.getElementById('popupAddress').textContent = randomItem['Address'];
+        document.getElementById('popupBorough').textContent = randomItem['Bourough'];
+        document.getElementById('popupMainPhone').textContent = randomItem['Main Phone'];
+        document.getElementById('popupDiscipline').textContent = randomItem['Discipline'];
+        
+
   
         // Show the popup
         document.getElementById('popup').style.display = 'block';
