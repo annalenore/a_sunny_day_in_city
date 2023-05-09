@@ -18,6 +18,11 @@ body {
     height: 1450px;
     background: #8AB07D;
 }
+
+@font-face {
+    font-family: "National Park";
+    src: url("/fonts/NationalPark.ttf") format("truetype");
+  }
     .a_sunny {
         position: absolute;
         width: 1800px;

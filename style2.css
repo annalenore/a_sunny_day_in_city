@@ -10,7 +10,10 @@ p {
  text-align: center;
  color: #FFFFFF;
 }
-
+@font-face {
+  font-family: "National Park";
+  src: url("/fonts/NationalPark.ttf") format("truetype");
+}
 
 body {
   position: relative;

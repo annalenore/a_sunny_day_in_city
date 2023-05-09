@@ -11,6 +11,14 @@
     color: #FFFFFF;
    }
    
+   @font-face {
+    font-family: "National Park";
+    src: url("/fonts/NationalPark.ttf") format("truetype");
+  }
+  @font-face {
+    font-family: "Kulim Park";
+    src: url("/fonts/KulimPark.ttf") format("truetype");
+  }
    
    body {
      position: relative;
