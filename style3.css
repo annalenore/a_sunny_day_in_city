@@ -1,0 +1,281 @@
+* {
+    box-sizing: border-box;
+  }
+  p {
+    font-family: 'National Park ';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #FFFFFF;
+   }
+   
+   
+   body {
+     position: relative;
+     font-family: 'Kulim Park';
+     width: 1728px;
+     height: 1450px;
+     background: #FFFFFF;
+   }
+  .heading {
+    position: absolute;
+    width: 685px;
+    height: 80px;
+    left: 45px;
+    top: 10px;
+    font-family: 'National Park', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 60px;
+    color: #8AB07D;; 
+  }
+  .greenlogo {
+    position: absolute;
+    width: 260px;
+    height: 240px;
+    left: 1450px;
+    top: 10px;  
+  }
+  .currentborough{
+    position: absolute;
+    width: 1728px;
+    height: 194px;
+    left: 0px;
+    top: 252px;
+    font-family: 'Kulim Park';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 128px;
+    line-height: 145px;
+    text-align: center;
+    color: #388388;
+  }
+  .bronx{
+    position: absolute;
+    width: 1728px;
+    height: 145px;
+    left: 0px;
+    top: 818px;
+    font-family: 'Kulim Park';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 128px;
+    line-height: 145px;
+    text-align: center;
+    color: #388388;
+  }
+
+.boroughmanhattan{
+    position: absolute;
+    width: 190px;
+    height: 440px;
+    left: 770px;
+    top: 378px;
+    }
+  .manhattan{
+    position: absolute;
+    width: 1728px;
+    height: 145px;
+    left: 0px;
+    top: 818px;
+    font-family: 'Kulim Park';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 128px;
+    line-height: 145px;
+    text-align: center;
+    color: #388388;
+  }
+
+  .boroughbronx{
+    position: absolute;
+    width: 546px;
+    height: 364px;
+    left: 639px;
+    top: 446px;
+  }
+  .popup{
+    width: 670px;
+    height: 390px;
+    background-color: #388388;
+    border: 1px solid #388388;
+    border-radius: 40px;
+    padding: 10px;
+    position: fixed;
+    left:560px;
+    top: 620px;
+    display: none;
+  }
+
+  .popup1{
+    width: 670px;
+    height: 390px;
+    background-color: #388388;
+    border: 1px solid #388388;
+    border-radius: 40px;
+    padding: 10px;
+    position: fixed;
+    left:560px;
+    top: 620px;
+    display: none;
+  }
+  .popup2{
+    width: 670px;
+    height: 390px;
+    background-color: #388388;
+    border: 1px solid #388388;
+    border-radius: 40px;
+    padding: 10px;
+    position: fixed;
+    left:560px;
+    top: 620px;
+    display: none;
+  }
+
+  .popup3{
+    width: 670px;
+    height: 390px;
+    background-color: #388388;
+    border: 1px solid #388388;
+    border-radius: 40px;
+    padding: 10px;
+    position: fixed;
+    left:560px;
+    top: 620px;
+    display: none;
+  }
+
+  #popupTitle{
+    
+    width: 670px;
+    height: 50px;
+    left: 560px;
+    top: 620px;
+    font-family: 'National Park ';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 40px;
+    text-align: center;
+    color: #FFFFFF;
+  }
+  #popupAddress{
+    
+    width: 670px;
+    height: 35px;
+    left: 562px;
+    top: 670px;
+    font-family: 'National Park ';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #FFFFFF;
+}
+  #popupBorough{
+    
+    width: 670px;
+    height: 35px;
+    left: 562px;
+    top: 670px;
+    font-family: 'National Park ';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 35px;
+    text-align: center;
+    color: #FFFFFF;
+
+  }
+  #popupMainPhone{
+    
+    width: 670px;
+    height: 35px;
+    left: 562px;
+    top: 725px;
+    font-family: 'National Park ';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 35px;
+    text-align: center;
+    color: #FFFFFF;
+  }
+  #popupDiscipline{
+   
+    width: 670px;
+    height: 35px;
+    left: 562px;
+    top: 1250px;
+    font-family: 'National Park ';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 35px;
+    text-align: center;
+    color: #FFFFFF;
+  }
+  button{
+    position: absolute;
+    width: 45px;
+    height: 40px;
+    left: 594px;
+    top: 1412px;
+    background:#388388;
+  }
+  .littledot{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 1626px;
+    top: 1386px;
+  }
+
+  .boroughbrooklyn{
+    position: absolute;
+    width: 410px;
+    height: 369px;
+    left: 659px;
+    top: 423px;
+  }
+  .brooklyn{
+    position: absolute;
+    width: 1728px;
+    height: 145px;
+    left: 0px;
+    top: 832px;
+    font-family: 'Kulim Park';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 128px;
+    line-height: 145px;
+    text-align: center;
+    color: #388388;
+  }
+
+  .queens{
+    position: absolute;
+    width: 1728px;
+    height: 145px;
+    left: 0px;
+    top: 900px;
+    font-family: 'Kulim Park';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 128px;
+    line-height: 145px;
+    text-align: center;
+    color: #388388;
+  }
+
+  .boroughqueens{
+    position: absolute;
+    width: 530px;
+    height: 440px;
+    left: 600px;
+    top: 390px;
+  }
