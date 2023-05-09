@@ -116,6 +116,35 @@ body {
     left: 1480px;
     top: 1193px;
   }
+  .littlehat{
+    position: absolute;
+    width: 200x;
+    height: 185px;
+    left: 1491px;
+    top: 1064px;
+  }
+  .coldweather{
+    position: absolute;
+    width: 320px;
+    height: 293px;
+    left: 705px;
+    top: 550px;
+  }
+  .cold{
+    position: absolute;
+    width: 1728px;
+    height: 151px;
+    left: 0px;
+    top: 850px;
+    font-family: 'National Park ';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 128px;
+    line-height: 151px;
+    /* identical to box height */
+    text-align: center;
+    color: #FFFFFF;
+  }
   .rainy{
     position: absolute;
     width: 1728px;
@@ -156,6 +185,20 @@ body {
     top: 620px;
     display: none;
   }
+
+  .popup2{
+    width: 525px;
+    height: 380px;
+    background-color: #388388;
+    border: 1px solid #388388;
+    border-radius: 30px;
+    padding: 10px;
+    position: fixed;
+    left:600px;
+    top: 620px;
+    display: none;
+  }
+
   #popupTitle{
     width: 510px;
     height: 50px;

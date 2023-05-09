@@ -3,18 +3,33 @@
     <title>weather</title>
     <meta name="description" type="A cultural guide to NYC activities">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="script.js"></script>
-    <link rel="stylesheet" href="style.css">
+    <script src="script2.js"></script>
+    <link rel="stylesheet" href="style2.css">
     <link href="https://fonts.cdnfonts.com/css/national-park" rel="stylesheet">
 </head>
-<body>
-    <h1><div class="heading">New York Cultural Club</div></h1>
-    <div class ="nyclogo">
-        <img width="350px" height="320px" src="./nyclogo.jpg"/>
-
+<body>    
     <h1><div class="currentweather">Current Weather</div></h1>
     <h1><div class="forecast">Forecast</div></h1>
     <h1><div class="cold">cold</div></h1>
+    </div>
+
+    <div class="coldweather">
+        <img width="320px" height="293px" src="cold.jpg" onclick="showPopup2()">
+        <div class="popup2" id="popup2">
+            <h2 id="popupTitle"></h2>
+            <p id="popupAddress"></p>
+            <p id="popupBorough"></p>
+            <p id="popupMainPhone"></p>
+            <p id="popupDiscipline"></p>
+            <p> <button onclick="closePopup2()"></button></p>
+            </div>
+            </div>
+
+    <h1><div class="heading">New York Cultural Club</div></h1>
+    <div class ="nyclogo">
+        <a href="index.html">
+        <img width="260px" height="240px" src="./nyclogo.jpg"/>
+        </a>
     </div>
 </body>
 </html>
