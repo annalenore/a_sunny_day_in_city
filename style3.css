@@ -148,6 +148,18 @@
     display: none;
   }
 
+  .popup4{
+    width: 670px;
+    height: 390px;
+    background-color: #388388;
+    border: 1px solid #388388;
+    border-radius: 40px;
+    padding: 10px;
+    position: fixed;
+    left:560px;
+    top: 620px;
+    display: none;
+  }
   #popupTitle{
     
     width: 670px;
@@ -276,6 +288,28 @@
     position: absolute;
     width: 530px;
     height: 440px;
-    left: 600px;
+    left: 630px;
     top: 390px;
+  }
+
+  .StatenIsland{
+    position: absolute;
+    width: 1728px;
+    height: 145px;
+    left: 0px;
+    top: 827px;
+    font-family: 'Kulim Park';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 128px;
+    line-height: 145px;
+    text-align: center;
+    color: #388388;
+  }
+  .boroughStatenIsland{
+    position: absolute;
+    width: 400px;
+    height: 420px;
+    left: 630px;
+    top: 420px;
   }
