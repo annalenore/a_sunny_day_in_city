@@ -10,6 +10,9 @@ p {
  text-align: center;
  color: #FFFFFF;
 }
+h2{
+  font-family: 'National Park ';   
+}
 @font-face {
   font-family: "National Park";
   src: url("/fonts/NationalPark.ttf") format("truetype");
