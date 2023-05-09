@@ -103,9 +103,9 @@ body {
     }
     .nyclogo {
         position: absolute;
-        width: 350px;
-        height: 330px;
-        left: 1300px;
+        width: 260px;
+        height: 240px;
+        left: 1450px;
         top: 10px;  
     }
     .rainbow {
@@ -296,53 +296,7 @@ body {
       }
       
 
-      .currentweather{
-        position: absolute;
-        width: 1728px;
-        height: 295px;
-        top: 280px;
-        font-family: 'National Park ';
-        font-style: normal;
-        font-weight: 700;
-        font-size: 128px;
-        line-height: 151px;
-        text-align: center;
-        color: #FFFFFF;
-      }
-      .forecast{
-        position: absolute;
-        width: 1728px;
-        height: 151px;
-        top: 430px;
-        font-family: 'National Park ';
-        font-style: normal;
-        font-weight: 700;
-        font-size: 128px;
-        line-height: 151px;
-        text-align: center;
-        color: #FFFFFF;
-
-      }
-      .sunny{
-        position: absolute;
-        width: 1728px;
-        height: 151px;
-        top: 820px;
-        font-family: 'National Park ';
-        font-style: normal;
-        font-weight: 700;
-        font-size: 128px;
-        line-height: 151px;
-        text-align: center;
-        color: #FFFFFF;
-      }
-      .weatherrainbow{
-        position: absolute;
-        width: 510px;
-        height: 255px;
-        left: 609px;
-        top: 570px;
-      }
+      
 
     
    
