@@ -1,0 +1,192 @@
+* {
+  box-sizing: border-box;
+}
+p {
+ font-family: 'National Park ';
+ font-style: normal;
+ font-weight: 700;
+ font-size: 18px;
+ line-height: 21px;
+ text-align: center;
+ color: #FFFFFF;
+}
+
+
+body {
+  position: relative;
+  font-family: 'National Park', sans-serif;
+  width: 1728px;
+  height: 1450px;
+  background: #8AB07D;
+}
+
+.heading {
+  position: absolute;
+  width: 1429px;
+  height: 177px;
+  left: 43px;
+  top: 10px;
+  font-family: 'National Park', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 76px;
+  color: #FFFFFF; 
+}
+.lower_heading {
+  position: absolute;
+  width: 745px;
+  height: 63px;
+  left: 53px;
+  top: 100px;
+  font-family: 'Kulim Park';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 27px;
+  color: #FFFFFF;
+}
+.nyclogo {
+  position: absolute;
+  width: 350px;
+  height: 330px;
+  left: 1300px;
+  top: 10px;  
+}
+
+.currentweather{
+    position: absolute;
+    width: 1728px;
+    height: 295px;
+    top: 280px;
+    font-family: 'National Park ';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 128px;
+    line-height: 151px;
+    text-align: center;
+    color: #FFFFFF;
+  }
+  .forecast{
+    position: absolute;
+    width: 1728px;
+    height: 151px;
+    top: 430px;
+    font-family: 'National Park ';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 128px;
+    line-height: 151px;
+    text-align: center;
+    color: #FFFFFF;
+
+  }
+  .sunny{
+    position: absolute;
+    width: 1728px;
+    height: 151px;
+    top: 820px;
+    font-family: 'National Park ';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 128px;
+    line-height: 151px;
+    text-align: center;
+    color: #FFFFFF;
+  }
+  .weatherrainbow{
+    position: absolute;
+    width: 510px;
+    height: 255px;
+    left: 609px;
+    top: 570px;
+  }
+
+  .popup{
+    width: 517px;
+    height: 380px;
+    background-color: #E66F51;
+    border: 1px solid #E66F51;
+    border-radius: 30px;
+    padding: 10px;
+    position: fixed;
+    left:600px;
+    top: 550px;
+    display: none;
+  }
+  #popupTitle{
+    width: 515px;
+    height: 70px;
+    left: 600px;
+    top: 600px;
+    font-family: 'National Park ';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    /* identical to box height */
+    text-align: center;
+    color: #FFFFFF;
+  }
+  #popupAddress{
+    width: 505px;
+    height:30px;
+    left: 600px;
+    top: 680px;
+    font-family: 'National Park ';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 30px;
+    text-align: center;
+    color: #FFFFFF;
+  }
+  #popupBorough{
+    width: 505px;
+    height: 30px;
+    left: 600px;
+    top: 715px;
+    font-family: 'National Park ';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 30px;
+    text-align: center;
+    color: #FFFFFF;
+  }
+#popupMainPhone{
+    width: 505px;
+    height: 30px;
+    left: 600px;
+    top: 745px;
+    font-family: 'National Park ';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #FFFFFF;    
+}
+#popupDiscipline{
+    width: 505px;
+    height: 30px;
+    left: 600px;
+    top:775px;
+    font-family: 'National Park ';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #FFFFFF;
+}
+button{
+    position: fixed;
+    width: 39px;
+    height: 16px;
+    left: 1047px;
+    top: 1315px;
+    background:#E66F51;
+}
+  
+  

@@ -1,0 +1,4439 @@
+[
+  {
+    "Organization Name": "World Science Foundation",
+    "Address": "475 Riverside Drive",
+    "Postcode": 10115,
+    "MainPhone": "(646) 200-8818",
+    "Discipline": "Science",
+    "Borough": "Manhattan",
+    "Neighborhood": "Morningside Heights"
+  },
+  {
+    "Organization Name": "Alley Pond Environmental Center, Inc.",
+    "Address": "224-65 76th Avenue",
+    "Postcode": 11364,
+    "MainPhone": "(718) 229-4000 x209",
+    "Discipline": "Science",
+    "Borough": "Queens",
+    "Neighborhood": "park-cemetery-etc-Queens"
+  },
+  {
+    "Organization Name": "Bowery Arts and Science",
+    "Address": "310 Bowery, 2nd Floor",
+    "Postcode": 10012,
+    "MainPhone": "(212) 614-0504",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "West Village"
+  },
+  {
+    "Organization Name": "Bronx River Alliance",
+    "Address": "One Bronx River Parkway",
+    "Postcode": 10462,
+    "MainPhone": "(718) 430-4665",
+    "Discipline": "Science",
+    "Borough": "Bronx",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Brooklyn Institute of Arts and Sciences",
+    "Address": "200 Eastern Parkway",
+    "Postcode": 11238,
+    "MainPhone": "(718) 638-5000",
+    "Discipline": "Visual Arts",
+    "Borough": "Brooklyn",
+    "Neighborhood": "park-cemetery-etc-Brooklyn"
+  },
+  {
+    "Organization Name": "Children's Arts & Science Workshops, Inc.",
+    "Address": "4320 Broadway",
+    "Postcode": 10033,
+    "MainPhone": "(212) 923-7766",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Washington Heights North"
+  },
+  {
+    "Organization Name": "Imagine Science Films",
+    "Address": "New Lab Building 128, Suite 201",
+    "Postcode": 11205,
+    "MainPhone": "(718) 596-6404",
+    "Discipline": "Film/Video/Audio",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Inspiring Minds of New York City Inc.",
+    "Address": "410 Franklin Avenue",
+    "Postcode": 11238,
+    "MainPhone": "(212) 470-6559",
+    "Discipline": "Science",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Clinton Hill"
+  },
+  {
+    "Organization Name": "Lyfeline Community Development Corporation CDC, Inc.",
+    "Address": "122-22 Long Street",
+    "Postcode": 11434,
+    "MainPhone": "(212) 470-6559",
+    "Discipline": "Science",
+    "Borough": "Queens",
+    "Neighborhood": "Baisley Park"
+  },
+  {
+    "Organization Name": "Making the Impossible Possible",
+    "Address": "P.O. Box 360171",
+    "Postcode": 11210,
+    "MainPhone": "(212) 470-6559",
+    "Discipline": "Science",
+    "Borough": "Brooklyn",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "New York Academy of Sciences",
+    "Address": "7 World Trade Center",
+    "Postcode": 10007,
+    "MainPhone": "(212) 298-8672",
+    "Discipline": "Science",
+    "Borough": "Manhattan",
+    "Neighborhood": "SoHo-TriBeCa-Civic Center-Little Italy"
+  },
+  {
+    "Organization Name": "New York Hall of Science",
+    "Address": "47-01 111th Street",
+    "Postcode": 11368,
+    "MainPhone": "(718) 699-0005",
+    "Discipline": "Science",
+    "Borough": "Queens",
+    "Neighborhood": "park-cemetery-etc-Queens"
+  },
+  {
+    "Organization Name": "Science Live Productions Inc",
+    "Address": "560 2nd St",
+    "Postcode": 11215,
+    "MainPhone": "(718) 724-3563",
+    "Discipline": "Science",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Park Slope-Gowanus"
+  },
+  {
+    "Organization Name": "Southern Community Development Corporation, Inc.",
+    "Address": "820 Stanley Ave",
+    "Postcode": 11207,
+    "MainPhone": "(212) 470-6559",
+    "Discipline": "Science",
+    "Borough": "Brooklyn",
+    "Neighborhood": "East New York"
+  },
+  {
+    "Organization Name": "Staten Island Institute of Arts and Sciences",
+    "Address": "1000 Richmond Terrace",
+    "Postcode": 10301,
+    "MainPhone": "(718) 727-1135",
+    "Discipline": "Museum",
+    "Borough": "Staten Island",
+    "Neighborhood": "West New Brighton-New Brighton-St. George"
+  },
+  {
+    "Organization Name": "Trail Blazer Camps",
+    "Address": "394 Rogers Ave",
+    "Postcode": 11225,
+    "MainPhone": "(212) 529-5113",
+    "Discipline": "Science",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Prospect Lefferts Gardens-Wingate"
+  },
+  {
+    "Organization Name": "World Science Foundation",
+    "Address": "475 Riverside Drive",
+    "Postcode": 10115,
+    "MainPhone": "(646) 200-8818",
+    "Discipline": "Science",
+    "Borough": "Manhattan",
+    "Neighborhood": "Morningside Heights"
+  },
+  {
+    "Organization Name": "1687, Inc.",
+    "Address": "PO Box 1000",
+    "Postcode": 10014,
+    "MainPhone": "(212) 252-3499",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "18 Mai Committee",
+    "Address": "832 Franklin Avenue, PMB337",
+    "Postcode": 11225,
+    "MainPhone": "(718) 270-6935",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Crown Heights South"
+  },
+  {
+    "Organization Name": "3 Legged Dog",
+    "Address": "33 Flatbush Avenue",
+    "Postcode": 11217,
+    "MainPhone": "(917) 292-4655",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "7 Loaves, Inc.",
+    "Address": "239 East 5th Street, #1D",
+    "Postcode": 10003,
+    "MainPhone": "(212) 777-3891",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Village"
+  },
+  {
+    "Organization Name": "826NYC, Inc.",
+    "Address": "372 Fifth Avenue",
+    "Postcode": 11215,
+    "MainPhone": "(718) 499-9884",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Park Slope-Gowanus"
+  },
+  {
+    "Organization Name": "A Gathering of the Tribes",
+    "Address": "285 East 3rd Street",
+    "Postcode": 10009,
+    "MainPhone": "(212) 674-8262",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Lower East Side"
+  },
+  {
+    "Organization Name": "AFC New York, Inc.",
+    "Address": "20 Jay Street",
+    "Postcode": 11201,
+    "MainPhone": "(718) 753-3464",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill"
+  },
+  {
+    "Organization Name": "ANONYMOUS ENSEMBLE INC",
+    "Address": "104 Montgomery St.",
+    "Postcode": 11225,
+    "MainPhone": "(917) 701-8388",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Crown Heights South"
+  },
+  {
+    "Organization Name": "ARC on 4th Street, Inc.",
+    "Address": "59 East 4th Street",
+    "Postcode": 10003,
+    "MainPhone": "(212) 477-5340",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Village"
+  },
+  {
+    "Organization Name": "ARTs East New York Inc.",
+    "Address": "534 Livonia Ave.",
+    "Postcode": 11207,
+    "MainPhone": "(718) 676-6006 x101",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "East New York (Pennsylvania Ave)"
+  },
+  {
+    "Organization Name": "Aaccapella Light Sound Organization Plus",
+    "Address": "851A Prospect Avenue",
+    "Postcode": 10459,
+    "MainPhone": "(646) 453-3535",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Brooklyn",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Aaron Davis Hall, Inc.",
+    "Address": "150 Convent Avenue",
+    "Postcode": 10031,
+    "MainPhone": "(212) 281-9240",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "Manhattanville"
+  },
+  {
+    "Organization Name": "AbunDance Academy of the Arts, Inc.",
+    "Address": "430 Rogers Avenue",
+    "Postcode": 11225,
+    "MainPhone": "(347) 788-1069",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Prospect Lefferts Gardens-Wingate"
+  },
+  {
+    "Organization Name": "Abundant Waters, Inc.",
+    "Address": "400 W.43rd St. #36G",
+    "Postcode": 10036,
+    "MainPhone": "(212) 564-2589",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "Clinton"
+  },
+  {
+    "Organization Name": "Actors' Fund of America",
+    "Address": "729 Seventh Avenue, 10th Floor",
+    "Postcode": 10019,
+    "MainPhone": "(212) 221-7300",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "African Cultural Center, Inc.",
+    "Address": "P.O. Box 3147",
+    "Postcode": 10163,
+    "MainPhone": "(646) 289-1877",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "African Services Committee, Inc.",
+    "Address": "429 W 127th Street",
+    "Postcode": 10027,
+    "MainPhone": "(212) 222-3882",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Manhattanville"
+  },
+  {
+    "Organization Name": "Afrikan Poetry Theatre, Inc.",
+    "Address": "176-03 Jamaica Avenue",
+    "Postcode": 11432,
+    "MainPhone": "(718) 523-3312",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Queens",
+    "Neighborhood": "Jamaica"
+  },
+  {
+    "Organization Name": "Afro Brazil Arts",
+    "Address": "107 Suffolk Street, Studio 307",
+    "Postcode": 10002,
+    "MainPhone": "(212) 677-2203",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Lower East Side"
+  },
+  {
+    "Organization Name": "Afrolatin Project, Inc.",
+    "Address": "11325 Seaview Ave",
+    "Postcode": 11239,
+    "MainPhone": "(718) 414-5035",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Starrett City"
+  },
+  {
+    "Organization Name": "All Out Arts, Inc.",
+    "Address": "131 West 35th Street",
+    "Postcode": "10001-2111",
+    "MainPhone": "(917) 701-9033",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "Alliance for Downtown New York, Inc",
+    "Address": "120 Broadway, Ste. 3340",
+    "Postcode": 10271,
+    "MainPhone": "(212) 835-2740",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Battery Park City-Lower Manhattan"
+  },
+  {
+    "Organization Name": "Alliance for Young Artists and Writers, Inc.",
+    "Address": "557 Broadway",
+    "Postcode": 10012,
+    "MainPhone": "(212) 343-7702",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": "SoHo-TriBeCa-Civic Center-Little Italy"
+  },
+  {
+    "Organization Name": "Alliance for the Arts, Inc.",
+    "Address": "330 West 42nd Street, Ste. 1701",
+    "Postcode": 10036,
+    "MainPhone": "(212) 947-6340",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Clinton"
+  },
+  {
+    "Organization Name": "Allied Productions, Inc.",
+    "Address": "P.O. Box 20260",
+    "Postcode": 10009,
+    "MainPhone": "(212) 529-8815",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Alwan Foundation",
+    "Address": "16 Beaver Street, 4th Floor",
+    "Postcode": 10004,
+    "MainPhone": "(212) 967-4318",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Battery Park City-Lower Manhattan"
+  },
+  {
+    "Organization Name": "America SCORES New York",
+    "Address": "America SCORES New York",
+    "Postcode": 10018,
+    "MainPhone": "(646) 660-0404",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "American Indian Artists, Inc.",
+    "Address": "288 East 10th Street",
+    "Postcode": 10009,
+    "MainPhone": "(212) 598-0968",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Village"
+  },
+  {
+    "Organization Name": "American Indian Community House, Inc.",
+    "Address": "11 Broadway, 2nd Floor",
+    "Postcode": 10004,
+    "MainPhone": "(212) 598-0100 x232",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Battery Park City-Lower Manhattan"
+  },
+  {
+    "Organization Name": "American Latin Association of New York",
+    "Address": "14 West 170th st.",
+    "Postcode": 10452,
+    "MainPhone": "(646) 260-3382",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "American Songbook Association Inc.",
+    "Address": "PO Box 1594",
+    "Postcode": 10025,
+    "MainPhone": "(917) 913-6006",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "American Theatre of Harlem",
+    "Address": "138 South Oxford Street",
+    "Postcode": 11217,
+    "MainPhone": "(718) 857-2783",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Fort Greene"
+  },
+  {
+    "Organization Name": "American Vicarious, Inc.",
+    "Address": "200 6th St #3A",
+    "Postcode": 11215,
+    "MainPhone": "(718) 701-6648",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Americas Society, Inc.",
+    "Address": "680 Park Avenue",
+    "Postcode": 10065,
+    "MainPhone": "(212) 277-8334",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Upper East Side-Carnegie Hill"
+  },
+  {
+    "Organization Name": "Amore Opera, Inc.",
+    "Address": "P.O. Box 231368",
+    "Postcode": 10023,
+    "MainPhone": "(917) 620-5550",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Apollo Theater Foundation, Inc.",
+    "Address": "253 West 125th Street",
+    "Postcode": 10027,
+    "MainPhone": "(212) 531-5332",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "Central Harlem South"
+  },
+  {
+    "Organization Name": "Arab American Association of NY, Inc.",
+    "Address": "7111 5th Avenue",
+    "Postcode": 11209,
+    "MainPhone": "(718) 745-3523",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Bay Ridge"
+  },
+  {
+    "Organization Name": "Archipelago Books, Inc.",
+    "Address": "232 Third Street, Room A111",
+    "Postcode": 11215,
+    "MainPhone": "(718) 852-6134",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Park Slope-Gowanus"
+  },
+  {
+    "Organization Name": "Ardea Arts",
+    "Address": "463 Broome Street",
+    "Postcode": 10013,
+    "MainPhone": "(212) 431-7039",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "SoHo-TriBeCa-Civic Center-Little Italy"
+  },
+  {
+    "Organization Name": "Arete Education, Inc.",
+    "Address": "557 Grand Concourse",
+    "Postcode": 10451,
+    "MainPhone": "(646) 504-2015",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Bronx",
+    "Neighborhood": "West Concourse"
+  },
+  {
+    "Organization Name": "Arete Living Arts Foundation",
+    "Address": "64 Dupont St 2L",
+    "Postcode": 11222,
+    "MainPhone": "(718) 349-1681",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Greenpoint"
+  },
+  {
+    "Organization Name": "Ars Nova Theater I, Inc.",
+    "Address": "511 West 54th Street",
+    "Postcode": 10019,
+    "MainPhone": "(212) 489-9800 x139",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "Clinton"
+  },
+  {
+    "Organization Name": "Art Beyond Sight, Inc.",
+    "Address": "589 Broadway",
+    "Postcode": 10012,
+    "MainPhone": "(212) 334-8720",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "SoHo-TriBeCa-Civic Center-Little Italy"
+  },
+  {
+    "Organization Name": "Art For Progress",
+    "Address": "133 Mulberry Street, #4W1",
+    "Postcode": 10013,
+    "MainPhone": "(212) 475-4185",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": "SoHo-TriBeCa-Civic Center-Little Italy"
+  },
+  {
+    "Organization Name": "Art House Astoria Conservatory for Music and Art",
+    "Address": "23-35 Broadway",
+    "Postcode": 11106,
+    "MainPhone": "(347) 738-4148",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Queens",
+    "Neighborhood": "Astoria"
+  },
+  {
+    "Organization Name": "Art Kibbutz, Inc.",
+    "Address": "500 W 235th Street",
+    "Postcode": 10463,
+    "MainPhone": "(347) 479-8274",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Art Loisaida Foundation",
+    "Address": "608 E.9th St.",
+    "Postcode": 10009,
+    "MainPhone": "(212) 674-4057",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Lower East Side"
+  },
+  {
+    "Organization Name": "Art Omi Inc.",
+    "Address": "55 Fifth Avenue, 15th Floor",
+    "Postcode": 10003,
+    "MainPhone": "(212) 206-5660",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "West Village"
+  },
+  {
+    "Organization Name": "Art Resources Transfer",
+    "Address": "526 W 26th St., #614",
+    "Postcode": 10001,
+    "MainPhone": "(212) 255-2919",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "Art Resources for Teachers and Students, Inc.",
+    "Address": "134 Henry Street",
+    "Postcode": 11372,
+    "MainPhone": "(212) 962-8231",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Lower East Side"
+  },
+  {
+    "Organization Name": "Art Start, Inc.",
+    "Address": "526 West 26th Street Suite 501",
+    "Postcode": 10001,
+    "MainPhone": "(212) 460-0019",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "Art for Change, Inc.",
+    "Address": "1699 Lexington Avenue",
+    "Postcode": 10029,
+    "MainPhone": "(212) 348-7044",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Harlem South"
+  },
+  {
+    "Organization Name": "ArteEast, Inc.",
+    "Address": "300 Cadman Plaza West",
+    "Postcode": 11201,
+    "MainPhone": "(718) 282-5938",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Queens",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Arthur Aviles Typical Theatre, Inc.",
+    "Address": "2474 Westchester Avenue",
+    "Postcode": 10461,
+    "MainPhone": "(718) 842-5223",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Bronx",
+    "Neighborhood": "Westchester-Unionport"
+  },
+  {
+    "Organization Name": "Artichoke Dance Company, Inc.",
+    "Address": "121 Sterling Place",
+    "Postcode": 11217,
+    "MainPhone": "(917) 627-8770",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Prospect Heights"
+  },
+  {
+    "Organization Name": "Artist Coworking Space Inc.",
+    "Address": "500 W. 52nd Street #3W",
+    "Postcode": 10019,
+    "MainPhone": "(646) 682-9502",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "Clinton"
+  },
+  {
+    "Organization Name": "ArtistYear",
+    "Address": "335 Rutland Road",
+    "Postcode": 11225,
+    "MainPhone": "(347) 302-4667",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Queens",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Artists Unite, Inc.",
+    "Address": "730 W. 183rd Street #3D",
+    "Postcode": 10033,
+    "MainPhone": "(917) 312-6691",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Washington Heights North"
+  },
+  {
+    "Organization Name": "Arts & Business Council, Inc.",
+    "Address": "1 East 53rd Street, 3rd Floor",
+    "Postcode": 10022,
+    "MainPhone": "(212) 279-5910 x1119",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "Arts & Democracy, Inc.",
+    "Address": "88 Prospect Park West #3D",
+    "Postcode": 11215,
+    "MainPhone": "(718) 965-1509",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Park Slope-Gowanus"
+  },
+  {
+    "Organization Name": "Arts Connection, Inc.",
+    "Address": "520 Eighth Avenue, Suite 321",
+    "Postcode": 10018,
+    "MainPhone": "(212) 302-7433 x468",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "Arts For All, Inc.",
+    "Address": "119 West 23rd Street, 5th Floor",
+    "Postcode": 10011,
+    "MainPhone": "(212) 591-6108",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "Arts Indonesia",
+    "Address": "49 India St. apt 4L",
+    "Postcode": 11222,
+    "MainPhone": "(617) 767-9435",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Arts On Site NYC, Inc.",
+    "Address": "12 Saint Marks Place, #3F",
+    "Postcode": 10003,
+    "MainPhone": "(919) 614-0505",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Village"
+  },
+  {
+    "Organization Name": "Arts for Art, Inc.",
+    "Address": "107 Suffolk Street, #300",
+    "Postcode": 10002,
+    "MainPhone": "(212) 254-5420",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "Lower East Side"
+  },
+  {
+    "Organization Name": "Artsgenesis, Inc.",
+    "Address": "154 Christopher Street, Suite 2A",
+    "Postcode": 10014,
+    "MainPhone": "(212) 741-1414 x15",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "West Village"
+  },
+  {
+    "Organization Name": "Asian American Activity Center, Inc.",
+    "Address": "396 Broadway, Suite 205",
+    "Postcode": 10013,
+    "MainPhone": "(212) 431-0368",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": "SoHo-TriBeCa-Civic Center-Little Italy"
+  },
+  {
+    "Organization Name": "Asian American Arts Alliance",
+    "Address": "20 Jay Street, Suite 740",
+    "Postcode": 11201,
+    "MainPhone": "(212) 941-9208 x1",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "SoHo-TriBeCa-Civic Center-Little Italy"
+  },
+  {
+    "Organization Name": "Asian American Coalition for Education",
+    "Address": "202-39 Rocky Hill Road",
+    "Postcode": 11361,
+    "MainPhone": "(718) 229-1368",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Queens",
+    "Neighborhood": "Bayside-Bayside Hills"
+  },
+  {
+    "Organization Name": "Asian Cultural Council, Inc.",
+    "Address": "6 West 48th Street",
+    "Postcode": 10036,
+    "MainPhone": "(212) 843-0367",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "Association of Dominican Classical Artists, Inc.",
+    "Address": "699 East 137 Street",
+    "Postcode": 10454,
+    "MainPhone": "(917) 331-6122",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Atlantic Avenue Local Development Corporation",
+    "Address": "494 Atlantic Avenue",
+    "Postcode": 11217,
+    "MainPhone": "(212) 710-0010",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill"
+  },
+  {
+    "Organization Name": "Avant Media Performance, Inc.",
+    "Address": "113 South 2nd Street, #1B",
+    "Postcode": 11211,
+    "MainPhone": "(212) 372-3326",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Brooklyn",
+    "Neighborhood": "North Side-South Side"
+  },
+  {
+    "Organization Name": "Ayazamana Cultural Center",
+    "Address": "32-22 48 Street",
+    "Postcode": 11103,
+    "MainPhone": "(646) 229-5867",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Queens",
+    "Neighborhood": "Astoria"
+  },
+  {
+    "Organization Name": "BAM Local Development Corporation",
+    "Address": "80 Hansen Place",
+    "Postcode": 11217,
+    "MainPhone": "(718) 907-4411",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "BHRAGS Home Care",
+    "Address": "9805 Foster ave",
+    "Postcode": 11236,
+    "MainPhone": "(347) 314-1057",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Brooklyn",
+    "Neighborhood": "East New York"
+  },
+  {
+    "Organization Name": "BRIC Arts Media Bklyn",
+    "Address": "647 Fulton Street",
+    "Postcode": 11217,
+    "MainPhone": "(718) 683-5600",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Fort Greene"
+  },
+  {
+    "Organization Name": "Bailey's Cafe",
+    "Address": "324 Malcolm X Boulevard",
+    "Postcode": 11233,
+    "MainPhone": "(347) 721-2152",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Crown Heights North"
+  },
+  {
+    "Organization Name": "Balance Dance Theatre",
+    "Address": "181 East 91st Street",
+    "Postcode": 11212,
+    "MainPhone": "(718) 624-6414",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Rugby-Remsen Village"
+  },
+  {
+    "Organization Name": "BalletCollective Inc.",
+    "Address": "850 Amsterdam Ave 14F",
+    "Postcode": 10025,
+    "MainPhone": "(646) 337-1254",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Upper West Side"
+  },
+  {
+    "Organization Name": "Bangladeshi American Community Development and Youth Services",
+    "Address": "181 Forbell Street",
+    "Postcode": 11208,
+    "MainPhone": "(718) 235-1700",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Cypress Hills-City Line"
+  },
+  {
+    "Organization Name": "Bartlett Foundation, Inc.",
+    "Address": "120  51 200 th Street",
+    "Postcode": 11412,
+    "MainPhone": "(212) 470-6559",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Queens",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Baryshnikov Dance Foundation, Inc.",
+    "Address": "450 West 37th Street, Suite 501",
+    "Postcode": 10018,
+    "MainPhone": "(646) 731-3201",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "Battered Women's Safe Territory -an Opportunity to Progress, Inc.",
+    "Address": "94 Bentwood Drive",
+    "Postcode": 6705,
+    "MainPhone": "(203) 768-3841",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Bronx",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Beam Center, Inc.",
+    "Address": "47 Bergen Street",
+    "Postcode": 11201,
+    "MainPhone": "(347) 470-6747",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Brooklyn",
+    "Neighborhood": "DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill"
+  },
+  {
+    "Organization Name": "Beta Israel of North America Cultural Foundation, Inc.",
+    "Address": "PO Box 470",
+    "Postcode": 10030,
+    "MainPhone": "(212) 284-6942",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Crown Heights North"
+  },
+  {
+    "Organization Name": "Big Art Group, Inc.",
+    "Address": "P.O. Box 1034",
+    "Postcode": 10276,
+    "MainPhone": "(646) 479-4363",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Biko Transformation Center",
+    "Address": "1474 Bushwick Avenue",
+    "Postcode": 11207,
+    "MainPhone": "(718) 455-5963",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Bushwick South"
+  },
+  {
+    "Organization Name": "Bindlestiff Family Variety Arts, Inc.",
+    "Address": "P.O. Box 386",
+    "Postcode": 10009,
+    "MainPhone": "(718) 963-2918",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Brooklyn",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Black American Heritage Foundation",
+    "Address": "94-20 Guy Brewer Boulevard, Room 3D08",
+    "Postcode": 11451,
+    "MainPhone": "(212) 366-6900 x201",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Queens",
+    "Neighborhood": "Jamaica"
+  },
+  {
+    "Organization Name": "Black Women's Blueprint",
+    "Address": "P.O. Box 24713",
+    "Postcode": 11202,
+    "MainPhone": "(347) 533-9102",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Blackberry Productions, Inc.",
+    "Address": "170 West 136th Street, Ste. 4C",
+    "Postcode": 10030,
+    "MainPhone": "(212) 694-6698",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "Central Harlem North-Polo Grounds"
+  },
+  {
+    "Organization Name": "Blank Forms INC.",
+    "Address": "468 Grand Ave.",
+    "Postcode": 11238,
+    "MainPhone": "(347) 463-6316",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Clinton Hill"
+  },
+  {
+    "Organization Name": "Bnos Yakov Educational Center",
+    "Address": "638 Bedford Avenue",
+    "Postcode": 11211,
+    "MainPhone": "(718) 963-1212 x101",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Williamsburg"
+  },
+  {
+    "Organization Name": "Bond Street Theatre Coalition, Ltd.",
+    "Address": "2 Bond Street, #4R",
+    "Postcode": 10012,
+    "MainPhone": "(212) 254-4614",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "West Village"
+  },
+  {
+    "Organization Name": "Borough of Manhattan Community College Performing Arts Center, Inc.",
+    "Address": "199 Chambers Street, Room #S110C",
+    "Postcode": 10007,
+    "MainPhone": "(212) 220-1459",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "SoHo-TriBeCa-Civic Center-Little Italy"
+  },
+  {
+    "Organization Name": "Boys & Girls Harbor, Inc.",
+    "Address": "1 East 104th Street",
+    "Postcode": 10029,
+    "MainPhone": "(212) 427-2244 x583",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Harlem South"
+  },
+  {
+    "Organization Name": "Boys' Club of New York, Inc.",
+    "Address": "287 10th Street",
+    "Postcode": 10009,
+    "MainPhone": "(212) 677-1102",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Queens",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Bread & Roses Cultural Project, Inc.",
+    "Address": "322 West 48th Street, 6th floor",
+    "Postcode": 10036,
+    "MainPhone": "(212) 767-0025 x2",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": "Clinton"
+  },
+  {
+    "Organization Name": "Bridging Education and Art Together, Inc.",
+    "Address": "44-02 23rd St #301",
+    "Postcode": 11101,
+    "MainPhone": "(718) 937-2328",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Bronx",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Brighton Neighborhood Association, Inc.",
+    "Address": "1121 Brighton Beach Avenue",
+    "Postcode": 11235,
+    "MainPhone": "(718) 891-0800",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Brighton Beach"
+  },
+  {
+    "Organization Name": "Bring to Light",
+    "Address": "200 East 10th Street",
+    "Postcode": 10003,
+    "MainPhone": "(646) 345-1581",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Broadways Babies Fund, Inc",
+    "Address": "336 W 37th St Suite 500",
+    "Postcode": 10018,
+    "MainPhone": "(804) 200-2421",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "Bronx Arts Ensemble",
+    "Address": "80 Van Cortlandt Park South, Ste. 7D-1",
+    "Postcode": 10463,
+    "MainPhone": "(718) 601-7399",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Bronx",
+    "Neighborhood": "Van Cortlandt Village"
+  },
+  {
+    "Organization Name": "Bronx Children's Museum",
+    "Address": "PO Box 1381",
+    "Postcode": "10451-9998",
+    "MainPhone": "(347) 971-2155",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Bronx",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Bronx Council on the Arts",
+    "Address": "2700 East Tremont Ave.",
+    "Postcode": 10461,
+    "MainPhone": "(718) 931-9500 x17",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Bronx",
+    "Neighborhood": "Van Nest-Morris Park-Westchester Square"
+  },
+  {
+    "Organization Name": "Bronx County Historical Society",
+    "Address": "3309 Bainbridge Avenue",
+    "Postcode": 10467,
+    "MainPhone": "(718) 881-8900",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Bronx",
+    "Neighborhood": "Norwood"
+  },
+  {
+    "Organization Name": "Bronx Hispanic Festival Inc",
+    "Address": "P.O. Box 1765",
+    "Postcode": 10451,
+    "MainPhone": "(917) 699-7598",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Bronx",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Bronx House, Inc.",
+    "Address": "990 Pelham Parkway South",
+    "Postcode": 10461,
+    "MainPhone": "(718) 792-1800 x224",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Bronx",
+    "Neighborhood": "Pelham Parkway"
+  },
+  {
+    "Organization Name": "Bronx River Art Center, Inc.",
+    "Address": "P.O. Box 5002",
+    "Postcode": 10460,
+    "MainPhone": "(718) 589-5819 x11",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Bronx",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "BronxWorks, Inc.",
+    "Address": "60 East Tremont Avenue",
+    "Postcode": 10453,
+    "MainPhone": "(718) 365-0910 x25",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Bronx",
+    "Neighborhood": "Mount Hope"
+  },
+  {
+    "Organization Name": "Brooklyn Academy of Music",
+    "Address": "30 Lafayette Avenue",
+    "Postcode": 11217,
+    "MainPhone": "(718) 636-4111",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Fort Greene"
+  },
+  {
+    "Organization Name": "Brooklyn Arts Council, Inc.",
+    "Address": "20 Jay Street",
+    "Postcode": 11201,
+    "MainPhone": "(718) 625-0080 x222",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Brooklyn",
+    "Neighborhood": "DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill"
+  },
+  {
+    "Organization Name": "Brooklyn Arts Exchange",
+    "Address": "421 Fifth Avenue, 3rd Fl.",
+    "Postcode": 11215,
+    "MainPhone": "(718) 832-0018",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Park Slope-Gowanus"
+  },
+  {
+    "Organization Name": "Brooklyn Bridge Park Conservancy, Inc.",
+    "Address": "334 Furman Street",
+    "Postcode": 11201,
+    "MainPhone": "(718) 802-0603 x11",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Brooklyn Heights-Cobble Hill"
+  },
+  {
+    "Organization Name": "Brooklyn Center for the Urban Environment, Inc.",
+    "Address": "168 7th St.",
+    "Postcode": 11215,
+    "MainPhone": "(718) 788-8500",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Park Slope-Gowanus"
+  },
+  {
+    "Organization Name": "Brooklyn City Streetcar Company, Inc.",
+    "Address": "1360 Ocean Parkway, Ste. 6L",
+    "Postcode": 11230,
+    "MainPhone": "(718) 314-0226",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Ocean Parkway South"
+  },
+  {
+    "Organization Name": "Brooklyn Community Pride Center",
+    "Address": "4 Metrotech, Ground Floor",
+    "Postcode": 11201,
+    "MainPhone": "(347) 889-7719",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill"
+  },
+  {
+    "Organization Name": "Brooklyn Institute for Social Research, Inc.",
+    "Address": "68 Jay Street",
+    "Postcode": 11201,
+    "MainPhone": "(512) 914-0597",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill"
+  },
+  {
+    "Organization Name": "Brooklyn Music School",
+    "Address": "126 Saint Felix Street",
+    "Postcode": 11217,
+    "MainPhone": "(718) 434-4500",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Fort Greene"
+  },
+  {
+    "Organization Name": "Brooklyn Steppers",
+    "Address": "PO Box 24415",
+    "Postcode": 11202,
+    "MainPhone": "(718) 467-1700 x1702",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Brooklyn USA Athletic Assc",
+    "Address": "1424 Fulton Street",
+    "Postcode": 11216,
+    "MainPhone": "(718) 773-3456",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Crown Heights North"
+  },
+  {
+    "Organization Name": "Brownsville Heritage House, Inc.",
+    "Address": "581 Mother Gaston Boulevard",
+    "Postcode": 11212,
+    "MainPhone": "(718) 385-1111",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Brownsville"
+  },
+  {
+    "Organization Name": "Builders Association, Inc.",
+    "Address": "140 2nd Ave",
+    "Postcode": 10003,
+    "MainPhone": "(212) 274-0446 x1",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Village"
+  },
+  {
+    "Organization Name": "Building for the Arts NY, Inc.",
+    "Address": "330 West 42nd Street",
+    "Postcode": 10036,
+    "MainPhone": "(212) 695-4242",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Clinton"
+  },
+  {
+    "Organization Name": "Bushwick Institute of the Performing Arts, Inc.",
+    "Address": "112 Hendrix Street",
+    "Postcode": 11207,
+    "MainPhone": "(718) 235-4681",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Cypress Hills-City Line"
+  },
+  {
+    "Organization Name": "Bushwick Starr, Inc.",
+    "Address": "207 Starr Street, #4",
+    "Postcode": 11237,
+    "MainPhone": "(718) 306-2370",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Bushwick North"
+  },
+  {
+    "Organization Name": "Byrd Hoffman Watermill Foundation",
+    "Address": "55 Washington Street",
+    "Postcode": 11201,
+    "MainPhone": "(212) 253-7484",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill"
+  },
+  {
+    "Organization Name": "CAMERATA INTERNAZIONALE INC",
+    "Address": "325 5TH AVE.",
+    "Postcode": 10016,
+    "MainPhone": "(845) 729-4986",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "CEC ArtsLink, Inc.",
+    "Address": "435 Hudson Street, 8th Floor",
+    "Postcode": 10014,
+    "MainPhone": "(212) 643-1985 x12",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "West Village"
+  },
+  {
+    "Organization Name": "CEC Stuyvesant Cove, Inc.",
+    "Address": "24-20 FDR Drive Service Road East",
+    "Postcode": 10010,
+    "MainPhone": "(212) 505-6050",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Murray Hill-Kips Bay"
+  },
+  {
+    "Organization Name": "CSI Foundation",
+    "Address": "2800 Victory Boulevard,",
+    "Postcode": 10314,
+    "MainPhone": "(718) 982-2359",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Staten Island",
+    "Neighborhood": "New Springville-Bloomfield-Travis"
+  },
+  {
+    "Organization Name": "Calliope Creative Foundation",
+    "Address": "1410 Broadway, Ste 2601",
+    "Postcode": 10018,
+    "MainPhone": "(212) 683-7343",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "Can't Sleep, Inc.",
+    "Address": "540 9th Street #3",
+    "Postcode": 10034,
+    "MainPhone": "(718) 788-2561",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Park Slope-Gowanus"
+  },
+  {
+    "Organization Name": "Canteen Arts, Inc.",
+    "Address": "96 Pierrepont St. #4",
+    "Postcode": 11201,
+    "MainPhone": "(917) 975-3027",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Brooklyn Heights-Cobble Hill"
+  },
+  {
+    "Organization Name": "Caribbean Equality Project",
+    "Address": "PO BOX 200248",
+    "Postcode": 11420,
+    "MainPhone": "(347) 709-3179",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Queens",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Carnegie Hall Corporation",
+    "Address": "881 Seventh Avenue",
+    "Postcode": 10019,
+    "MainPhone": "(212) 903-9600",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "Casa Belvedere, The Italian Cultural Foundation",
+    "Address": "79 Howard Avenue",
+    "Postcode": 10301,
+    "MainPhone": "(718) 273-7660",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Staten Island",
+    "Neighborhood": "Grymes Hill-Clifton-Fox Hills"
+  },
+  {
+    "Organization Name": "Casita Maria, Inc.",
+    "Address": "928 Simpson Street",
+    "Postcode": 10459,
+    "MainPhone": "(718) 589-2230 x20",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Bronx",
+    "Neighborhood": "Hunts Point"
+  },
+  {
+    "Organization Name": "Cathedral of St. John the Divine",
+    "Address": "1047 Amsterdam Avenue",
+    "Postcode": 10025,
+    "MainPhone": "(212) 316-7493",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Morningside Heights"
+  },
+  {
+    "Organization Name": "Catholic Charities Community Services, Archdiocese of New York",
+    "Address": "1011 First Avenue",
+    "Postcode": 10022,
+    "MainPhone": "(212) 371-1000",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Bronx",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Causa Artium Limited",
+    "Address": "215 West 104th Street Box 844",
+    "Postcode": 10025,
+    "MainPhone": "(212) 203-0461",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Upper West Side"
+  },
+  {
+    "Organization Name": "Center at West Park, Inc.",
+    "Address": "165 West 86th Street",
+    "Postcode": 10024,
+    "MainPhone": "(212) 997-4490",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "Upper West Side"
+  },
+  {
+    "Organization Name": "Center for Artistic Development, Inc.",
+    "Address": "2678 east 7 street",
+    "Postcode": 11235,
+    "MainPhone": "(718) 510-2333",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Brighton Beach"
+  },
+  {
+    "Organization Name": "Center for Arts Education, Inc.",
+    "Address": "225 West 34th Street, Suite #1112",
+    "Postcode": 10122,
+    "MainPhone": "(212) 971-3300 x303",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "Center for Book Arts, Inc.",
+    "Address": "28 West 27th Street, Third Floor",
+    "Postcode": 10001,
+    "MainPhone": "(212) 481-0295",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "Center for Educational Innovation-Public Education Association",
+    "Address": "28 West 44th Street",
+    "Postcode": 10518,
+    "MainPhone": "(212) 302-8800",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Bronx",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Center for Performance Research, Inc.",
+    "Address": "361 Manhattan Avenue, Unit 1",
+    "Postcode": 11211,
+    "MainPhone": "(718) 349-1210",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Brooklyn",
+    "Neighborhood": "East Williamsburg"
+  },
+  {
+    "Organization Name": "Center for Urban Pedagogy, Inc.",
+    "Address": "232 Third Street, #D201",
+    "Postcode": 11215,
+    "MainPhone": "(718) 596-7721",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Park Slope-Gowanus"
+  },
+  {
+    "Organization Name": "CenterStage: The Queens Center for the Performing Arts, Inc.",
+    "Address": "135-32 38th Avenue",
+    "Postcode": 11354,
+    "MainPhone": "(718) 321-8496",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Queens",
+    "Neighborhood": "Flushing"
+  },
+  {
+    "Organization Name": "Central Astoria Local Development Coalition, Inc.",
+    "Address": "25-69 38th Street",
+    "Postcode": 11103,
+    "MainPhone": "(718) 728-7820",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Queens",
+    "Neighborhood": "Astoria"
+  },
+  {
+    "Organization Name": "Centro Civico Cultural Dominicano, Inc.",
+    "Address": "619 West 145th Street, 2nd Floor",
+    "Postcode": 10031,
+    "MainPhone": "(917) 405-6167",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hamilton Heights"
+  },
+  {
+    "Organization Name": "ChaRosa Foundation Corporation",
+    "Address": "P.O. Box 110279",
+    "Postcode": 11411,
+    "MainPhone": "(718) 723-1400",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Queens",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Change for Kids Inc",
+    "Address": "110 East 23rd Street",
+    "Postcode": 10010,
+    "MainPhone": "(646) 853-1791",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Bronx",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Chashama, Inc.",
+    "Address": "201 East 42nd Street, 32nd Floor",
+    "Postcode": 10017,
+    "MainPhone": "(212) 391-8151 x23",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Turtle Bay-East Midtown"
+  },
+  {
+    "Organization Name": "Chassida Shmella:  Ethiopian Jewish Community",
+    "Address": "25 Broadway, Ste. 1700",
+    "Postcode": 10004,
+    "MainPhone": "(212) 284-6532",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Battery Park City-Lower Manhattan"
+  },
+  {
+    "Organization Name": "Cherry Orchard Festival Foundation",
+    "Address": "45 Rockefeller Plaza",
+    "Postcode": 10111,
+    "MainPhone": "(800) 349-0021",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "Chhaya Community Development Corporation",
+    "Address": "37-43 77th Street",
+    "Postcode": 11372,
+    "MainPhone": "(718) 478-3848",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Queens",
+    "Neighborhood": "Jackson Heights"
+  },
+  {
+    "Organization Name": "Children of Promise, NYC",
+    "Address": "54 MacDonough St",
+    "Postcode": 11216,
+    "MainPhone": "(718) 483-9290",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Bedford"
+  },
+  {
+    "Organization Name": "Children's Arts & Science Workshops, Inc.",
+    "Address": "4320 Broadway",
+    "Postcode": 10033,
+    "MainPhone": "(212) 923-7766",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Washington Heights North"
+  },
+  {
+    "Organization Name": "China Institute in America",
+    "Address": "100 Washington Street",
+    "Postcode": 10006,
+    "MainPhone": "(212) 744-8181 x133",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Battery Park City-Lower Manhattan"
+  },
+  {
+    "Organization Name": "Chinatown Partnership Local Development Corp",
+    "Address": "60 St James Place",
+    "Postcode": 10038,
+    "MainPhone": "(212) 346-9288",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "Chinatown"
+  },
+  {
+    "Organization Name": "Chinese American Culture & Art Association",
+    "Address": "401 Broadway, Ste. 2001",
+    "Postcode": 10013,
+    "MainPhone": "(212) 750-5295",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "SoHo-TriBeCa-Civic Center-Little Italy"
+  },
+  {
+    "Organization Name": "Chinese Writers Association of New York",
+    "Address": "189-23 46 Avenue",
+    "Postcode": 11358,
+    "MainPhone": "(718) 888-2678",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Queens",
+    "Neighborhood": "Auburndale"
+  },
+  {
+    "Organization Name": "Church Street School for Music and Art, Inc.",
+    "Address": "41 White Street",
+    "Postcode": 10013,
+    "MainPhone": "(212) 571-7290",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": "SoHo-TriBeCa-Civic Center-Little Italy"
+  },
+  {
+    "Organization Name": "Circuit Productions, Inc.",
+    "Address": "635 Carroll Street, Ste. 2",
+    "Postcode": 11215,
+    "MainPhone": "(718) 638-4878",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Park Slope-Gowanus"
+  },
+  {
+    "Organization Name": "Cities at Peace, Inc.",
+    "Address": "104 West 27th Street, 12th floor",
+    "Postcode": 10001,
+    "MainPhone": "(212) 924-9204",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "Citizen Schools, Inc.",
+    "Address": "55 Exchange Place, Sixth Floor",
+    "Postcode": 10005,
+    "MainPhone": "(646) 442-3873",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Battery Park City-Lower Manhattan"
+  },
+  {
+    "Organization Name": "Citizens Committee for New York City, Inc.",
+    "Address": "77 Water St.",
+    "Postcode": 10005,
+    "MainPhone": "(212) 822-9590",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Bronx",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "City Center for Music & Drama, Inc.",
+    "Address": "20 Lincoln Center",
+    "Postcode": 10023,
+    "MainPhone": "(212) 870-4285",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "Lincoln Square"
+  },
+  {
+    "Organization Name": "City College Center for the Arts",
+    "Address": "CCNY, Office of Gov't, Comm. & Cultural Affairs",
+    "Postcode": 10031,
+    "MainPhone": "(212) 650-5362",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Manhattanville"
+  },
+  {
+    "Organization Name": "City Parks Foundation",
+    "Address": "830 Fifth Avenue, Rm. 27",
+    "Postcode": 10065,
+    "MainPhone": "(212) 360-1399",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "park-cemetery-etc-Manhattan"
+  },
+  {
+    "Organization Name": "CityKids Foundation, Inc.",
+    "Address": "57 Leonard Street",
+    "Postcode": 10013,
+    "MainPhone": "(212) 925-3320 x15",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "SoHo-TriBeCa-Civic Center-Little Italy"
+  },
+  {
+    "Organization Name": "Civil Aid Services, Inc.",
+    "Address": "P. O. Box 130287",
+    "Postcode": 10013,
+    "MainPhone": "(212) 966-3253",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Clemente Soto Velez Cultural and Educational Center, Inc.",
+    "Address": "107 Suffolk Street, Room 312",
+    "Postcode": 10002,
+    "MainPhone": "(212) 566-5600",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Lower East Side"
+  },
+  {
+    "Organization Name": "Clive Barnes Foundation Incorporated",
+    "Address": "241 West 23rd Street, 4A",
+    "Postcode": 10011,
+    "MainPhone": "(212) 463-8955",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "Club A-Elita, Inc.",
+    "Address": "2740 Cropsey Ave, 13A",
+    "Postcode": 11214,
+    "MainPhone": "(347) 495-2669",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Gravesend"
+  },
+  {
+    "Organization Name": "Coalition for Hispanic Family Services",
+    "Address": "315 Wyckoff Avenue",
+    "Postcode": 11237,
+    "MainPhone": "(718) 497-6090 x304",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Bushwick North"
+  },
+  {
+    "Organization Name": "Collected Objects, Inc.",
+    "Address": "100 Newel Street, #2R",
+    "Postcode": 11222,
+    "MainPhone": "(917) 715-8601",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Collective Unconscious",
+    "Address": "P.O. Box 2026",
+    "Postcode": 10013,
+    "MainPhone": "(212) 920-4161",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "College Community Services, Inc.",
+    "Address": "P.O. Box 100163",
+    "Postcode": 11210,
+    "MainPhone": "(718) 951-4600 x20",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Brooklyn",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Community Works, Inc.",
+    "Address": "55 West End Avenue",
+    "Postcode": 10023,
+    "MainPhone": "(212) 459-1854",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Lincoln Square"
+  },
+  {
+    "Organization Name": "Community-Word Project, Inc.",
+    "Address": "11 Broadway, Suite 508",
+    "Postcode": 10004,
+    "MainPhone": "(212) 962-3820",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Battery Park City-Lower Manhattan"
+  },
+  {
+    "Organization Name": "Coney Island History Project, Inc.",
+    "Address": "c/o Deno's Wonder Wheel Park",
+    "Postcode": 11224,
+    "MainPhone": "(718) 265-2100",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Seagate-Coney Island"
+  },
+  {
+    "Organization Name": "Coney Island Youth Alive Inc.",
+    "Address": "2953 West 33rd street",
+    "Postcode": 11224,
+    "MainPhone": "(718) 372-0361",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Seagate-Coney Island"
+  },
+  {
+    "Organization Name": "Coney Island, USA",
+    "Address": "1208 Surf Avenue",
+    "Postcode": 11224,
+    "MainPhone": "(718) 372-5159",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Seagate-Coney Island"
+  },
+  {
+    "Organization Name": "Congress for Jewish Culture, Inc.",
+    "Address": "PO Box 1590",
+    "Postcode": 10159,
+    "MainPhone": "(212) 505-8040",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Conrad Poppenhusen Association",
+    "Address": "P.O. Box 91",
+    "Postcode": 11356,
+    "MainPhone": "(718) 358-0067",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Queens",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Contemporary Ballet Theatre, Inc",
+    "Address": "861 Manida St.",
+    "Postcode": 10474,
+    "MainPhone": "(718) 623-0933",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Bronx",
+    "Neighborhood": "Hunts Point"
+  },
+  {
+    "Organization Name": "Cool Culture",
+    "Address": "80 Hanson Place, Suite 604",
+    "Postcode": 11217,
+    "MainPhone": "(718) 230-4186 x302",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Fort Greene"
+  },
+  {
+    "Organization Name": "Coopdanza, Inc.",
+    "Address": "98-05 67th Avenue, #11N",
+    "Postcode": 11374,
+    "MainPhone": "(929) 296-2862",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Queens",
+    "Neighborhood": "Forest Hills"
+  },
+  {
+    "Organization Name": "Council on the Arts and Humanities for Staten Island",
+    "Address": "P.O. Box 50197",
+    "Postcode": 10305,
+    "MainPhone": "(718) 447-3329",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Staten Island",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Creative Arts Workshops for Kids",
+    "Address": "520 Eighth Avenue",
+    "Postcode": 10018,
+    "MainPhone": "(646) 316-1657",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "Creative Center, Inc.",
+    "Address": "273 Bowery",
+    "Postcode": 10002,
+    "MainPhone": "(646) 465-5313",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": "Chinatown"
+  },
+  {
+    "Organization Name": "Creative Minds NYC, Inc.",
+    "Address": "56 Beaver Street, #205",
+    "Postcode": 10004,
+    "MainPhone": "(212) 742-8091",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Battery Park City-Lower Manhattan"
+  },
+  {
+    "Organization Name": "Creative Time, Inc.",
+    "Address": "59 East 4th Street, #6E",
+    "Postcode": 10003,
+    "MainPhone": "(212) 206-6674",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Village"
+  },
+  {
+    "Organization Name": "Cross Performance, Inc.",
+    "Address": "140 Second Avenue",
+    "Postcode": 10003,
+    "MainPhone": "(212) 260-7426",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Park Slope-Gowanus"
+  },
+  {
+    "Organization Name": "Cuala Foundation, Inc.",
+    "Address": "513 East 13 Street #15",
+    "Postcode": 10009,
+    "MainPhone": "(212) 260-2302",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Village"
+  },
+  {
+    "Organization Name": "Cuban Artists Fund",
+    "Address": "41 Union Square West",
+    "Postcode": 10003,
+    "MainPhone": "(212) 812-4200",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "Cubraiti, Inc.",
+    "Address": "1763 Second Avenue, Ste. 17P",
+    "Postcode": 10128,
+    "MainPhone": "(212) 987-4363",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Yorkville"
+  },
+  {
+    "Organization Name": "Cultural Collaborative Jamaica, Inc.",
+    "Address": "P.O. Box 311155",
+    "Postcode": 11432,
+    "MainPhone": "(718) 526-3217",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Queens",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Culture For One, Inc.",
+    "Address": "110 East 42nd Street",
+    "Postcode": 10017,
+    "MainPhone": "(516) 815-0741",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Murray Hill-Kips Bay"
+  },
+  {
+    "Organization Name": "Culture Project, Inc.",
+    "Address": "49 Bleecker Street, Ste. 602",
+    "Postcode": 10012,
+    "MainPhone": "(212) 925-1806",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "West Village"
+  },
+  {
+    "Organization Name": "Culture Push, Inc.",
+    "Address": "241 E. 7th Street",
+    "Postcode": 10009,
+    "MainPhone": "(917) 306-6363",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Lower East Side"
+  },
+  {
+    "Organization Name": "CultureNOW, Inc.",
+    "Address": "511 West 25th Street, Ste. 707",
+    "Postcode": 10001,
+    "MainPhone": "(212) 604-0900",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "DG Falu Foundation, Inc.",
+    "Address": "333 East 118th Street",
+    "Postcode": 10035,
+    "MainPhone": "(646) 705-3266",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Harlem North"
+  },
+  {
+    "Organization Name": "DOME Project, Inc.",
+    "Address": "486 Amsterdam Ave",
+    "Postcode": 10023,
+    "MainPhone": "(212) 724-1780",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Upper West Side"
+  },
+  {
+    "Organization Name": "Dance Films Association, Inc.",
+    "Address": "75 Broad Street",
+    "Postcode": 10004,
+    "MainPhone": "(212) 727-0764",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Battery Park City-Lower Manhattan"
+  },
+  {
+    "Organization Name": "Dance Project Sequence, Inc.",
+    "Address": "37-18 Northern Blvd., #315",
+    "Postcode": 11101,
+    "MainPhone": "(212) 517-4177",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Dancing Crane, Inc.",
+    "Address": "6401 20th Avenue",
+    "Postcode": 11204,
+    "MainPhone": "(914) 522-3888",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Bensonhurst West"
+  },
+  {
+    "Organization Name": "Danisar Productions, Inc.",
+    "Address": "1 Union Square South, Ste. 17M",
+    "Postcode": 10003,
+    "MainPhone": "(212) 842-2643",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "West Village"
+  },
+  {
+    "Organization Name": "Deconstructive Theatre Project, Inc.",
+    "Address": "1421 DeKalb Avenue",
+    "Postcode": 11237,
+    "MainPhone": "(646) 833-8276",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Developing Artists Theater Company",
+    "Address": "12 5th Avenue",
+    "Postcode": 10011,
+    "MainPhone": "(917) 512-7976",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "West Village"
+  },
+  {
+    "Organization Name": "Dharma Road Productions, Inc.",
+    "Address": "123 4th Ave, 2nd FL",
+    "Postcode": 10003,
+    "MainPhone": "(212) 677-8621",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Village"
+  },
+  {
+    "Organization Name": "Dinizulu Cultural Arts Institute, Inc.",
+    "Address": "171-32 Liberty Ave.",
+    "Postcode": 11433,
+    "MainPhone": "(917) 834-9900",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Queens",
+    "Neighborhood": "South Jamaica"
+  },
+  {
+    "Organization Name": "Diocese of the Armenian Church of America (Eastern)",
+    "Address": "630 Second Avenue",
+    "Postcode": 10016,
+    "MainPhone": "(212) 686-0710",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Murray Hill-Kips Bay"
+  },
+  {
+    "Organization Name": "Direct Arts, Inc.",
+    "Address": "647 East 11th Street, Apt. 2",
+    "Postcode": 10009,
+    "MainPhone": "(917) 941-7926",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Lower East Side"
+  },
+  {
+    "Organization Name": "Downtown Brooklyn Partnership",
+    "Address": "84 E 7 St. #4",
+    "Postcode": 10003,
+    "MainPhone": "(718) 403-1641",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Windsor Terrace"
+  },
+  {
+    "Organization Name": "Drag Queen Story Hour NYC Ltd.",
+    "Address": "461 Dean Street",
+    "Postcode": 11217,
+    "MainPhone": "(347) 210-7305",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Park Slope-Gowanus"
+  },
+  {
+    "Organization Name": "Drammeh Institute, Inc.",
+    "Address": "P.O. Box 558",
+    "Postcode": 10475,
+    "MainPhone": "(718) 737-1976",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Bronx",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Dream Yard Drama Project, Inc.",
+    "Address": "1085 Washington Avenue",
+    "Postcode": 10456,
+    "MainPhone": "(718) 588-8007 x3",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Bronx",
+    "Neighborhood": "Morrisania-Melrose"
+  },
+  {
+    "Organization Name": "Drumsongs Productions",
+    "Address": "P.O. Box 340716",
+    "Postcode": 11434,
+    "MainPhone": "(212) 366-6900 x201",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Queens",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "EarSay, Inc.",
+    "Address": "P.O. Box 4338",
+    "Postcode": 11104,
+    "MainPhone": "(718) 784-4066",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Queens",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Early Stages Program, Inc.",
+    "Address": "27 West 20th Street, Ste. 706",
+    "Postcode": 10011,
+    "MainPhone": "(917) 842-2572",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "Earth Celebrations, Inc.",
+    "Address": "199 Bowery Apt. 8B",
+    "Postcode": 10002,
+    "MainPhone": "(212) 777-7969",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Chinatown"
+  },
+  {
+    "Organization Name": "East Flatbush Village, Inc.",
+    "Address": "4106 Farragut Road",
+    "Postcode": 11210,
+    "MainPhone": "(718) 826-0807",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "East Flatbush-Farragut"
+  },
+  {
+    "Organization Name": "East Harlem Arts & Education Local Development Corporation",
+    "Address": "1 East 104th Street",
+    "Postcode": 10029,
+    "MainPhone": "(212) 427-2244",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Harlem South"
+  },
+  {
+    "Organization Name": "East New York United Concerned Citizens, Inc.",
+    "Address": "P.O. Box 70711",
+    "Postcode": 11207,
+    "MainPhone": "(347) 240-3049",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Brooklyn",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Edge School of the Arts Dance Legacy",
+    "Address": "147-36 94th Avenue",
+    "Postcode": 11435,
+    "MainPhone": "(347) 321-5873",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Queens",
+    "Neighborhood": "Jamaica"
+  },
+  {
+    "Organization Name": "El Puente De Williamsburg, Inc.",
+    "Address": "211 South 4th Street",
+    "Postcode": 11211,
+    "MainPhone": "(718) 387-0404",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "North Side-South Side"
+  },
+  {
+    "Organization Name": "Elastic City Performing Arts, Inc.",
+    "Address": "50 Lefferts Ave #3b",
+    "Postcode": 11225,
+    "MainPhone": "(347) 829-7779",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Prospect Lefferts Gardens-Wingate"
+  },
+  {
+    "Organization Name": "Elders Share the Arts",
+    "Address": "138 South Oxford Street",
+    "Postcode": 11217,
+    "MainPhone": "(718) 398-3870 x105",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Fort Greene"
+  },
+  {
+    "Organization Name": "Emerald Isle Immigration Center",
+    "Address": "59-26 Woodside Ave",
+    "Postcode": 11377,
+    "MainPhone": "(718) 478-5502",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Queens",
+    "Neighborhood": "Woodside"
+  },
+  {
+    "Organization Name": "Enact, Inc.",
+    "Address": "630 Ninth Avenue, Ste. 301",
+    "Postcode": 10036,
+    "MainPhone": "(212) 741-6591 x12",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "Clinton"
+  },
+  {
+    "Organization Name": "English-Speaking Union of the U.S.",
+    "Address": "144 East 39th Street",
+    "Postcode": 10016,
+    "MainPhone": "(212) 818-1200 x218",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Murray Hill-Kips Bay"
+  },
+  {
+    "Organization Name": "Ensemble for the Romantic Century",
+    "Address": "214 West 50th Street, Suite 301",
+    "Postcode": 10019,
+    "MainPhone": "(212) 288-8020",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "Episcopal Actors' Guild of America, Inc.",
+    "Address": "1 East 29th Street",
+    "Postcode": 10016,
+    "MainPhone": "(212) 685-2927",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "Esopus Foundation, Ltd.",
+    "Address": "41 Schermerhorn St #143",
+    "Postcode": 11201,
+    "MainPhone": "(212) 473-0919",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Esperanza del Barrio, Inc.",
+    "Address": "2290 Second Avenue",
+    "Postcode": 10035,
+    "MainPhone": "(212) 289-9025",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Harlem North"
+  },
+  {
+    "Organization Name": "Eugenio Maria de Hostos Community College Foundation, Inc.",
+    "Address": "450 Grand Concourse",
+    "Postcode": 10451,
+    "MainPhone": "(718) 518-4300",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Bronx",
+    "Neighborhood": "Mott Haven-Port Morris"
+  },
+  {
+    "Organization Name": "Ex.Pgirl, Inc.",
+    "Address": "366 13th Street",
+    "Postcode": 11215,
+    "MainPhone": "(212) 647-0202",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Experiments in Opera",
+    "Address": "205 23rd Street",
+    "Postcode": 11232,
+    "MainPhone": "(917) 576-1314",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Sunset Park West"
+  },
+  {
+    "Organization Name": "Exploring the Arts",
+    "Address": "34-12 36th Street",
+    "Postcode": 11106,
+    "MainPhone": "(718) 706-5020",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Queens",
+    "Neighborhood": "Astoria"
+  },
+  {
+    "Organization Name": "Exploring the Metropolis, Inc.",
+    "Address": "161-04 Jamaica Avenue",
+    "Postcode": 11432,
+    "MainPhone": "(212) 650-0211",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Queens",
+    "Neighborhood": "Jamaica"
+  },
+  {
+    "Organization Name": "Extreme Kids and Crew, Inc.",
+    "Address": "71 Sullivan Street",
+    "Postcode": 11231,
+    "MainPhone": "(347) 410-6050",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Carroll Gardens-Columbia Street-Red Hook"
+  },
+  {
+    "Organization Name": "FGP NYC INC",
+    "Address": "60-84 70th Ave",
+    "Postcode": 11385,
+    "MainPhone": "(615) 202-1686",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Fashion Center District Management Association, Inc.",
+    "Address": "209 West 38th Street, Second Floor",
+    "Postcode": 10018,
+    "MainPhone": "(212) 764-9600",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "Figment Project, Inc.",
+    "Address": "111 East 14th Street, #369",
+    "Postcode": 10003,
+    "MainPhone": "(212) 333-2203",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Gramercy"
+  },
+  {
+    "Organization Name": "Film Biz Recycling",
+    "Address": "540 President Street",
+    "Postcode": 11215,
+    "MainPhone": "(347) 384-2336",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Park Slope-Gowanus"
+  },
+  {
+    "Organization Name": "Film Fleadh Foundation",
+    "Address": "c/o 13 Designs Studio",
+    "Postcode": 11201,
+    "MainPhone": "(917) 805-3100",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Fiorello H LaGuardia Community College Auxiliary Enterprises Corporation",
+    "Address": "3110 Thomson Ave.",
+    "Postcode": 11101,
+    "MainPhone": "(718) 482-5151",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Queens",
+    "Neighborhood": "Hunters Point-Sunnyside-West Maspeth"
+  },
+  {
+    "Organization Name": "Flamenco Latino, Inc.",
+    "Address": "84-12 35th Avenue",
+    "Postcode": 11372,
+    "MainPhone": "(212) 399-8519",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Flea Theater, Inc.",
+    "Address": "41 White Street",
+    "Postcode": 10013,
+    "MainPhone": "(212) 226-0051 x104",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "SoHo-TriBeCa-Civic Center-Little Italy"
+  },
+  {
+    "Organization Name": "Flushing Council on Culture and the Arts",
+    "Address": "137-35 Northern Boulevard",
+    "Postcode": 11354,
+    "MainPhone": "(718) 463-7700",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Queens",
+    "Neighborhood": "Flushing"
+  },
+  {
+    "Organization Name": "Fordham Road District Management Association, Inc.",
+    "Address": "2530 Grand Concourse, Suite 803",
+    "Postcode": 10458,
+    "MainPhone": "(718) 562-2104",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Bronx",
+    "Neighborhood": "Bedford Park-Fordham North"
+  },
+  {
+    "Organization Name": "Forest Park Trust, Inc.",
+    "Address": "1 Forest Park",
+    "Postcode": 11421,
+    "MainPhone": "(718) 235-4151",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Queens",
+    "Neighborhood": "park-cemetery-etc-Queens"
+  },
+  {
+    "Organization Name": "Fortune Society, Inc.",
+    "Address": "2976 Northern Blvd.",
+    "Postcode": 11101,
+    "MainPhone": "(212) 691-7554",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Queens",
+    "Neighborhood": "Hunters Point-Sunnyside-West Maspeth"
+  },
+  {
+    "Organization Name": "Forward Motion Theatre, Inc.",
+    "Address": "43-01 21st Street, Ste. 230",
+    "Postcode": 11101,
+    "MainPhone": "(646) 710-0395",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Queens",
+    "Neighborhood": "Hunters Point-Sunnyside-West Maspeth"
+  },
+  {
+    "Organization Name": "Foundation for Contemporary Arts, Inc.",
+    "Address": "820 Greenwich Street",
+    "Postcode": 10014,
+    "MainPhone": "(212) 807-7077",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": "West Village"
+  },
+  {
+    "Organization Name": "Foundation for Filipino Artists, Inc.",
+    "Address": "34-67 60th Street",
+    "Postcode": 11377,
+    "MainPhone": "(718) 565-8852",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Queens",
+    "Neighborhood": "Woodside"
+  },
+  {
+    "Organization Name": "Fountain House, Inc.",
+    "Address": "425 West 47th Street",
+    "Postcode": 10036,
+    "MainPhone": "(212) 765-2294",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": "Clinton"
+  },
+  {
+    "Organization Name": "Fourth Arts Block, Inc.",
+    "Address": "61 East 4th Street",
+    "Postcode": 10003,
+    "MainPhone": "(212) 228-4670",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Village"
+  },
+  {
+    "Organization Name": "Fractured Atlas Productions, Inc.",
+    "Address": "232 3rd Street, Apt. D101",
+    "Postcode": 11215,
+    "MainPhone": "(212) 277-8020",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Franklin Furnace Archive, Inc.",
+    "Address": "80 Hanson Place, Apt. 301",
+    "Postcode": 11217,
+    "MainPhone": "(718) 398-7255",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Fort Greene"
+  },
+  {
+    "Organization Name": "Frederick Douglass Creative Arts Center",
+    "Address": "270 West 96th Street",
+    "Postcode": 10025,
+    "MainPhone": "(212) 864-3375",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Upper West Side"
+  },
+  {
+    "Organization Name": "Free Arts for Abused Children of New York City, Inc.",
+    "Address": "1431 Broadway, 7th floor",
+    "Postcode": 10018,
+    "MainPhone": "(212) 974-9092",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "French Institute-Alliance Francaise",
+    "Address": "22 East 60th Street",
+    "Postcode": 10022,
+    "MainPhone": "(646) 388-6622",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Upper East Side-Carnegie Hill"
+  },
+  {
+    "Organization Name": "FreshStart-Cultural Theatre Arts Productions, Inc.",
+    "Address": "10 Richman Plaza, Apt. 23A",
+    "Postcode": 10453,
+    "MainPhone": "(718) 716-4299",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Friends of Wingate Park, Inc.",
+    "Address": "636 Brooklyn Ave",
+    "Postcode": 11203,
+    "MainPhone": "(917) 627-7690",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Prospect Lefferts Gardens-Wingate"
+  },
+  {
+    "Organization Name": "Friends of the Nubian Conservatory of Music, Inc.",
+    "Address": "892 Eastern Parkway 1st Floor",
+    "Postcode": 11213,
+    "MainPhone": "(212) 470-6559",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Crown Heights North"
+  },
+  {
+    "Organization Name": "GRENCAP United, Inc.",
+    "Address": "4809 Avenue N",
+    "Postcode": 11234,
+    "MainPhone": "(917) 846-9843",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Flatlands"
+  },
+  {
+    "Organization Name": "General Society of Mechanics and Tradesmen of the City",
+    "Address": "20 West 44th Street",
+    "Postcode": 10036,
+    "MainPhone": "(212) 840-1840",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "Generations Project, Inc.",
+    "Address": "601 W 26th Street, Rm 325-268",
+    "Postcode": 10001,
+    "MainPhone": "(917) 341-6021",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "George Walker Jr. Community Coalition, Inc.",
+    "Address": "29 Wyona Street",
+    "Postcode": 11207,
+    "MainPhone": "(718) 484-1999",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Cypress Hills-City Line"
+  },
+  {
+    "Organization Name": "Gertrude Stein Repertory Theatre, Inc.",
+    "Address": "2647 Broadway, Suite 5W",
+    "Postcode": 10025,
+    "MainPhone": "(212) 725-0436",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "Upper West Side"
+  },
+  {
+    "Organization Name": "Gilgamesh Theatre Group, Inc.",
+    "Address": "425 West 46th Street, Apt. 3A",
+    "Postcode": 10036,
+    "MainPhone": "(917) 673-9138",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "Clinton"
+  },
+  {
+    "Organization Name": "Go Africa Network, Inc.",
+    "Address": "1760 2nd ave",
+    "Postcode": 10128,
+    "MainPhone": "(212) 987-1598",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Yorkville"
+  },
+  {
+    "Organization Name": "Goddard Riverside Community Center",
+    "Address": "593 Columbus Avenue",
+    "Postcode": 10024,
+    "MainPhone": "(212) 873-6600",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "Upper West Side"
+  },
+  {
+    "Organization Name": "Gotham Chamber Opera, Inc.",
+    "Address": "410 West 42nd Street",
+    "Postcode": 10036,
+    "MainPhone": "(212) 868-4460",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "Clinton"
+  },
+  {
+    "Organization Name": "Greater Bethel Community Development Corporation",
+    "Address": "94-15 Merrick Boulevard",
+    "Postcode": 11433,
+    "MainPhone": "(718) 523-4357",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Queens",
+    "Neighborhood": "Jamaica"
+  },
+  {
+    "Organization Name": "Greek American Educational Public Information System, Inc.",
+    "Address": "23-18 29th Street",
+    "Postcode": 11105,
+    "MainPhone": "(718) 204-8900",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Queens",
+    "Neighborhood": "Steinway"
+  },
+  {
+    "Organization Name": "Green Earth Poets Cafe, Inc.",
+    "Address": "521 St. Marks Ave",
+    "Postcode": 11238,
+    "MainPhone": "(516) 670-4868",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Crown Heights North"
+  },
+  {
+    "Organization Name": "Green-Wood Historic Fund, Inc.",
+    "Address": "500 25th Street",
+    "Postcode": 11232,
+    "MainPhone": "(718) 788-7850 x303",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "park-cemetery-etc-Brooklyn"
+  },
+  {
+    "Organization Name": "Greenwich House, Inc.",
+    "Address": "224 West 30th Street",
+    "Postcode": 10001,
+    "MainPhone": "(212) 991-0003 x201",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "Greenwich Village Youth Council",
+    "Address": "345 East 15th Street",
+    "Postcode": 10003,
+    "MainPhone": "(212) 475-7972",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "Gramercy"
+  },
+  {
+    "Organization Name": "HABNET SERVICES CORP",
+    "Address": "1401 Flatbush Avenue",
+    "Postcode": 11210,
+    "MainPhone": "(718) 360-5971",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Flatbush"
+  },
+  {
+    "Organization Name": "HEARTBEAT OPERA, LTD",
+    "Address": "804 West 180th St",
+    "Postcode": 10033,
+    "MainPhone": "(646) 246-6307",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "Washington Heights South"
+  },
+  {
+    "Organization Name": "Haiti Cultural Exchange, Inc.",
+    "Address": "c/o Five Myles Gallery",
+    "Postcode": 11238,
+    "MainPhone": "(347) 565-4429",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Halawai, Inc.",
+    "Address": "P.O. Box 250189",
+    "Postcode": 10025,
+    "MainPhone": "(646) 450-2462",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Haleakala, Inc.",
+    "Address": "512 West 19th Street",
+    "Postcode": 10011,
+    "MainPhone": "(212) 255-5793 x18",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "Harlem Arts Alliance",
+    "Address": "2312 Adam Clayton Powell, Jr. Blvd.",
+    "Postcode": 10030,
+    "MainPhone": "(347) 735-4280",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": "Central Harlem North-Polo Grounds"
+  },
+  {
+    "Organization Name": "Harlem Arts Festival",
+    "Address": "42 West 130th Street",
+    "Postcode": 10037,
+    "MainPhone": "(347) 619-3823",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Central Harlem North-Polo Grounds"
+  },
+  {
+    "Organization Name": "Harlem Children's Zone, Inc.",
+    "Address": "35 East 125th Street",
+    "Postcode": 10035,
+    "MainPhone": "(212) 360-3255",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Harlem North"
+  },
+  {
+    "Organization Name": "Harlem Globe Awards",
+    "Address": "175 Willoughby Street # 14A",
+    "Postcode": 11201,
+    "MainPhone": "(347) 815-6730",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Fort Greene"
+  },
+  {
+    "Organization Name": "Harlem School of the Arts, Inc.",
+    "Address": "645 St. Nicholas Avenue",
+    "Postcode": 10030,
+    "MainPhone": "(212) 926-4100 x311",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hamilton Heights"
+  },
+  {
+    "Organization Name": "Haven Arts Inc.",
+    "Address": "50 Bruckner Boulevard",
+    "Postcode": 10454,
+    "MainPhone": "(845) 729-5467",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Bronx",
+    "Neighborhood": "Mott Haven-Port Morris"
+  },
+  {
+    "Organization Name": "Haven of Hope Foundation, Inc.",
+    "Address": "P.O. Box 1576",
+    "Postcode": 10451,
+    "MainPhone": "(917) 361-2130",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Bronx",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Heart of Brooklyn Cultural Institutions",
+    "Address": "789 Washington Avenue",
+    "Postcode": 11238,
+    "MainPhone": "(718) 638-7700",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Prospect Heights"
+  },
+  {
+    "Organization Name": "Hendrick I Lott House Preservation Association",
+    "Address": "1940 East 36th Street",
+    "Postcode": 11234,
+    "MainPhone": "(718) 375-2681",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Georgetown-Marine Park-Bergen Beach-Mill Basin"
+  },
+  {
+    "Organization Name": "Henry Street Settlement",
+    "Address": "265 Henry Street",
+    "Postcode": 10002,
+    "MainPhone": "(212) 766-9200 x224",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Lower East Side"
+  },
+  {
+    "Organization Name": "High 5 Tickets to the Arts",
+    "Address": "1 East 53rd Street, 5th Floor",
+    "Postcode": 10022,
+    "MainPhone": "(212) 750-0555 x201",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "Hindu Community Outreach",
+    "Address": "45-57 Bowne Street",
+    "Postcode": 11355,
+    "MainPhone": "(718) 460-8484 x17",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Queens",
+    "Neighborhood": "East Flushing"
+  },
+  {
+    "Organization Name": "Hindu Temple Society of North America",
+    "Address": "45-57 Bowne Street",
+    "Postcode": 11355,
+    "MainPhone": "(718) 460-8492",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Queens",
+    "Neighborhood": "East Flushing"
+  },
+  {
+    "Organization Name": "Hip Hop Theatre Festival",
+    "Address": "442D Lorimer Street  #195",
+    "Postcode": 11206,
+    "MainPhone": "(718) 497-4282",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "East Williamsburg"
+  },
+  {
+    "Organization Name": "Hip-Hop Association",
+    "Address": "545 8th Avenue, 10th Floor",
+    "Postcode": 10018,
+    "MainPhone": "(718) 682-2744",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "Hispanic Organization of Latin Actors",
+    "Address": "107 Suffolk Street, Room 302",
+    "Postcode": 10002,
+    "MainPhone": "(212) 253-1015",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": "Lower East Side"
+  },
+  {
+    "Organization Name": "Home for Contemporary Theatre & Art, Ltd.",
+    "Address": "145 Sixth Avenue",
+    "Postcode": 10013,
+    "MainPhone": "(212) 647-0202 x309",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "SoHo-TriBeCa-Civic Center-Little Italy"
+  },
+  {
+    "Organization Name": "Hook Arts Media, Inc.",
+    "Address": "480 Van Brunt Street, Ste. 203",
+    "Postcode": 11231,
+    "MainPhone": "(718) 643-6790 x111",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Carroll Gardens-Columbia Street-Red Hook"
+  },
+  {
+    "Organization Name": "Horticultural Society of New York",
+    "Address": "148 West 37th Street, 13th Floor",
+    "Postcode": 10018,
+    "MainPhone": "(212) 757-0915 x108",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "Hospital Audiences, Inc.",
+    "Address": "33-02 Skillman Avenue",
+    "Postcode": 11101,
+    "MainPhone": "(212) 575-7676",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Queens",
+    "Neighborhood": "Hunters Point-Sunnyside-West Maspeth"
+  },
+  {
+    "Organization Name": "House Foundation for the Arts, Inc.",
+    "Address": "260 West Broadway",
+    "Postcode": 10013,
+    "MainPhone": "(212) 904-1330",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "SoHo-TriBeCa-Civic Center-Little Italy"
+  },
+  {
+    "Organization Name": "Howard Otway and Florence Otway Opportunity Project, Inc.",
+    "Address": "80 St. Marks Place",
+    "Postcode": 10003,
+    "MainPhone": "(973) 747-7520",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Village"
+  },
+  {
+    "Organization Name": "Howl Arts, Inc.",
+    "Address": "P.O. Box 1606",
+    "Postcode": 10276,
+    "MainPhone": "(212) 334-6414",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Hudson Guild, Inc.",
+    "Address": "441 West 26th Street",
+    "Postcode": 10001,
+    "MainPhone": "(212) 760-9804",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "Hungarian Theatre & Art Association Inc.",
+    "Address": "32-22 91 St. #301",
+    "Postcode": 11369,
+    "MainPhone": "(646) 228-0050",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Hunts Point Alliance for Children",
+    "Address": "PO Box 740190",
+    "Postcode": 10474,
+    "MainPhone": "(718) 620-2824",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Bronx",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "I'RAISE Girls & Boys International Corporation",
+    "Address": "3640 White Plains Road",
+    "Postcode": 10467,
+    "MainPhone": "(718) 725-8996",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Ifetayo Cultural Arts Facility, Inc.",
+    "Address": "495 Flatbush Avenue, Floor 2",
+    "Postcode": 11225,
+    "MainPhone": "(718) 856-1123 x11",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Prospect Lefferts Gardens-Wingate"
+  },
+  {
+    "Organization Name": "Imagine Project Inc",
+    "Address": "540 ocean parkway 4k",
+    "Postcode": 11218,
+    "MainPhone": "(718) 851-8091",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Immediate Medium",
+    "Address": "P.O. Box 1138",
+    "Postcode": 10276,
+    "MainPhone": "(646) 526-4523",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Queens",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Immigrant Adult Support Center",
+    "Address": "10 St. Paul Place",
+    "Postcode": 11226,
+    "MainPhone": "(718) 940-5295",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Flatbush"
+  },
+  {
+    "Organization Name": "Immigrant Social Services, Inc.",
+    "Address": "137 Henry Street, First Floor",
+    "Postcode": 10002,
+    "MainPhone": "(212) 571-1840 x15",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": "Lower East Side"
+  },
+  {
+    "Organization Name": "InCollaboration, Inc.",
+    "Address": "29-27 Queens Plaza North, Ste. 301",
+    "Postcode": 11101,
+    "MainPhone": "(718) 391-0354",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Queens",
+    "Neighborhood": "Queensbridge-Ravenswood-Long Island City"
+  },
+  {
+    "Organization Name": "Incorporation of Artists on the Move, Inc.",
+    "Address": "118 West 114th Street, Apt. 1E",
+    "Postcode": 10026,
+    "MainPhone": "(212) 665-5313",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Central Harlem South"
+  },
+  {
+    "Organization Name": "India Center Foundation, Inc.",
+    "Address": "P.O. Box 25163",
+    "Postcode": 11202,
+    "MainPhone": "(917) 209-1598",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Indo-American Arts Council, Inc.",
+    "Address": "303 Fifth Avenue, Room #1007",
+    "Postcode": 10016,
+    "MainPhone": "(212) 594-3685",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "Infopower International Inc.",
+    "Address": "1817 Gateway Blvd",
+    "Postcode": 11691,
+    "MainPhone": "(347) 606-5441",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Queens",
+    "Neighborhood": "Far Rockaway-Bayswater"
+  },
+  {
+    "Organization Name": "Innovative Charitable Initiative, Inc.",
+    "Address": "1361 Amsterdam Avenue",
+    "Postcode": 10027,
+    "MainPhone": "(212) 222-2792",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": "Manhattanville"
+  },
+  {
+    "Organization Name": "Inquiring Minds Institute",
+    "Address": "321 Adelphi Street",
+    "Postcode": 11205,
+    "MainPhone": "(347) 227-7004",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Fort Greene"
+  },
+  {
+    "Organization Name": "Institute for Multicultural Communication Coop & Development",
+    "Address": "4 West 43rd St",
+    "Postcode": 10036,
+    "MainPhone": "(646) 657-0039",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "International African Arts Festival",
+    "Address": "P.O. Box 47-1730",
+    "Postcode": 11247,
+    "MainPhone": "(718) 638-6700",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "International Agency for Minority Artists Affairs, Inc.",
+    "Address": "Adam Clayton Powell, Jr. State Office Building",
+    "Postcode": 10027,
+    "MainPhone": "(212) 749-5298",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "International Arts Movement, Inc.",
+    "Address": "Space 38|39",
+    "Postcode": 10018,
+    "MainPhone": "(646) 261-2859",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "International Society for the Performing Arts Foundation",
+    "Address": "630 9th Avenue",
+    "Postcode": 10036,
+    "MainPhone": "(212) 206-8490",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "Clinton"
+  },
+  {
+    "Organization Name": "International Youth Leadership Institute",
+    "Address": "127 West 127 Street",
+    "Postcode": 10027,
+    "MainPhone": "(212) 222-0404",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Central Harlem North-Polo Grounds"
+  },
+  {
+    "Organization Name": "Inwood Art Works Inc",
+    "Address": "97 Park Terrace West",
+    "Postcode": 10034,
+    "MainPhone": "(513) 290-9003",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Marble Hill-Inwood"
+  },
+  {
+    "Organization Name": "Island Kids, Inc.",
+    "Address": "P.O. Box 2, Island Station",
+    "Postcode": 10044,
+    "MainPhone": "(212) 421-3512",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Island Voice, Inc.",
+    "Address": "P.O. Box 141274",
+    "Postcode": 10314,
+    "MainPhone": "(718) 273-7736",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Staten Island",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "J. Mandle Performance, Inc.",
+    "Address": "232 Third Street, Studio D0A",
+    "Postcode": 11215,
+    "MainPhone": "(917) 319-5897",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Park Slope-Gowanus"
+  },
+  {
+    "Organization Name": "Jack Arts, Inc.",
+    "Address": "c/o Alec Duffy",
+    "Postcode": "11238-2514",
+    "MainPhone": "(646) 734-8985",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Brooklyn",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Jamaica Center for Arts & Learning, Inc.",
+    "Address": "161-04 Jamaica Avenue",
+    "Postcode": 11432,
+    "MainPhone": "(718) 658-7400",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Queens",
+    "Neighborhood": "Jamaica"
+  },
+  {
+    "Organization Name": "Japan Performing Arts, Inc.",
+    "Address": "235 West 48th St., #19G",
+    "Postcode": 10036,
+    "MainPhone": "(212) 262-0234",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "Japanese Folk Dance Institute of New York, Inc.",
+    "Address": "568 Grand Street, #J-1206",
+    "Postcode": 10002,
+    "MainPhone": "(212) 982-6952",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "Lower East Side"
+  },
+  {
+    "Organization Name": "Jewish Community Center in Manhattan, Inc.",
+    "Address": "334 Amsterdam Avenue",
+    "Postcode": 10023,
+    "MainPhone": "(646) 505-4471",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Upper West Side"
+  },
+  {
+    "Organization Name": "Jiva Performing Arts, Inc.",
+    "Address": "450 9th Street",
+    "Postcode": 11215,
+    "MainPhone": "(646) 251-7463",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Park Slope-Gowanus"
+  },
+  {
+    "Organization Name": "John Jay College Foundation",
+    "Address": "899 Tenth Avenue",
+    "Postcode": 10019,
+    "MainPhone": "(212) 237-8321",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "Lincoln Square"
+  },
+  {
+    "Organization Name": "Jonah Bokaer Arts Foundation, Inc.",
+    "Address": "304 Boerum Street, Apt. 23",
+    "Postcode": 11206,
+    "MainPhone": "(917) 459-1072",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Bushwick South"
+  },
+  {
+    "Organization Name": "Judson Memorial Church Inc",
+    "Address": "239 Thompson St",
+    "Postcode": 10012,
+    "MainPhone": "(212) 477-0351",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "West Village"
+  },
+  {
+    "Organization Name": "Jurukan, Inc.",
+    "Address": "118-17 Union Tpke",
+    "Postcode": 11375,
+    "MainPhone": "(347) 955-2745",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Queens",
+    "Neighborhood": "Forest Hills"
+  },
+  {
+    "Organization Name": "KRVC Development Corporation",
+    "Address": "505 West 236th Street",
+    "Postcode": 10463,
+    "MainPhone": "(718) 543-7100",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Bronx",
+    "Neighborhood": "Spuyten Duyvil-Kingsbridge"
+  },
+  {
+    "Organization Name": "Kathak Ensemble & Friends Caravan, Inc.",
+    "Address": "141 East 3rd Street, Apt. 12-H",
+    "Postcode": 10009,
+    "MainPhone": "(212) 673-1282",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Village"
+  },
+  {
+    "Organization Name": "Kaufman Arts District Foundation",
+    "Address": "c/o Kaufman Astoria Studios",
+    "Postcode": 11106,
+    "MainPhone": "(718) 705-5075",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Queens",
+    "Neighborhood": "Astoria"
+  },
+  {
+    "Organization Name": "Kids Creative 404, Inc.",
+    "Address": "2014 5th Avenue",
+    "Postcode": 10035,
+    "MainPhone": "(646) 485-5123",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Central Harlem South"
+  },
+  {
+    "Organization Name": "Kings Bay YM-YWHA, Inc.",
+    "Address": "3495 Nostrand Avenue",
+    "Postcode": 11229,
+    "MainPhone": "(718) 648-7703",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Sheepshead Bay-Gerritsen Beach-Manhattan Beach"
+  },
+  {
+    "Organization Name": "Kings Majestic Corporation",
+    "Address": "1000 Dean Street Suite 232",
+    "Postcode": 11238,
+    "MainPhone": "(718) 304-1048",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Crown Heights North"
+  },
+  {
+    "Organization Name": "Kingsborough Community College Auxiliary Enterprises Corp.",
+    "Address": "2001 Oriental Boulevard, #A205",
+    "Postcode": 11235,
+    "MainPhone": "(718) 368-4539",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Sheepshead Bay-Gerritsen Beach-Manhattan Beach"
+  },
+  {
+    "Organization Name": "Kingsbridge Heights Community Center, Inc.",
+    "Address": "3101 Kingsbridge Terrace",
+    "Postcode": 10463,
+    "MainPhone": "(718) 884-0700 x111",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Bronx",
+    "Neighborhood": "Van Cortlandt Village"
+  },
+  {
+    "Organization Name": "Knowledge Project",
+    "Address": "111 John Street, Suite 1070",
+    "Postcode": 10038,
+    "MainPhone": "(212) 346-9933",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "Battery Park City-Lower Manhattan"
+  },
+  {
+    "Organization Name": "KowTeff School of African Dance",
+    "Address": "168 Macon Street",
+    "Postcode": 11216,
+    "MainPhone": "(718) 789-5870",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Bedford"
+  },
+  {
+    "Organization Name": "Kupferberg Center Performances",
+    "Address": "65-30 Kissena Boulevard",
+    "Postcode": 11367,
+    "MainPhone": "(718) 997-2785",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Queens",
+    "Neighborhood": "Kew Gardens Hills"
+  },
+  {
+    "Organization Name": "LEA",
+    "Address": "341 Wadsworth Avenue, Suite B",
+    "Postcode": 10040,
+    "MainPhone": "(212) 543-0682",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": "Washington Heights North"
+  },
+  {
+    "Organization Name": "LEMUR",
+    "Address": "461 Third Avenue",
+    "Postcode": 11215,
+    "MainPhone": "(212) 431-1130 x12",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Park Slope-Gowanus"
+  },
+  {
+    "Organization Name": "La Casa de la Herencia Cultural Puertorriquena",
+    "Address": "1230 Fifth Avenue, Ste. 458",
+    "Postcode": 10029,
+    "MainPhone": "(212) 722-2600",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Harlem South"
+  },
+  {
+    "Organization Name": "La Troupe Makandal, Inc.",
+    "Address": "621 Rutland Road, Apt. 4C",
+    "Postcode": 11203,
+    "MainPhone": "(718) 953-6638",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Prospect Lefferts Gardens-Wingate"
+  },
+  {
+    "Organization Name": "LaGuardia Performing Arts Center",
+    "Address": "31-10 Thomson Avenue, Room E413",
+    "Postcode": 11101,
+    "MainPhone": "(718) 482-5301",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Queens",
+    "Neighborhood": "Hunters Point-Sunnyside-West Maspeth"
+  },
+  {
+    "Organization Name": "Latin American Cultural Center of Queens, Inc.",
+    "Address": "120-55 Queens Boulevard, Room 333",
+    "Postcode": 11424,
+    "MainPhone": "(718) 261-7664",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Queens",
+    "Neighborhood": "Kew Gardens"
+  },
+  {
+    "Organization Name": "Latin American Intercultural Alliance",
+    "Address": "86-28 110th Street",
+    "Postcode": 11418,
+    "MainPhone": "(347) 995-2745",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Queens",
+    "Neighborhood": "Richmond Hill"
+  },
+  {
+    "Organization Name": "Learning Through an Expanded Arts Program, Inc.",
+    "Address": "535 Eighth Avenue, Suite 1100",
+    "Postcode": 10018,
+    "MainPhone": "(212) 769-4160 x7",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "Legacy Center",
+    "Address": "P.O. Box 690136",
+    "Postcode": 10469,
+    "MainPhone": "(917) 634-9200",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Bronx",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Legros Cultural Arts, Inc.",
+    "Address": "146-28 225 Street",
+    "Postcode": 11413,
+    "MainPhone": "(917) 741-2992",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Lehman College Center for the Performing Arts, Inc.",
+    "Address": "250 Bedford Park Boulevard West",
+    "Postcode": 10468,
+    "MainPhone": "(718) 960-8490",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Bronx",
+    "Neighborhood": "Van Cortlandt Village"
+  },
+  {
+    "Organization Name": "Lesbian and Gay Community Services Center, Inc.",
+    "Address": "208 West 13th Street",
+    "Postcode": 10011,
+    "MainPhone": "(212) 620-7310 x244",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "West Village"
+  },
+  {
+    "Organization Name": "Liberata Dance Theatre, Inc.",
+    "Address": "440 West 34th Street, Apt. 13G",
+    "Postcode": 10001,
+    "MainPhone": "(212) 971-6054",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "Liberian Cultural Association, Inc.",
+    "Address": "361 Van Duzer Street",
+    "Postcode": 10304,
+    "MainPhone": "(347) 893-3393",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Staten Island",
+    "Neighborhood": "Stapleton-Rosebank"
+  },
+  {
+    "Organization Name": "Urban Archive, Inc.",
+    "Address": "123 Bowery",
+    "Postcode": 10002,
+    "MainPhone": "(631) 645-8363",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": "Chinatown"
+  },
+  {
+    "Organization Name": "Library Action Committee of Corona-East Elmhurst, Inc.",
+    "Address": "100-01 Northern Boulevard",
+    "Postcode": 11368,
+    "MainPhone": "(718) 651-1100",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Queens",
+    "Neighborhood": "East Elmhurst"
+  },
+  {
+    "Organization Name": "Life of Hope, Inc.",
+    "Address": "710 E. 37 Street",
+    "Postcode": 11203,
+    "MainPhone": "(917) 216-3137",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "East Flatbush-Farragut"
+  },
+  {
+    "Organization Name": "Light Opera of New York, Inc.",
+    "Address": "Light Opera of New York",
+    "Postcode": 10101,
+    "MainPhone": "(610) 613-4793",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Lincoln Center for the Performing Arts, Inc.",
+    "Address": "165 West 65th Street",
+    "Postcode": 10023,
+    "MainPhone": "(212) 875-5000",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "Lincoln Square"
+  },
+  {
+    "Organization Name": "Living Arts Productions",
+    "Address": "731 West 183rd Street #3-l",
+    "Postcode": 10033,
+    "MainPhone": "(914) 961-8822",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "Washington Heights North"
+  },
+  {
+    "Organization Name": "Local Project",
+    "Address": "11-27 44th Road",
+    "Postcode": 11101,
+    "MainPhone": "(646) 298-0969",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Queens",
+    "Neighborhood": "Hunters Point-Sunnyside-West Maspeth"
+  },
+  {
+    "Organization Name": "Lodyjensky Immigration Archive Center of Russian & Ukrainian Culture, Inc.",
+    "Address": "1679 East 3 street, Apt 601",
+    "Postcode": 11230,
+    "MainPhone": "(718) 594-4800",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Ocean Parkway South"
+  },
+  {
+    "Organization Name": "Loisaida, Inc.",
+    "Address": "300 E 175th Street",
+    "Postcode": 10457,
+    "MainPhone": "(646) 757-0522",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Long Island City Cultural Alliance",
+    "Address": "P. O. Box 1858",
+    "Postcode": 11101,
+    "MainPhone": "(917) 558-4800",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Queens",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Looking Glass Productions of New York, Inc.",
+    "Address": "812 Broadway, 3rd Floor",
+    "Postcode": 10003,
+    "MainPhone": "(212) 420-9208",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "West Village"
+  },
+  {
+    "Organization Name": "Love Fellowship Tabernacle, Inc.",
+    "Address": "464 Liberty Avenue",
+    "Postcode": 11207,
+    "MainPhone": "(718) 235-2266",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Brooklyn",
+    "Neighborhood": "East New York"
+  },
+  {
+    "Organization Name": "Lower East Side Conservancy",
+    "Address": "235 East Broadway",
+    "Postcode": 10002,
+    "MainPhone": "(212) 233-6037",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": "Lower East Side"
+  },
+  {
+    "Organization Name": "Lower East Side District Management Association",
+    "Address": "54 Orchard Street",
+    "Postcode": 10002,
+    "MainPhone": "(212) 226-9010",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Chinatown"
+  },
+  {
+    "Organization Name": "Lower East Side Girls Club",
+    "Address": "101 Avenue D",
+    "Postcode": 10009,
+    "MainPhone": "(212) 982-1633 x104",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Lower East Side"
+  },
+  {
+    "Organization Name": "Lower East Side Performing Arts, Inc.",
+    "Address": "268 East Broadway",
+    "Postcode": 10002,
+    "MainPhone": "(212) 388-0202",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "Lower East Side"
+  },
+  {
+    "Organization Name": "Lower Manhattan Cultural Council",
+    "Address": "125 Maiden Lane, 2nd floor",
+    "Postcode": 10038,
+    "MainPhone": "(212) 219-9401 x103",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": "Battery Park City-Lower Manhattan"
+  },
+  {
+    "Organization Name": "MAP Fund, Inc.",
+    "Address": "577 Grand",
+    "Postcode": 10002,
+    "MainPhone": "(212) 226-1677",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "MAPP International Productions, Inc.",
+    "Address": "140 Second Avenue",
+    "Postcode": 10003,
+    "MainPhone": "(646) 602-9390",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Village"
+  },
+  {
+    "Organization Name": "Madison Square Park Conservancy",
+    "Address": "11 Madison Avenue",
+    "Postcode": 10010,
+    "MainPhone": "(212) 538-7150",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "Magic Box Productions, Inc.",
+    "Address": "320 Central Park West, Apt. 19B",
+    "Postcode": 10025,
+    "MainPhone": "(718) 809-7405",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": "Upper West Side"
+  },
+  {
+    "Organization Name": "Main Street Theatre & Dance Alliance",
+    "Address": "548 Main Street",
+    "Postcode": 10044,
+    "MainPhone": "(212) 371-4449",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "Lenox Hill-Roosevelt Island"
+  },
+  {
+    "Organization Name": "Major Music International Corporation",
+    "Address": "114-04 Farmers Boulevard",
+    "Postcode": 11412,
+    "MainPhone": "(917) 865-9376",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Queens",
+    "Neighborhood": "St. Albans"
+  },
+  {
+    "Organization Name": "Makam New York, Inc.",
+    "Address": "1800 7th Ave #7C",
+    "Postcode": 10026,
+    "MainPhone": "(646) 522-9285",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Central Harlem South"
+  },
+  {
+    "Organization Name": "Make the Road New York",
+    "Address": "301 Grove Street",
+    "Postcode": 11237,
+    "MainPhone": "(718) 418-7690",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Bushwick North"
+  },
+  {
+    "Organization Name": "Manna House Workshops, Inc.",
+    "Address": "338 East 106th Street",
+    "Postcode": 10029,
+    "MainPhone": "(212) 722-8223",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Harlem South"
+  },
+  {
+    "Organization Name": "Mano a Mano: Mexican Culture Without Borders",
+    "Address": "126 St. Felix Street",
+    "Postcode": "11217-1423",
+    "MainPhone": "(212) 587-3070",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Marcus Garvey Park Alliance",
+    "Address": "17 West 121, Apt 3",
+    "Postcode": 10027,
+    "MainPhone": "(917) 797-9938",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Mare Nostrum Elements, Inc.",
+    "Address": "39-48 64th Street, 2nd Floor",
+    "Postcode": 11377,
+    "MainPhone": "(718) 545-6665",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Queens",
+    "Neighborhood": "Woodside"
+  },
+  {
+    "Organization Name": "Marine Park Community Association",
+    "Address": "3221 Avenue S",
+    "Postcode": 11234,
+    "MainPhone": "(718) 382-1657",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Georgetown-Marine Park-Bergen Beach-Mill Basin"
+  },
+  {
+    "Organization Name": "Marquis Studios, Ltd.",
+    "Address": "20 Jay Street",
+    "Postcode": 11201,
+    "MainPhone": "(718) 694-9400",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill"
+  },
+  {
+    "Organization Name": "Mary Miss / City as Living Laboratory",
+    "Address": "349 Greenwich Street, #5",
+    "Postcode": 10013,
+    "MainPhone": "(212) 966-4287",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": "SoHo-TriBeCa-Civic Center-Little Italy"
+  },
+  {
+    "Organization Name": "Maspeth Town Hall, Inc.",
+    "Address": "53-37 72nd Street",
+    "Postcode": 11378,
+    "MainPhone": "(718) 335-6049",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Queens",
+    "Neighborhood": "Maspeth"
+  },
+  {
+    "Organization Name": "McDougald Jackson Leake Community Development Corporation",
+    "Address": "P.O. Box 488",
+    "Postcode": 10453,
+    "MainPhone": "(347) 409-0288",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Bronx",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Mekong, Inc.",
+    "Address": "2471 University Avenue",
+    "Postcode": 10468,
+    "MainPhone": "(347) 918-9220",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Bronx",
+    "Neighborhood": "Kingsbridge Heights"
+  },
+  {
+    "Organization Name": "Mercy Corps",
+    "Address": "75 Broad Street",
+    "Postcode": 10004,
+    "MainPhone": "(212) 537-0508",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": "Battery Park City-Lower Manhattan"
+  },
+  {
+    "Organization Name": "Metropolitan Historic Structures Association",
+    "Address": "232 East 11th Street",
+    "Postcode": 10003,
+    "MainPhone": "(718) 343-8830",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Village"
+  },
+  {
+    "Organization Name": "Metropolitan Opera Guild, Inc.",
+    "Address": "70 Lincoln Center Plaza, Sixth Floor",
+    "Postcode": 10023,
+    "MainPhone": "(212) 769-7069",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Lincoln Square"
+  },
+  {
+    "Organization Name": "MiShinnah Productions, Inc",
+    "Address": "435 E. 76th Street #3D",
+    "Postcode": 10021,
+    "MainPhone": "(917) 664-9696",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "Lenox Hill-Roosevelt Island"
+  },
+  {
+    "Organization Name": "Mid-Bronx Senior Citizens Council, Inc.",
+    "Address": "900 Grand Concourse",
+    "Postcode": 10451,
+    "MainPhone": "(718) 588-8200",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Bronx",
+    "Neighborhood": "East Concourse-Concourse Village"
+  },
+  {
+    "Organization Name": "Millennium Dance Company",
+    "Address": "138 west 180th street",
+    "Postcode": 10453,
+    "MainPhone": "(718) 993-2555",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Bronx",
+    "Neighborhood": "University Heights-Morris Heights"
+  },
+  {
+    "Organization Name": "Mind-Builders Creative Arts Center",
+    "Address": "333 E. 206th St",
+    "Postcode": 10467,
+    "MainPhone": "(718) 652-6256 x11",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Bronx",
+    "Neighborhood": "Norwood"
+  },
+  {
+    "Organization Name": "More Art, Inc.",
+    "Address": "71 Nassau Street, Apt. 13A",
+    "Postcode": 10038,
+    "MainPhone": "(212) 260-7607",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": "Battery Park City-Lower Manhattan"
+  },
+  {
+    "Organization Name": "Moving Theater, Inc.",
+    "Address": "P.O. Box 1449",
+    "Postcode": 10150,
+    "MainPhone": "(917) 553-5645",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Brooklyn",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Music-Theatre Group, Inc.",
+    "Address": "20 Jay Street",
+    "Postcode": 11201,
+    "MainPhone": "(718) 797-1145",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "SoHo-TriBeCa-Civic Center-Little Italy"
+  },
+  {
+    "Organization Name": "Muslim American Leadership Alliance",
+    "Address": "79 Madison Ave",
+    "Postcode": 10016,
+    "MainPhone": "(312) 451-8066",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "NIA Community Services Network, Inc.",
+    "Address": "6614 11th Avenue",
+    "Postcode": 11219,
+    "MainPhone": "(718) 236-5266",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Dyker Heights"
+  },
+  {
+    "Organization Name": "NIGERIAN-AMERICAN COMMUNITY ASSOCIATION (USA), INC.",
+    "Address": "295 Granite Avenue",
+    "Postcode": 10303,
+    "MainPhone": "(718) 273-8778",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Staten Island",
+    "Neighborhood": "Mariner's Harbor-Arlington-Port Ivory-Graniteville"
+  },
+  {
+    "Organization Name": "NY Tibetan Service Center, Inc.",
+    "Address": "8302A Broadway",
+    "Postcode": 11373,
+    "MainPhone": "(718) 278-8700",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Queens",
+    "Neighborhood": "Elmhurst-Maspeth"
+  },
+  {
+    "Organization Name": "NY de Volunteer, Inc.",
+    "Address": "209 E. 2nd St.",
+    "Postcode": 10009,
+    "MainPhone": "(212) 932-7208",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": "Lower East Side"
+  },
+  {
+    "Organization Name": "NYC Kids Project",
+    "Address": "311 West 24th Street",
+    "Postcode": 10011,
+    "MainPhone": "(646) 766-3456",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "NYC KidsFest",
+    "Address": "61 Lenox Avenue, Apt. 5A",
+    "Postcode": 10026,
+    "MainPhone": "(646) 229-1900",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "Central Harlem South"
+  },
+  {
+    "Organization Name": "NYLaughs, Inc.",
+    "Address": "PO Box 1503",
+    "Postcode": 10113,
+    "MainPhone": "(917) 727-5233",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Nascenta Ltd",
+    "Address": "119 W 57th St",
+    "Postcode": 10019,
+    "MainPhone": "(631) 377-9057",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "National Arts Club",
+    "Address": "15 Gramercy Park South",
+    "Postcode": 10003,
+    "MainPhone": "(212) 475-3424",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Gramercy"
+  },
+  {
+    "Organization Name": "National Council of Jewish Women New York Section",
+    "Address": "820 Second Avenue",
+    "Postcode": 10017,
+    "MainPhone": "(212) 799-7205 x18",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Turtle Bay-East Midtown"
+  },
+  {
+    "Organization Name": "National Guild for Community Arts Education, Inc.",
+    "Address": "520 Eighth Avenue, Suite 302",
+    "Postcode": 10018,
+    "MainPhone": "(212) 268-3337 x15",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "National Urban League, Inc.",
+    "Address": "80 Pine Street, 9th Floor",
+    "Postcode": 10005,
+    "MainPhone": "(212) 558-5394",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": "Battery Park City-Lower Manhattan"
+  },
+  {
+    "Organization Name": "Naturally Occurring Cultural Districts NY",
+    "Address": "88 Prospect Park West #3D",
+    "Postcode": 11215,
+    "MainPhone": "(347) 512-6612",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Park Slope-Gowanus"
+  },
+  {
+    "Organization Name": "New Africa Live",
+    "Address": "P.O. Box 193",
+    "Postcode": 10011,
+    "MainPhone": "(917) 687-8774",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "New Art Publications",
+    "Address": "80 Hanson Place, Ste. 703",
+    "Postcode": 11217,
+    "MainPhone": "(718) 636-9100",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Fort Greene"
+  },
+  {
+    "Organization Name": "New Camerata Opera Inc",
+    "Address": "9 Seaman Avenue",
+    "Postcode": 10034,
+    "MainPhone": "(860) 836-5157",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "Marble Hill-Inwood"
+  },
+  {
+    "Organization Name": "New Heritage Theatre Group",
+    "Address": "229 West 135 Street",
+    "Postcode": 10030,
+    "MainPhone": "(212) 926-2550",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "Central Harlem North-Polo Grounds"
+  },
+  {
+    "Organization Name": "New Radio and Performing Arts, Inc.",
+    "Address": "129 Tysen Street",
+    "Postcode": 10301,
+    "MainPhone": "(617) 522-3856",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Staten Island",
+    "Neighborhood": "West New Brighton-New Brighton-St. George"
+  },
+  {
+    "Organization Name": "New Triad for Collborative Arts, Inc.",
+    "Address": "P.O. Box 237136",
+    "Postcode": 10023,
+    "MainPhone": "(347) 350-7476",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "New Way Circus Center, Inc.",
+    "Address": "2820 Ocean Parkway, Suite 21E",
+    "Postcode": 11235,
+    "MainPhone": "(718) 266-0202",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Brooklyn",
+    "Neighborhood": "West Brighton"
+  },
+  {
+    "Organization Name": "New York African Chorus Ensemble, Inc.",
+    "Address": "515 West 151st Street, Ste. 2W",
+    "Postcode": 10031,
+    "MainPhone": "(212) 862-4858",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hamilton Heights"
+  },
+  {
+    "Organization Name": "New York Chinese Cultural Center, Inc.",
+    "Address": "137 Henry Street",
+    "Postcode": 10002,
+    "MainPhone": "(212) 334-3764 x13",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Lower East Side"
+  },
+  {
+    "Organization Name": "New York City Center, Inc.",
+    "Address": "130 West 56th Street",
+    "Postcode": 10019,
+    "MainPhone": "(212) 247-0430",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "New York City H2O Inc.",
+    "Address": "PO Box 20773",
+    "Postcode": 10009,
+    "MainPhone": "(917) 656-2984",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "New York Dance & Arts Innovations, Inc.",
+    "Address": "127 West 78th Street, #4",
+    "Postcode": 10024,
+    "MainPhone": "(203) 509-9062",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "Upper West Side"
+  },
+  {
+    "Organization Name": "New York Edge",
+    "Address": "58-12 Queens Blvd",
+    "Postcode": 11377,
+    "MainPhone": "(347) 738-3608",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "New York Film & Music Foundation",
+    "Address": "372 FIFTH AVENUE, 3J",
+    "Postcode": 10018,
+    "MainPhone": "(212) 245-3444",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "New York Revels, Inc.",
+    "Address": "P.O. Box 170120",
+    "Postcode": 11217,
+    "MainPhone": "(718) 399-9282",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Brooklyn",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "New York Shakespeare Exchange",
+    "Address": "476 Waverly Ave",
+    "Postcode": 11238,
+    "MainPhone": "(917) 428-0065",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Clinton Hill"
+  },
+  {
+    "Organization Name": "New York State Institute on Disability",
+    "Address": "930 Willowbrook Road",
+    "Postcode": 10314,
+    "MainPhone": "(718) 494-6457",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Staten Island",
+    "Neighborhood": "New Springville-Bloomfield-Travis"
+  },
+  {
+    "Organization Name": "New York WEB Center, Inc.",
+    "Address": "402 Eastern Parkway",
+    "Postcode": 11225,
+    "MainPhone": "(718) 773-7765",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Crown Heights South"
+  },
+  {
+    "Organization Name": "Nicole Paultre Bell When It's Real It's Forever Fund, Inc.",
+    "Address": "P.O. Box 900537",
+    "Postcode": 11690,
+    "MainPhone": "(631) 639-8967",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Queens",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Nicu's Spoon",
+    "Address": "P.O. Box 2058",
+    "Postcode": 10163,
+    "MainPhone": "(212) 245-6467",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Nitchen, Inc.",
+    "Address": "550 West 155th Street",
+    "Postcode": 10032,
+    "MainPhone": "(646) 330-2125",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hamilton Heights"
+  },
+  {
+    "Organization Name": "No Longer Empty, Inc.",
+    "Address": "122 West 27th Street",
+    "Postcode": 10001,
+    "MainPhone": "(202) 413-4262",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Queens",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Norte Maar for Collaborative Projects in the Arts, Inc.",
+    "Address": "88 Pine Street",
+    "Postcode": 11208,
+    "MainPhone": "(646) 361-8512",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Cypress Hills-City Line"
+  },
+  {
+    "Organization Name": "Northern Manhattan Arts Alliance",
+    "Address": "WorkSpace",
+    "Postcode": 10034,
+    "MainPhone": "(212) 568-4396",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Nouveau Classical Project",
+    "Address": "435 West 57th St, 3L",
+    "Postcode": 10019,
+    "MainPhone": "(917) 609-1740",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Clinton"
+  },
+  {
+    "Organization Name": "Nuyorican Poets Cafe",
+    "Address": "P.O. Box 20794",
+    "Postcode": 10009,
+    "MainPhone": "(212) 529-9327",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "NycArtsCypher, Inc.",
+    "Address": "12 Broad Street",
+    "Postcode": 10304,
+    "MainPhone": "(718) 981-8510",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Staten Island",
+    "Neighborhood": "Stapleton-Rosebank"
+  },
+  {
+    "Organization Name": "OSS Project Inc",
+    "Address": "68 Jay St",
+    "Postcode": 11201,
+    "MainPhone": "(646) 246-0877",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Old Stone House of Brooklyn",
+    "Address": "P.O. Box 150613",
+    "Postcode": 11215,
+    "MainPhone": "(718) 768-3195",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "On Site Opera, Inc.",
+    "Address": "PO Box 231480",
+    "Postcode": 10023,
+    "MainPhone": "(646) 280-9500",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "One to World, Inc.",
+    "Address": "285 West Broadway",
+    "Postcode": 10013,
+    "MainPhone": "(212) 431-1195",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": "SoHo-TriBeCa-Civic Center-Little Italy"
+  },
+  {
+    "Organization Name": "Onos Footprints, Inc.",
+    "Address": "2420 GLENWOOD RD",
+    "Postcode": 11210,
+    "MainPhone": "(347) 385-7365",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Flatbush"
+  },
+  {
+    "Organization Name": "Open Channels New York, Inc.",
+    "Address": "161A Chrystie Street",
+    "Postcode": 10002,
+    "MainPhone": "(212) 219-0736 x104",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Chinatown"
+  },
+  {
+    "Organization Name": "Open Space Alliance for North Brooklyn",
+    "Address": "79 North 11th Street",
+    "Postcode": 11211,
+    "MainPhone": "(347) 386-4741",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Brooklyn",
+    "Neighborhood": "North Side-South Side"
+  },
+  {
+    "Organization Name": "Other Side Intercultural Theatre Inc.",
+    "Address": "487 6th Avenue",
+    "Postcode": 11215,
+    "MainPhone": "(718) 614-2486",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Staten Island",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "PEOPLE'S URBAN FILMS PUF FOUNDATION INC.",
+    "Address": "102 Diwight Street Suite 2A",
+    "Postcode": 11231,
+    "MainPhone": "(347) 772-6772",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "PHILIPPINE FORUM",
+    "Address": "40-21 69th Street",
+    "Postcode": 11377,
+    "MainPhone": "(718) 565-8862",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Queens",
+    "Neighborhood": "Woodside"
+  },
+  {
+    "Organization Name": "PS, The Short Film Exhibition Inc.",
+    "Address": "166 Norfolk Street #3C",
+    "Postcode": 10002,
+    "MainPhone": "(646) 861-0242",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Chinatown"
+  },
+  {
+    "Organization Name": "Pan American Musical Art Research, Inc.",
+    "Address": "675 West 187th Street, Suite 23",
+    "Postcode": 10033,
+    "MainPhone": "(212) 688-6862",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Manhattan",
+    "Neighborhood": "Washington Heights North"
+  },
+  {
+    "Organization Name": "Pantomonium Productions",
+    "Address": "30 West 61st Street, Suite 23F",
+    "Postcode": 10023,
+    "MainPhone": "(646) 320-1723",
+    "Discipline": "Multi-Discipline, Performing",
+    "Borough": "Manhattan",
+    "Neighborhood": "Lincoln Square"
+  },
+  {
+    "Organization Name": "Parabola Arts Foundation, Inc.",
+    "Address": "108 Franklin Street",
+    "Postcode": 10013,
+    "MainPhone": "(212) 966-6253",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Manhattan",
+    "Neighborhood": "SoHo-TriBeCa-Civic Center-Little Italy"
+  },
+  {
+    "Organization Name": "Parents As Primary Teachers, Inc.",
+    "Address": "198 Hancock Street",
+    "Postcode": 11216,
+    "MainPhone": "(718) 857-8487",
+    "Discipline": "Multi-Discipline, Non-Perform",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Bedford"
+  },
+  {
+    "Organization Name": "Park Slope Ambulance Corps, Inc.",
+    "Address": "156 17th Street",
+    "Postcode": 11215,
+    "MainPhone": "(718) 398-5400",
+    "Discipline": "Multi-Discipl, Perf & Non-Perf",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Park Slope-Gowanus"
+  }
+]

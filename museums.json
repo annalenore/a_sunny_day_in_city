@@ -1,0 +1,983 @@
+[
+  {
+    "Organization Name": "American Folk Art Museum",
+    "Address": "47-29 32nd Place",
+    "Postcode": 11101,
+    "MainPhone": "(212) 265-1040 x114",
+    "Discipline": "Museum",
+    "Borough": "Queens",
+    "Neighborhood": "Hunters Point-Sunnyside-West Maspeth"
+  },
+  {
+    "Organization Name": "American Museum of Natural History",
+    "Address": "Central Park West and 79th Street",
+    "Postcode": 10024,
+    "MainPhone": "(212) 769-5000",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Anthropology Museum of the People of New York",
+    "Address": "64-19 Kissena Boulevard",
+    "Postcode": 11367,
+    "MainPhone": "(718) 428-5650",
+    "Discipline": "Museum",
+    "Borough": "Queens",
+    "Neighborhood": "Pomonok-Flushing Heights-Hillcrest"
+  },
+  {
+    "Organization Name": "Asia Society",
+    "Address": "725 Park Avenue",
+    "Postcode": 10021,
+    "MainPhone": "(212) 327-9218",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "Upper East Side-Carnegie Hill"
+  },
+  {
+    "Organization Name": "Bartow-Pell Landmark Fund",
+    "Address": "895 Shore Road",
+    "Postcode": 10464,
+    "MainPhone": "(718) 885-1461",
+    "Discipline": "Museum",
+    "Borough": "Bronx",
+    "Neighborhood": "park-cemetery-etc-Bronx"
+  },
+  {
+    "Organization Name": "Bronx Children's Museum",
+    "Address": "PO Box 1381",
+    "Postcode": "10451-9998",
+    "MainPhone": "(347) 971-2155",
+    "Discipline": "Museum",
+    "Borough": "Bronx",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Bronx Museum of the Arts",
+    "Address": "1040 Grand Concourse",
+    "Postcode": 10456,
+    "MainPhone": "(718) 681-6000",
+    "Discipline": "Museum",
+    "Borough": "Bronx",
+    "Neighborhood": "East Concourse-Concourse Village"
+  },
+  {
+    "Organization Name": "Brooklyn Children's Museum",
+    "Address": "145 Brooklyn Avenue",
+    "Postcode": 11213,
+    "MainPhone": "(718) 735-4400",
+    "Discipline": "Museum",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Crown Heights North"
+  },
+  {
+    "Organization Name": "Brooklyn Historical Society",
+    "Address": "128 Pierrepont Street",
+    "Postcode": 11201,
+    "MainPhone": "(718) 222-4111 x239",
+    "Discipline": "Museum",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Brooklyn Heights-Cobble Hill"
+  },
+  {
+    "Organization Name": "421 Broome Street",
+    "Address": "New York",
+    "Postcode": "",
+    "MainPhone": "(646) 370-3596",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Chelsea Art Museum",
+    "Address": "556 West 22nd Street",
+    "Postcode": 10011,
+    "MainPhone": "(212) 255-0719",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "Children's Museum of Manhattan",
+    "Address": "212 West 83rd Street",
+    "Postcode": 10024,
+    "MainPhone": "(212) 721-1223",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "Upper West Side"
+  },
+  {
+    "Organization Name": "Children's Museum of the Arts",
+    "Address": "103 Charlton Street",
+    "Postcode": 10014,
+    "MainPhone": "(212) 274-0986",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "SoHo-TriBeCa-Civic Center-Little Italy"
+  },
+  {
+    "Organization Name": "City Island Historical Society",
+    "Address": "P.O. Box 82",
+    "Postcode": 10464,
+    "MainPhone": "(718) 885-1565",
+    "Discipline": "Museum",
+    "Borough": "Bronx",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Climate Museum",
+    "Address": "800 Third Ave.",
+    "Postcode": 10022,
+    "MainPhone": "(212) 324-3512",
+    "Discipline": "Museum",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Sunset Park West"
+  },
+  {
+    "Organization Name": "Colonial Dames of America/Mount Vernon Hotel Museum & Garden",
+    "Address": "421 East 61st Street",
+    "Postcode": 10065,
+    "MainPhone": "(212) 838-6878 x28",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "Lenox Hill-Roosevelt Island"
+  },
+  {
+    "Organization Name": "Colonial Farmhouse Restoration Society of Bellerose, Inc.",
+    "Address": "73-50 Little Neck Parkway",
+    "Postcode": 11004,
+    "MainPhone": "(718) 347-3276 x13",
+    "Discipline": "Museum",
+    "Borough": "Queens",
+    "Neighborhood": "Bellerose"
+  },
+  {
+    "Organization Name": "Conference House Association, Inc.",
+    "Address": "298 Satterlee Street",
+    "Postcode": 10307,
+    "MainPhone": "(718) 984-0415",
+    "Discipline": "Museum",
+    "Borough": "Staten Island",
+    "Neighborhood": "Charleston-Richmond Valley-Tottenville"
+  },
+  {
+    "Organization Name": "Contemporary Art for America, Inc.",
+    "Address": "330 West 15th Street, Suite 5D",
+    "Postcode": 10011,
+    "MainPhone": "(212) 645-2895",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "Cooper-Hewitt, National Design Museum",
+    "Address": "2 East 91st Street",
+    "Postcode": 10128,
+    "MainPhone": "(212) 849-8373",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "Upper East Side-Carnegie Hill"
+  },
+  {
+    "Organization Name": "Cultural Museum Of African Art - The Eric Edwards Collection",
+    "Address": "213 TAAFFE PLACE - SUITE 111",
+    "Postcode": 11205,
+    "MainPhone": "(718) 399-9053",
+    "Discipline": "Museum",
+    "Borough": "Brooklyn",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Drawing Center, Inc.",
+    "Address": "35 Wooster Street",
+    "Postcode": 10013,
+    "MainPhone": "(212) 219-2166 x115",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "SoHo-TriBeCa-Civic Center-Little Italy"
+  },
+  {
+    "Organization Name": "Dyckman Farmhouse Museum Alliance",
+    "Address": "4881 Broadway",
+    "Postcode": 10034,
+    "MainPhone": "(212) 304-9422",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "Marble Hill-Inwood"
+  },
+  {
+    "Organization Name": "Frick Collection",
+    "Address": "1 East 70th Street",
+    "Postcode": 10021,
+    "MainPhone": "(212) 991-5770",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "Upper East Side-Carnegie Hill"
+  },
+  {
+    "Organization Name": "Friends of Alice Austen House, Inc.",
+    "Address": "2 Hylan Boulevard",
+    "Postcode": 10305,
+    "MainPhone": "(718) 816-4506 x12",
+    "Discipline": "Museum",
+    "Borough": "Staten Island",
+    "Neighborhood": "Stapleton-Rosebank"
+  },
+  {
+    "Organization Name": "Friends of City Reliquary Incorporated",
+    "Address": "370 Metropolitan Avenue",
+    "Postcode": 11211,
+    "MainPhone": "(718) 782-4842",
+    "Discipline": "Museum",
+    "Borough": "Brooklyn",
+    "Neighborhood": "North Side-South Side"
+  },
+  {
+    "Organization Name": "Friends of Pasos: The Museum and Center for Peacebuilding, Inc.",
+    "Address": "P.O. Box 20324",
+    "Postcode": 10023,
+    "MainPhone": "(718) 744-7065",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Friends of the New York City Fire Department Collection, Inc.",
+    "Address": "278 Spring Street",
+    "Postcode": 10013,
+    "MainPhone": "(212) 691-1303 x11",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "SoHo-TriBeCa-Civic Center-Little Italy"
+  },
+  {
+    "Organization Name": "Friends of the New York Transit Museum",
+    "Address": "130 Livingston Street, 10th Floor",
+    "Postcode": 11201,
+    "MainPhone": "(718) 694-5102",
+    "Discipline": "Museum",
+    "Borough": "Brooklyn",
+    "Neighborhood": "DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill"
+  },
+  {
+    "Organization Name": "Garibaldi-Meucci Museum",
+    "Address": "420 Tompkins Avenue",
+    "Postcode": 10305,
+    "MainPhone": "(718) 442-1608",
+    "Discipline": "Museum",
+    "Borough": "Staten Island",
+    "Neighborhood": "Stapleton-Rosebank"
+  },
+  {
+    "Organization Name": "Global Artists Coalition Incorporated",
+    "Address": "323 W. 138TH Street",
+    "Postcode": 10030,
+    "MainPhone": "(917) 855-7772",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "Central Harlem North-Polo Grounds"
+  },
+  {
+    "Organization Name": "Godwin Ternbach Museum",
+    "Address": "Queens College, 405 Klapper Hall",
+    "Postcode": 11367,
+    "MainPhone": "(718) 997-3920",
+    "Discipline": "Museum",
+    "Borough": "Queens",
+    "Neighborhood": "Kew Gardens Hills"
+  },
+  {
+    "Organization Name": "Greater Ridgewood Historical Society",
+    "Address": "1820 Flushing Avenue",
+    "Postcode": 11385,
+    "MainPhone": "(718) 765-7067",
+    "Discipline": "Museum",
+    "Borough": "Queens",
+    "Neighborhood": "Ridgewood"
+  },
+  {
+    "Organization Name": "Hispanic Society of America",
+    "Address": "613 West 155th Street",
+    "Postcode": 10032,
+    "MainPhone": "(212) 926-2234",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "Washington Heights South"
+  },
+  {
+    "Organization Name": "Historic House Trust of New York City",
+    "Address": "830 Fifth Avenue",
+    "Postcode": 10065,
+    "MainPhone": "(212) 360-8282",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "park-cemetery-etc-Manhattan"
+  },
+  {
+    "Organization Name": "International Center of Photography",
+    "Address": "1114 Avenue of the Americas",
+    "Postcode": 10036,
+    "MainPhone": "(212) 857-0012",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "Intrepid Museum Foundation, Inc.",
+    "Address": "One Intrepid Square",
+    "Postcode": 10036,
+    "MainPhone": "(212) 957-3700",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Isamu Noguchi Foundation and Garden Museum",
+    "Address": "32-37 Vernon Boulevard",
+    "Postcode": 11106,
+    "MainPhone": "(718) 204-7088 x201",
+    "Discipline": "Museum",
+    "Borough": "Queens",
+    "Neighborhood": "Astoria"
+  },
+  {
+    "Organization Name": "Italian American Museum",
+    "Address": "155 Mulberry Street",
+    "Postcode": 10013,
+    "MainPhone": "(212) 965-9000",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "SoHo-TriBeCa-Civic Center-Little Italy"
+  },
+  {
+    "Organization Name": "Jackie Robinson Foundation",
+    "Address": "75 Varick",
+    "Postcode": 10013,
+    "MainPhone": "(212) 290-8600",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Jacques Marchais Center of Tibetan Arts, Inc.",
+    "Address": "338 Lighthouse Avenue",
+    "Postcode": 10306,
+    "MainPhone": "(718) 987-3500 x3",
+    "Discipline": "Museum",
+    "Borough": "Staten Island",
+    "Neighborhood": "Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill"
+  },
+  {
+    "Organization Name": "Japan Society, Inc.",
+    "Address": "333 East 47th Street",
+    "Postcode": 10017,
+    "MainPhone": "(212) 715-1212",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "Turtle Bay-East Midtown"
+  },
+  {
+    "Organization Name": "Jewish Children's Museum",
+    "Address": "792 Eastern Parkway",
+    "Postcode": 11213,
+    "MainPhone": "(718) 907-8854",
+    "Discipline": "Museum",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Crown Heights North"
+  },
+  {
+    "Organization Name": "Jewish Museum",
+    "Address": "1109 Fifth Avenue",
+    "Postcode": 10128,
+    "MainPhone": "(212) 423-3215",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "Upper East Side-Carnegie Hill"
+  },
+  {
+    "Organization Name": "Kehila Kedosha Janina Synagogue and Museum",
+    "Address": "280 Broome Street",
+    "Postcode": 10002,
+    "MainPhone": "(212) 431-1619",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "Chinatown"
+  },
+  {
+    "Organization Name": "King Manor Association of Long Island, Inc.",
+    "Address": "90-04 161 Street, Ste. 704",
+    "Postcode": 11432,
+    "MainPhone": "(718) 206-0545",
+    "Discipline": "Museum",
+    "Borough": "Queens",
+    "Neighborhood": "Jamaica"
+  },
+  {
+    "Organization Name": "Kleinman Holocaust Education Center Inc",
+    "Address": "5923 Strickland Avenue",
+    "Postcode": 11234,
+    "MainPhone": "(718) 759-6200",
+    "Discipline": "Museum",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Georgetown-Marine Park-Bergen Beach-Mill Basin"
+  },
+  {
+    "Organization Name": "Leslie-Lohman Museum of Gay and Lesbian Art",
+    "Address": "26 Wooster Street",
+    "Postcode": 10013,
+    "MainPhone": "(212) 431-2609",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "SoHo-TriBeCa-Civic Center-Little Italy"
+  },
+  {
+    "Organization Name": "Lewis Howard Latimer Fund, Inc.",
+    "Address": "34-41 137th Street",
+    "Postcode": 11354,
+    "MainPhone": "(718) 961-8585",
+    "Discipline": "Museum",
+    "Borough": "Queens",
+    "Neighborhood": "Flushing"
+  },
+  {
+    "Organization Name": "Louis Armstrong House",
+    "Address": "34-56 107th Street",
+    "Postcode": 11368,
+    "MainPhone": "(718) 997-3920",
+    "Discipline": "Museum",
+    "Borough": "Queens",
+    "Neighborhood": "North Corona"
+  },
+  {
+    "Organization Name": "Lower East Side Tenement Museum",
+    "Address": "103 Orchard Street",
+    "Postcode": 10002,
+    "MainPhone": "(212) 431-0233 x222",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "Chinatown"
+  },
+  {
+    "Organization Name": "Metropolitan Museum of Art",
+    "Address": "1000 Fifth Avenue",
+    "Postcode": 10028,
+    "MainPhone": "(212) 879-5500",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "park-cemetery-etc-Manhattan"
+  },
+  {
+    "Organization Name": "Morris-Jumel Mansion, Inc.",
+    "Address": "65 Jumel Terrace",
+    "Postcode": 10032,
+    "MainPhone": "(212) 923-8008",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "Washington Heights South"
+  },
+  {
+    "Organization Name": "Motherhood Foundation, Inc.",
+    "Address": "401 E 84th",
+    "Postcode": 10028,
+    "MainPhone": "(212) 452-9816",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Museum at Eldridge Street",
+    "Address": "12 Eldridge Street",
+    "Postcode": 10002,
+    "MainPhone": "(212) 219-0888 x203",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "Chinatown"
+  },
+  {
+    "Organization Name": "Museum for African Art",
+    "Address": "1280 Fifth Avenue",
+    "Postcode": 10029,
+    "MainPhone": "(718) 784-7700 x107",
+    "Discipline": "Museum",
+    "Borough": "Queens",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Museum of African American Cinema, Inc.",
+    "Address": "163 West 125th Street, Suite 903",
+    "Postcode": 10027,
+    "MainPhone": "(212) 749-5298",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "Central Harlem South"
+  },
+  {
+    "Organization Name": "Museum of American Finance",
+    "Address": "48 Wall Street",
+    "Postcode": 10005,
+    "MainPhone": "(212) 908-4110",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "Battery Park City-Lower Manhattan"
+  },
+  {
+    "Organization Name": "Museum of Arts & Design",
+    "Address": "2 Columbus Circle",
+    "Postcode": 10019,
+    "MainPhone": "(212) 956-3535 x133",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Museum of Biblical Art",
+    "Address": "1865 Broadway",
+    "Postcode": 10023,
+    "MainPhone": "(212) 408-1236",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "Lincoln Square"
+  },
+  {
+    "Organization Name": "Museum of Chinese in the Americas",
+    "Address": "70 Mulberry Street, 2nd Floor",
+    "Postcode": 10013,
+    "MainPhone": "(212) 619-4785 x108",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "Chinatown"
+  },
+  {
+    "Organization Name": "Museum of Comic and Cartoon Art",
+    "Address": "594 Broadway, Ste. 401",
+    "Postcode": 10012,
+    "MainPhone": "(212) 254-3511",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "SoHo-TriBeCa-Civic Center-Little Italy"
+  },
+  {
+    "Organization Name": "Museum of Contemporary African Diasporian Arts, Inc.",
+    "Address": "80 Hanson Place",
+    "Postcode": 11217,
+    "MainPhone": "(718) 230-0492 x113",
+    "Discipline": "Museum",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Fort Greene"
+  },
+  {
+    "Organization Name": "Museum of Food and Drink",
+    "Address": "232 East 11th Street",
+    "Postcode": 10003,
+    "MainPhone": "(212) 228-5482",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Village"
+  },
+  {
+    "Organization Name": "Museum of Jewish Heritage ��� A Living Memorial to the Holocaust",
+    "Address": "36 Battery Place",
+    "Postcode": 10280,
+    "MainPhone": "(646) 437-4200",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "Battery Park City-Lower Manhattan"
+  },
+  {
+    "Organization Name": "Museum of Maritime Navigation and Communication",
+    "Address": "1208 Bay Street",
+    "Postcode": 10305,
+    "MainPhone": "(718) 594-1717",
+    "Discipline": "Museum",
+    "Borough": "Staten Island",
+    "Neighborhood": "Stapleton-Rosebank"
+  },
+  {
+    "Organization Name": "Museum of Modern Art",
+    "Address": "11 West 53rd Street",
+    "Postcode": 10019,
+    "MainPhone": "(212) 708-9773",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "Museum of Music & Entertainment in New York City",
+    "Address": "550 Grand Street, H3A",
+    "Postcode": 10002,
+    "MainPhone": "(646) 342-7740",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "Lower East Side"
+  },
+  {
+    "Organization Name": "Museum of the City of New York",
+    "Address": "1220 Fifth Avenue",
+    "Postcode": 10029,
+    "MainPhone": "(212) 534-1672",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Harlem South"
+  },
+  {
+    "Organization Name": "National Academy of Design",
+    "Address": "1083 Fifth Avenue",
+    "Postcode": 10128,
+    "MainPhone": "(212) 369-4880 x208",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "Upper East Side-Carnegie Hill"
+  },
+  {
+    "Organization Name": "National Lighthouse Museum",
+    "Address": "200 Promenade at Lighthouse Point",
+    "Postcode": 10301,
+    "MainPhone": "(855) 656-7469",
+    "Discipline": "Museum",
+    "Borough": "Staten Island",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "National Museum of Catholic Art and History",
+    "Address": "443 East 115th Street",
+    "Postcode": 10029,
+    "MainPhone": "(212) 828-5209",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Harlem North"
+  },
+  {
+    "Organization Name": "National Museum of Mathematics",
+    "Address": "134 W. 26th St.",
+    "Postcode": 10001,
+    "MainPhone": "(212) 542-0566",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "National September 11 Memorial and Museum at the World Trade Center",
+    "Address": "200 Liberty Street",
+    "Postcode": 10281,
+    "MainPhone": "(646) 480-3733",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "Battery Park City-Lower Manhattan"
+  },
+  {
+    "Organization Name": "New Museum of Contemporary Art",
+    "Address": "235 Bowery",
+    "Postcode": 10002,
+    "MainPhone": "(212) 219-1222 x239",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "Chinatown"
+  },
+  {
+    "Organization Name": "New York City Police Museum",
+    "Address": "100 Old Slip",
+    "Postcode": 10005,
+    "MainPhone": "(212) 480-3100 x105",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "Battery Park City-Lower Manhattan"
+  },
+  {
+    "Organization Name": "New-York Historical Society",
+    "Address": "170 Central Park West",
+    "Postcode": 10024,
+    "MainPhone": "(212) 485-9273",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "Upper West Side"
+  },
+  {
+    "Organization Name": "Nicholas Roerich Museum, Inc.",
+    "Address": "319 West 107 Street",
+    "Postcode": 10025,
+    "MainPhone": "(212) 864-7752",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "Morningside Heights"
+  },
+  {
+    "Organization Name": "Noble Maritime Collection",
+    "Address": "1000 Richmond Terrace",
+    "Postcode": 10301,
+    "MainPhone": "(718) 447-6490",
+    "Discipline": "Museum",
+    "Borough": "Staten Island",
+    "Neighborhood": "West New Brighton-New Brighton-St. George"
+  },
+  {
+    "Organization Name": "Old Merchant's House Museum of New York, Inc.",
+    "Address": "29 East 4th Street",
+    "Postcode": 10003,
+    "MainPhone": "(212) 777-1089",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "West Village"
+  },
+  {
+    "Organization Name": "Paley Center for Media",
+    "Address": "25 West 52nd Street",
+    "Postcode": 10019,
+    "MainPhone": "(212) 621-6625",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "Pierpont Morgan Library",
+    "Address": "225 Madison Avenue",
+    "Postcode": 10016,
+    "MainPhone": "(212) 590-0305",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "Murray Hill-Kips Bay"
+  },
+  {
+    "Organization Name": "Poster House",
+    "Address": "119 W. 23rd Street",
+    "Postcode": 10011,
+    "MainPhone": "(212) 841-2544",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "Prospect Park Alliance, Inc.",
+    "Address": "95 Prospect Park West",
+    "Postcode": 11215,
+    "MainPhone": "(718) 965-8951",
+    "Discipline": "Museum",
+    "Borough": "Brooklyn",
+    "Neighborhood": "park-cemetery-etc-Brooklyn"
+  },
+  {
+    "Organization Name": "Queens Historical Society",
+    "Address": "143-35 37th Avenue",
+    "Postcode": 11354,
+    "MainPhone": "(718) 939-0647 x18",
+    "Discipline": "Museum",
+    "Borough": "Queens",
+    "Neighborhood": "Flushing"
+  },
+  {
+    "Organization Name": "Queens Museum of Art",
+    "Address": "New York City Building / Flushing Meadows Park",
+    "Postcode": 11368,
+    "MainPhone": "(718) 592-9700",
+    "Discipline": "Museum",
+    "Borough": "Queens",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Sandy Ground Historical Society",
+    "Address": "1538 Woodrow Road",
+    "Postcode": 10309,
+    "MainPhone": "(718) 317-5796",
+    "Discipline": "Museum",
+    "Borough": "Staten Island",
+    "Neighborhood": "Rossville-Woodrow"
+  },
+  {
+    "Organization Name": "Scandinavian East Coast Museum",
+    "Address": "440 Ovington Avenue",
+    "Postcode": 11209,
+    "MainPhone": "(718) 567-9620",
+    "Discipline": "Museum",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Bay Ridge"
+  },
+  {
+    "Organization Name": "September 11th Widows and Victim Families Association",
+    "Address": "22 Cortlandt Street, Suite 801",
+    "Postcode": 10007,
+    "MainPhone": "(212) 422-3520 x111",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "Battery Park City-Lower Manhattan"
+  },
+  {
+    "Organization Name": "Skyscraper Museum",
+    "Address": "39 Battery Place",
+    "Postcode": 10280,
+    "MainPhone": "(212) 945-6324",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "Battery Park City-Lower Manhattan"
+  },
+  {
+    "Organization Name": "Smithsonian National Museum of the American Indian",
+    "Address": "232 3rd Street, Apt. D101",
+    "Postcode": 11215,
+    "MainPhone": "(212) 277-8021",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Society of Illustrators, Inc.",
+    "Address": "128 East 63rd Street",
+    "Postcode": 10065,
+    "MainPhone": "(212) 838-2560",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "Upper East Side-Carnegie Hill"
+  },
+  {
+    "Organization Name": "Solomon R. Guggenheim Foundation",
+    "Address": "1071 Fifth Avenue",
+    "Postcode": 10128,
+    "MainPhone": "(212) 423-3688",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "Upper East Side-Carnegie Hill"
+  },
+  {
+    "Organization Name": "Sons of the Revolution in the State of New York, Inc.",
+    "Address": "54 Pearl Street",
+    "Postcode": 10004,
+    "MainPhone": "(212) 425-1778 x30",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "Battery Park City-Lower Manhattan"
+  },
+  {
+    "Organization Name": "South Street Seaport Museum",
+    "Address": "12 Fulton Street",
+    "Postcode": 10038,
+    "MainPhone": "(212) 748-8770",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "Battery Park City-Lower Manhattan"
+  },
+  {
+    "Organization Name": "Southside United Housing Development Fund Corp",
+    "Address": "213 South 4th Street",
+    "Postcode": 11211,
+    "MainPhone": "(718) 387-3600",
+    "Discipline": "Museum",
+    "Borough": "Brooklyn",
+    "Neighborhood": "North Side-South Side"
+  },
+  {
+    "Organization Name": "Staten Island Children's Museum",
+    "Address": "1000 Richmond Terrace, Building M",
+    "Postcode": 10301,
+    "MainPhone": "(718) 273-2060",
+    "Discipline": "Museum",
+    "Borough": "Staten Island",
+    "Neighborhood": "West New Brighton-New Brighton-St. George"
+  },
+  {
+    "Organization Name": "Staten Island Institute of Arts and Sciences",
+    "Address": "1000 Richmond Terrace",
+    "Postcode": 10301,
+    "MainPhone": "(718) 727-1135",
+    "Discipline": "Museum",
+    "Borough": "Staten Island",
+    "Neighborhood": "West New Brighton-New Brighton-St. George"
+  },
+  {
+    "Organization Name": "Studio Museum in Harlem",
+    "Address": "144 West 125th Street",
+    "Postcode": 10027,
+    "MainPhone": "(212) 864-4500",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "Central Harlem South"
+  },
+  {
+    "Organization Name": "Sugar Hill Children's Museum of Art & Storytelling",
+    "Address": "898 St. Nicholas Avenue",
+    "Postcode": 10032,
+    "MainPhone": "(212) 335-0004",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hamilton Heights"
+  },
+  {
+    "Organization Name": "Theatre Museum",
+    "Address": "723 Seventh Avenue, 7th floor",
+    "Postcode": 10019,
+    "MainPhone": "(212) 764-4112 x204",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "Toy Museum of New York",
+    "Address": "157 Montague Street, 2nd Floor",
+    "Postcode": 11201,
+    "MainPhone": "(718) 243-0820",
+    "Discipline": "Museum",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Brooklyn Heights-Cobble Hill"
+  },
+  {
+    "Organization Name": "Tug Pegasus Preservation Project",
+    "Address": "83 Murray Street",
+    "Postcode": 10007,
+    "MainPhone": "(212) 406-2225",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "SoHo-TriBeCa-Civic Center-Little Italy"
+  },
+  {
+    "Organization Name": "Ukrainian Museum",
+    "Address": "222 East Sixth Street",
+    "Postcode": 10003,
+    "MainPhone": "(212) 228-0110",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Village"
+  },
+  {
+    "Organization Name": "Universal Hip Hop Museum",
+    "Address": "PO Box 6001",
+    "Postcode": 10451,
+    "MainPhone": "(347) 454-2793",
+    "Discipline": "Museum",
+    "Borough": "Bronx",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Voelker Orth Museum",
+    "Address": "149-19 38th AVenue",
+    "Postcode": 11354,
+    "MainPhone": "(718) 359-6227",
+    "Discipline": "Museum",
+    "Borough": "Queens",
+    "Neighborhood": "Murray Hill"
+  },
+  {
+    "Organization Name": "Whitney Museum of American Art",
+    "Address": "945 Madison Avenue",
+    "Postcode": 10021,
+    "MainPhone": "(212) 570-3635",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "Upper East Side-Carnegie Hill"
+  },
+  {
+    "Organization Name": "Wyckoff House and Association, Inc.",
+    "Address": "5816 Clarendon Road",
+    "Postcode": 11203,
+    "MainPhone": "(718) 629-5400",
+    "Discipline": "Museum",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Rugby-Remsen Village"
+  },
+  {
+    "Organization Name": "Yeshiva University Museum",
+    "Address": "15 West 16th Street",
+    "Postcode": 10011,
+    "MainPhone": "(212) 294-8337",
+    "Discipline": "Museum",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  }
+]

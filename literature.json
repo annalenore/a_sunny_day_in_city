@@ -1,0 +1,551 @@
+[
+  {
+    "Organization Name": "A Public Space Literary Projects, Inc.",
+    "Address": "323 Dean Street",
+    "Postcode": 11217,
+    "MainPhone": "(718) 858-8067",
+    "Discipline": "Literature",
+    "Borough": "Brooklyn",
+    "Neighborhood": "DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill"
+  },
+  {
+    "Organization Name": "Academy of American Poets",
+    "Address": "75 Maiden Lane",
+    "Postcode": 10038,
+    "MainPhone": "(212) 274-0343 x19",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "Battery Park City-Lower Manhattan"
+  },
+  {
+    "Organization Name": "African Voices Communications, Inc.",
+    "Address": "325 Lafayette Avenue",
+    "Postcode": 11238,
+    "MainPhone": "(212) 865-2982",
+    "Discipline": "Literature",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Clinton Hill"
+  },
+  {
+    "Organization Name": "Asian American Writers' Workshop",
+    "Address": "110-112 West 27th Street",
+    "Postcode": 10001,
+    "MainPhone": "(212) 494-0061",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "Autonomedia, Inc.",
+    "Address": "P.O. Box 568 Williamsburgh Station",
+    "Postcode": 11211,
+    "MainPhone": "(718) 963-2603",
+    "Discipline": "Literature",
+    "Borough": "Brooklyn",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Behind the Book, Inc.",
+    "Address": "216 West 135th Street, Ground Floor",
+    "Postcode": 10030,
+    "MainPhone": "(212) 222-3627",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "Central Harlem North-Polo Grounds"
+  },
+  {
+    "Organization Name": "Belladonna Series, Inc.",
+    "Address": "925 Bergen St",
+    "Postcode": 11238,
+    "MainPhone": "(917) 474-2003",
+    "Discipline": "Literature",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Crown Heights North"
+  },
+  {
+    "Organization Name": "Bowery Arts and Science",
+    "Address": "310 Bowery, 2nd Floor",
+    "Postcode": 10012,
+    "MainPhone": "(212) 614-0504",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "West Village"
+  },
+  {
+    "Organization Name": "Box Turtle Press/Attitude Art, Inc.",
+    "Address": "94 Franklin Street",
+    "Postcode": 10013,
+    "MainPhone": "(646) 246-3652",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "SoHo-TriBeCa-Civic Center-Little Italy"
+  },
+  {
+    "Organization Name": "Brooklyn Book Festival, Inc.",
+    "Address": "249 Smith Street",
+    "Postcode": 11231,
+    "MainPhone": "(718) 802-3901",
+    "Discipline": "Literature",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Carroll Gardens-Columbia Street-Red Hook"
+  },
+  {
+    "Organization Name": "Brooklyn Poets, Inc.",
+    "Address": "135 Jackson Street",
+    "Postcode": 11211,
+    "MainPhone": "(718) 374-1953",
+    "Discipline": "Literature",
+    "Borough": "Brooklyn",
+    "Neighborhood": "East Williamsburg"
+  },
+  {
+    "Organization Name": "Brooklyn Rail",
+    "Address": "99 Commercial Street #32",
+    "Postcode": 11222,
+    "MainPhone": "(718) 349-8427",
+    "Discipline": "Literature",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Greenpoint"
+  },
+  {
+    "Organization Name": "Caribbean Cultural Theatre, Inc.",
+    "Address": "138 South Oxford Street",
+    "Postcode": 11217,
+    "MainPhone": "(718) 783-8345",
+    "Discipline": "Literature",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Fort Greene"
+  },
+  {
+    "Organization Name": "Cave Canem Foundation, Inc.",
+    "Address": "20 Jay Street",
+    "Postcode": 11201,
+    "MainPhone": "(718) 858-0000",
+    "Discipline": "Literature",
+    "Borough": "Brooklyn",
+    "Neighborhood": "DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill"
+  },
+  {
+    "Organization Name": "Council of Literary Magazines and Presses",
+    "Address": "154 Christopher Street, Ste. 3C",
+    "Postcode": 10014,
+    "MainPhone": "(212) 741-9110 x14",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "West Village"
+  },
+  {
+    "Organization Name": "Cultural Center for Soviet Refugees, Inc.",
+    "Address": "139 East 33rd Street, Apt. 9M",
+    "Postcode": 10016,
+    "MainPhone": "(212) 686-0199",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "Murray Hill-Kips Bay"
+  },
+  {
+    "Organization Name": "Electric Lit, Inc.",
+    "Address": "147 Prince Street",
+    "Postcode": 11201,
+    "MainPhone": "(610) 999-3779",
+    "Discipline": "Literature",
+    "Borough": "Brooklyn",
+    "Neighborhood": "DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill"
+  },
+  {
+    "Organization Name": "Epiphany Magazine, Inc.",
+    "Address": "71 Bedford St.",
+    "Postcode": 10014,
+    "MainPhone": "(646) 221-8834",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "West Village"
+  },
+  {
+    "Organization Name": "Ether Sea Projects, Inc.",
+    "Address": "925 Bergen Street",
+    "Postcode": 11238,
+    "MainPhone": "(718) 288-5530",
+    "Discipline": "Literature",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Crown Heights North"
+  },
+  {
+    "Organization Name": "Feminist Press, Inc.",
+    "Address": "365 Fifth Avenue, Ste. 5406",
+    "Postcode": 10016,
+    "MainPhone": "(212) 817-7929",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "Fiction, Inc.",
+    "Address": "Dept of Engl NAC 6th Floor, City College of New York",
+    "Postcode": 10031,
+    "MainPhone": "(212) 966-3659",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Futurepoem, Inc.",
+    "Address": "PO Box 7687",
+    "Postcode": 10116,
+    "MainPhone": "(646) 827-9876",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Girls Write Now, Inc.",
+    "Address": "247 West 37 Street",
+    "Postcode": 10018,
+    "MainPhone": "(212) 691-6590 x202",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "Haitian American Cultural and Educational Foundation",
+    "Address": "91-40 Lamont Avenue, #4M",
+    "Postcode": 11373,
+    "MainPhone": "(516) 482-1658",
+    "Discipline": "Literature",
+    "Borough": "Queens",
+    "Neighborhood": "Elmhurst"
+  },
+  {
+    "Organization Name": "House of SpeakEasy",
+    "Address": "117 East 19th Street",
+    "Postcode": 10003,
+    "MainPhone": "(347) 413-4889",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "Gramercy"
+  },
+  {
+    "Organization Name": "Housing Works Used Book Cafe, Inc.",
+    "Address": "126 Crosby Street",
+    "Postcode": 10012,
+    "MainPhone": "(212) 966-0466 x1112",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "SoHo-TriBeCa-Civic Center-Little Italy"
+  },
+  {
+    "Organization Name": "Hudson Review, Inc.",
+    "Address": "684 Park Avenue",
+    "Postcode": 10065,
+    "MainPhone": "(212) 650-0020",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "Upper East Side-Carnegie Hill"
+  },
+  {
+    "Organization Name": "Intercultural Alliance of Artists & Scholars, Inc.",
+    "Address": "140-21 31st Road, 4G",
+    "Postcode": 11354,
+    "MainPhone": "(718) 545-0763",
+    "Discipline": "Literature",
+    "Borough": "Queens",
+    "Neighborhood": "Flushing"
+  },
+  {
+    "Organization Name": "Kundiman, Inc.",
+    "Address": "113 West 60th Street, Room 924",
+    "Postcode": 10023,
+    "MainPhone": "(347) 693-6506",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "Lincoln Square"
+  },
+  {
+    "Organization Name": "Kweli Journal, Inc.",
+    "Address": "POB 693",
+    "Postcode": 10021,
+    "MainPhone": "(646) 709-7026",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Literary Freedom Project",
+    "Address": "557 Grand Concourse",
+    "Postcode": 10451,
+    "MainPhone": "(347) 454-2161",
+    "Discipline": "Literature",
+    "Borough": "Bronx",
+    "Neighborhood": "West Concourse"
+  },
+  {
+    "Organization Name": "Mercantile Library Association of the City of New York",
+    "Address": "17 East 47th Street",
+    "Postcode": 10017,
+    "MainPhone": "(212) 755-6710",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "NY Writers Coalition",
+    "Address": "80 Hanson Place, Apt. 603",
+    "Postcode": 11217,
+    "MainPhone": "(718) 398-2883",
+    "Discipline": "Literature",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Fort Greene"
+  },
+  {
+    "Organization Name": "National Book Foundation, Inc.",
+    "Address": "90 Broad Street",
+    "Postcode": 10004,
+    "MainPhone": "(212) 685-0261",
+    "Discipline": "Literature",
+    "Borough": "Brooklyn",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "New Review, Inc.",
+    "Address": "611 Broadway, Ste. 902",
+    "Postcode": 10012,
+    "MainPhone": "(212) 353-1478",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "West Village"
+  },
+  {
+    "Organization Name": "Newtown Literary Alliance",
+    "Address": "61-15 97th Street",
+    "Postcode": 11374,
+    "MainPhone": "(347) 774-4375",
+    "Discipline": "Literature",
+    "Borough": "Queens",
+    "Neighborhood": "Rego Park"
+  },
+  {
+    "Organization Name": "Nightboat Books, Inc.",
+    "Address": "310 Nassau Avenue, #202",
+    "Postcode": 11222,
+    "MainPhone": "(718) 930-1062",
+    "Discipline": "Literature",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Greenpoint"
+  },
+  {
+    "Organization Name": "PEN American Center, Inc.",
+    "Address": "588 Broadway, Ste. 303",
+    "Postcode": 10012,
+    "MainPhone": "(212) 334-1660 x103",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "SoHo-TriBeCa-Civic Center-Little Italy"
+  },
+  {
+    "Organization Name": "Paris Review Foundation, Inc.",
+    "Address": "544 West 27th St",
+    "Postcode": 10001,
+    "MainPhone": "(212) 343-1333",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "Pen Parentis, Ltd.",
+    "Address": "176 Broadway 14F",
+    "Postcode": 10038,
+    "MainPhone": "(212) 501-2031",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "Battery Park City-Lower Manhattan"
+  },
+  {
+    "Organization Name": "Poetry Outreach Center",
+    "Address": "160 Convent Avenue",
+    "Postcode": 10031,
+    "MainPhone": "(212) 650-6356",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "Manhattanville"
+  },
+  {
+    "Organization Name": "Poetry Project, Ltd.",
+    "Address": "131 East 10th Street",
+    "Postcode": 10003,
+    "MainPhone": "(212) 674-0910",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Village"
+  },
+  {
+    "Organization Name": "Poetry Society of America",
+    "Address": "15 Gramercy Park",
+    "Postcode": 10003,
+    "MainPhone": "(212) 254-9628",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "Gramercy"
+  },
+  {
+    "Organization Name": "Poets & Writers, Inc.",
+    "Address": "90 Broad Street, Suite 2100",
+    "Postcode": 10004,
+    "MainPhone": "(212) 226-3586 x222",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "Battery Park City-Lower Manhattan"
+  },
+  {
+    "Organization Name": "Poets House, Inc.",
+    "Address": "10 River Terrace",
+    "Postcode": 10282,
+    "MainPhone": "(212) 431-7920",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "Battery Park City-Lower Manhattan"
+  },
+  {
+    "Organization Name": "Rattapallax, Incorporated",
+    "Address": "532 La Guardia Place, Ste. 353",
+    "Postcode": 10012,
+    "MainPhone": "(646) 416-4702",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "West Village"
+  },
+  {
+    "Organization Name": "ReLIT NY, Inc.",
+    "Address": "PO Box 1833",
+    "Postcode": 10016,
+    "MainPhone": "(917) 573-0034",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Restless Books Inc",
+    "Address": "232 3rd St",
+    "Postcode": 11215,
+    "MainPhone": "(864) 378-5822",
+    "Discipline": "Literature",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Park Slope-Gowanus"
+  },
+  {
+    "Organization Name": "Royal People Group, Inc.",
+    "Address": "147-12 Archer Ave",
+    "Postcode": 11435,
+    "MainPhone": "(718) 291-1094",
+    "Discipline": "Literature",
+    "Borough": "Queens",
+    "Neighborhood": "Jamaica"
+  },
+  {
+    "Organization Name": "Slice Literary, Inc.",
+    "Address": "PO Box 659",
+    "Postcode": 10014,
+    "MainPhone": "(848) 228-6077",
+    "Discipline": "Literature",
+    "Borough": "Brooklyn",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Teachers & Writers Collaborative, Inc.",
+    "Address": "540 President Street",
+    "Postcode": 11215,
+    "MainPhone": "(212) 691-6590 x208",
+    "Discipline": "Literature",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Park Slope-Gowanus"
+  },
+  {
+    "Organization Name": "Ugly Duckling Presse",
+    "Address": "232 Third St. #E002",
+    "Postcode": 11215,
+    "MainPhone": "(347) 948-5170",
+    "Discipline": "Literature",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Park Slope-Gowanus"
+  },
+  {
+    "Organization Name": "United Sherpa Association (USA) Inc.",
+    "Address": "41-01 75th St",
+    "Postcode": 11373,
+    "MainPhone": "(718) 779-7300",
+    "Discipline": "Literature",
+    "Borough": "Queens",
+    "Neighborhood": "Elmhurst"
+  },
+  {
+    "Organization Name": "Uptown Stories",
+    "Address": "178 Bennett Avenue",
+    "Postcode": 10033,
+    "MainPhone": "(917) 596-4795",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "Washington Heights North"
+  },
+  {
+    "Organization Name": "Urban Word NYC",
+    "Address": "217 West 18th Street",
+    "Postcode": 10011,
+    "MainPhone": "(212) 334-6414",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "Voices UnBroken, Inc.",
+    "Address": "P.O. Box 342",
+    "Postcode": 10461,
+    "MainPhone": "(718) 292-3018",
+    "Discipline": "Literature",
+    "Borough": "Bronx",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Wendy's Subway Inc.",
+    "Address": "379 Bushwick Avenue",
+    "Postcode": 11206,
+    "MainPhone": "(646) 842-0971",
+    "Discipline": "Literature",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Bushwick South"
+  },
+  {
+    "Organization Name": "Words without Borders",
+    "Address": "147 Prince Street",
+    "Postcode": 11201,
+    "MainPhone": "(917) 499-8329",
+    "Discipline": "Literature",
+    "Borough": "Brooklyn",
+    "Neighborhood": "DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill"
+  },
+  {
+    "Organization Name": "Writers Guild of America, East Foundation",
+    "Address": "250 Hudson Street",
+    "Postcode": 10013,
+    "MainPhone": "(212) 767-7843",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "SoHo-TriBeCa-Civic Center-Little Italy"
+  },
+  {
+    "Organization Name": "Writers Room, Inc.",
+    "Address": "740 Broadway, 12th Floor",
+    "Postcode": 10003,
+    "MainPhone": "(212) 254-6995",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "West Village"
+  },
+  {
+    "Organization Name": "n+1 Foundation",
+    "Address": "68 Jay Street",
+    "Postcode": 11201,
+    "MainPhone": "(718) 797-0750",
+    "Discipline": "Literature",
+    "Borough": "Brooklyn",
+    "Neighborhood": "DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill"
+  }
+]

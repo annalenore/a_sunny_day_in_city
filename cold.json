@@ -1,0 +1,2972 @@
+[
+  {
+    "Organization Name": "Aperture Foundation, Inc.",
+    "Address": "547 West 27th Street, 4th Floor",
+    "Postcode": 10001,
+    "MainPhone": "(212) 946-7117",
+    "Discipline": "Photography",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "Arts @ Henson-Parks, Inc.",
+    "Address": "11460 174TH STREET",
+    "Postcode": 11434,
+    "MainPhone": "(646) 996-8500",
+    "Discipline": "Photography",
+    "Borough": "Queens",
+    "Neighborhood": "St. Albans"
+  },
+  {
+    "Organization Name": "Bronx Documentary Center",
+    "Address": "614 Courtlandt Ave",
+    "Postcode": 10451,
+    "MainPhone": "(718) 993-3512",
+    "Discipline": "Photography",
+    "Borough": "Bronx",
+    "Neighborhood": "Melrose South-Mott Haven North"
+  },
+  {
+    "Organization Name": "Chinese Methodist Center Corporation",
+    "Address": "69 Madison st.",
+    "Postcode": 10002,
+    "MainPhone": "(212) 349-2703",
+    "Discipline": "Photography",
+    "Borough": "Manhattan",
+    "Neighborhood": "Chinatown"
+  },
+  {
+    "Organization Name": "DIVAS for Social Justice",
+    "Address": "131-02 229th Street",
+    "Postcode": 11413,
+    "MainPhone": "(718) 413-8031",
+    "Discipline": "Photography",
+    "Borough": "Brooklyn",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "En Foco, Inc.",
+    "Address": "PO Box 1757",
+    "Postcode": 10451,
+    "MainPhone": "(718) 931-9311",
+    "Discipline": "Photography",
+    "Borough": "Bronx",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "International Center of Photography",
+    "Address": "1114 Avenue of the Americas",
+    "Postcode": 10036,
+    "MainPhone": "(212) 857-0012",
+    "Discipline": "Photography",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "Josephine Herrick Project, Inc.",
+    "Address": "64 Fulton St Suite 905",
+    "Postcode": 10038,
+    "MainPhone": "(212) 213-4946",
+    "Discipline": "Photography",
+    "Borough": "Manhattan",
+    "Neighborhood": "Battery Park City-Lower Manhattan"
+  },
+  {
+    "Organization Name": "Magnum Foundation",
+    "Address": "59 East 4th Street, #7W",
+    "Postcode": 10003,
+    "MainPhone": "(212) 219-1248",
+    "Discipline": "Photography",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Village"
+  },
+  {
+    "Organization Name": "NYC SALT",
+    "Address": "214 West 29th Street",
+    "Postcode": 10001,
+    "MainPhone": "(917) 992-6756",
+    "Discipline": "Photography",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "New York City Street Photography Collective",
+    "Address": "1676 Woodbine  Street",
+    "Postcode": 11385,
+    "MainPhone": "(813) 841-0240",
+    "Discipline": "Photography",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Photo-Based Art",
+    "Address": "c/o Rhiannon Kubicka",
+    "Postcode": 10013,
+    "MainPhone": "(212) 633-1317",
+    "Discipline": "Photography",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Seeing for Ourselves Inc",
+    "Address": "101 Clark Street",
+    "Postcode": 11201,
+    "MainPhone": "(914) 413-5378",
+    "Discipline": "Photography",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Brooklyn Heights-Cobble Hill"
+  },
+  {
+    "Organization Name": "Slideluck Potshow",
+    "Address": "197 East 4th Street, Apt. 2",
+    "Postcode": 10009,
+    "MainPhone": "(917) 804-2767",
+    "Discipline": "Photography",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Village"
+  },
+  {
+    "Organization Name": "United Photo Industries, Inc.",
+    "Address": "16 Main Street",
+    "Postcode": 11201,
+    "MainPhone": "(718) 801-8099",
+    "Discipline": "Photography",
+    "Borough": "Brooklyn",
+    "Neighborhood": "DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill"
+  },
+  {
+    "Organization Name": "ABAKUA Afro-Latin Dance Company",
+    "Address": "250 Ninth Street, 3rd Floor",
+    "Postcode": 11215,
+    "MainPhone": "(917) 570-6089",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Park Slope-Gowanus"
+  },
+  {
+    "Organization Name": "ASDT, Inc. - The American Spanish Dance Theatre",
+    "Address": "c/o Lotus Music and Dance",
+    "Postcode": 10001,
+    "MainPhone": "(212) 674-6725",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "AbunDance Academy of the Arts, Inc.",
+    "Address": "430 Rogers Avenue",
+    "Postcode": 11225,
+    "MainPhone": "(347) 788-1069",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Prospect Lefferts Gardens-Wingate"
+  },
+  {
+    "Organization Name": "Aims of Modzawe, Inc.",
+    "Address": "187-40 Quencer Road",
+    "Postcode": 11412,
+    "MainPhone": "(347) 231-2595",
+    "Discipline": "Dance",
+    "Borough": "Queens",
+    "Neighborhood": "St. Albans"
+  },
+  {
+    "Organization Name": "Alison Cook Beatty Dance, Inc.",
+    "Address": "170 East 87th Street",
+    "Postcode": 10128,
+    "MainPhone": "(917) 620-2057",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Upper East Side-Carnegie Hill"
+  },
+  {
+    "Organization Name": "Alpha Omega 1-7 Theatrical Dance Company, Inc.",
+    "Address": "70 East 4th Street",
+    "Postcode": 10003,
+    "MainPhone": "(212) 749-0095",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Village"
+  },
+  {
+    "Organization Name": "Alvin Ailey Dance Foundation, Inc.",
+    "Address": "The Joan Weill Center for Dance",
+    "Postcode": 10019,
+    "MainPhone": "(212) 405-9015 x220",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "American Bolero Dance Company, Inc.",
+    "Address": "42-24 9th Street",
+    "Postcode": 11101,
+    "MainPhone": "(718) 392-8888",
+    "Discipline": "Dance",
+    "Borough": "Queens",
+    "Neighborhood": "Hunters Point-Sunnyside-West Maspeth"
+  },
+  {
+    "Organization Name": "American Dance Guild, Inc.",
+    "Address": "320 West 83rd Street, Apt. 7D",
+    "Postcode": 10024,
+    "MainPhone": "(212) 874-6947",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Upper West Side"
+  },
+  {
+    "Organization Name": "American Dance Machine for the 21st Century Foundation, Inc.",
+    "Address": "45 East 80th Street",
+    "Postcode": 10075,
+    "MainPhone": "(917) 570-0040",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Upper East Side-Carnegie Hill"
+  },
+  {
+    "Organization Name": "American Tap Dance Foundation, Inc.",
+    "Address": "154 Christopher Street",
+    "Postcode": 10014,
+    "MainPhone": "(646) 230-9564",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "West Village"
+  },
+  {
+    "Organization Name": "Annabella Gonzalez Dance Theater, Inc.",
+    "Address": "4 East 89th Street, #PH-C",
+    "Postcode": 10128,
+    "MainPhone": "(212) 722-4128",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Upper East Side-Carnegie Hill"
+  },
+  {
+    "Organization Name": "Appleby Foundation, Inc.",
+    "Address": "579 Broadway, 4B, Apt. 4B",
+    "Postcode": 10012,
+    "MainPhone": "(212) 431-8489",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "SoHo-TriBeCa-Civic Center-Little Italy"
+  },
+  {
+    "Organization Name": "Armitage Foundation, Ltd.",
+    "Address": "9 North Moore St. #4",
+    "Postcode": 10013,
+    "MainPhone": "(212) 431-4314",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "SoHo-TriBeCa-Civic Center-Little Italy"
+  },
+  {
+    "Organization Name": "Art Sweats, Inc.",
+    "Address": "75 Broad Street",
+    "Postcode": 10004,
+    "MainPhone": "(212) 677-2503",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Battery Park City-Lower Manhattan"
+  },
+  {
+    "Organization Name": "Art's House Schools, Inc.",
+    "Address": "1001-1003 Surf Avenue",
+    "Postcode": 11224,
+    "MainPhone": "(718) 996-2000",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "West Brighton"
+  },
+  {
+    "Organization Name": "Artichoke Dance Company, Inc.",
+    "Address": "121 Sterling Place",
+    "Postcode": 11217,
+    "MainPhone": "(917) 627-8770",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Prospect Heights"
+  },
+  {
+    "Organization Name": "Arts Resources in Collaboration, Inc.",
+    "Address": "70 East 10th Street",
+    "Postcode": 10003,
+    "MainPhone": "(212) 206-6492",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "West Village"
+  },
+  {
+    "Organization Name": "Asase Yaa Cultural Arts Foundation",
+    "Address": "1803 Fulton Street",
+    "Postcode": 11233,
+    "MainPhone": "(347) 915-2563",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Crown Heights North"
+  },
+  {
+    "Organization Name": "Balance Dance Theatre",
+    "Address": "181 East 91st Street",
+    "Postcode": 11212,
+    "MainPhone": "(718) 624-6414",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Rugby-Remsen Village"
+  },
+  {
+    "Organization Name": "Balinese American Dance Theatre",
+    "Address": "23 West 35th Street, 2nd Floor",
+    "Postcode": 10001,
+    "MainPhone": "(646) 361-9183",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "Ballet Ambassadors, Inc.",
+    "Address": "160 West 71st Street, Ste. 18A",
+    "Postcode": 10023,
+    "MainPhone": "(212) 600-0018",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Lincoln Square"
+  },
+  {
+    "Organization Name": "Ballet Folklorico Mexicano de Nueva York",
+    "Address": "24-36 83rd Street",
+    "Postcode": 11370,
+    "MainPhone": "(917) 940-6733",
+    "Discipline": "Dance",
+    "Borough": "Queens",
+    "Neighborhood": "Jackson Heights"
+  },
+  {
+    "Organization Name": "Ballet Hispanico of New York, Inc.",
+    "Address": "167 West 89 Street",
+    "Postcode": 10024,
+    "MainPhone": "(212) 362-6710 x23",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Upper West Side"
+  },
+  {
+    "Organization Name": "Ballet Next, Inc.",
+    "Address": "243 West 60th Street",
+    "Postcode": 10023,
+    "MainPhone": "(212) 203-0409",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Lincoln Square"
+  },
+  {
+    "Organization Name": "Ballet Tech Foundation, Inc.",
+    "Address": "890 Broadway, 8th Floor",
+    "Postcode": 10003,
+    "MainPhone": "(212) 777-7710 x314",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "Ballet Theatre Foundation, Inc.",
+    "Address": "890 Broadway, 3rd Floor",
+    "Postcode": 10003,
+    "MainPhone": "(212) 477-3030 x1188",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "Ballroom Basix USA Inc.",
+    "Address": "178 E 117th Street",
+    "Postcode": 10035,
+    "MainPhone": "(212) 876-8660",
+    "Discipline": "Dance",
+    "Borough": "Bronx",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Ballroom Basix USA, Inc.",
+    "Address": "178 E. 117th St",
+    "Postcode": 10035,
+    "MainPhone": "(212) 876-8660",
+    "Discipline": "Dance",
+    "Borough": "Bronx",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Bang Group, Inc.",
+    "Address": "131 Perry Street, Ste. 1A",
+    "Postcode": 10014,
+    "MainPhone": "(212) 337-9565",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "West Village"
+  },
+  {
+    "Organization Name": "Baryshnikov Dance Foundation, Inc.",
+    "Address": "450 West 37th Street, Suite 501",
+    "Postcode": 10018,
+    "MainPhone": "(646) 731-3201",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "Batoto Yetu, Inc.",
+    "Address": "12 Sylvan Terrace",
+    "Postcode": 10032,
+    "MainPhone": "(646) 240-4161",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Washington Heights South"
+  },
+  {
+    "Organization Name": "Battery Dance Corporation",
+    "Address": "380 Broadway, Fifth Floor",
+    "Postcode": 10013,
+    "MainPhone": "(212) 219-3910",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "SoHo-TriBeCa-Civic Center-Little Italy"
+  },
+  {
+    "Organization Name": "Battleworks Dance Company",
+    "Address": "P.O. Box 16",
+    "Postcode": 10012,
+    "MainPhone": "(718) 312-8718",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Big Dance Theater, Inc.",
+    "Address": "303 Clinton Street",
+    "Postcode": 11231,
+    "MainPhone": "(646) 717-0585",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Big Tree Productions, Inc.",
+    "Address": "42 Horatio Street, #9",
+    "Postcode": 10014,
+    "MainPhone": "(212) 633-0016",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "West Village"
+  },
+  {
+    "Organization Name": "Bombazo Dance Co., Inc.",
+    "Address": "P.O. Box 182",
+    "Postcode": 10462,
+    "MainPhone": "(718) 319-8652",
+    "Discipline": "Dance",
+    "Borough": "Bronx",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Born Dancing.Inc.",
+    "Address": "812 W181 Street",
+    "Postcode": 10033,
+    "MainPhone": "(347) 256-3306",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Washington Heights South"
+  },
+  {
+    "Organization Name": "Brighton Ballet Theater Company, Inc.",
+    "Address": "2001 Oriental Boulevard",
+    "Postcode": 11235,
+    "MainPhone": "(718) 769-9161",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Sheepshead Bay-Gerritsen Beach-Manhattan Beach"
+  },
+  {
+    "Organization Name": "Broadway Dance Lab",
+    "Address": "433 West 34th St.",
+    "Postcode": 10001,
+    "MainPhone": "(646) 325-5389",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "Bronx Dance Theatre, Inc.",
+    "Address": "585 East 187th Street, 2nd Floor",
+    "Postcode": 10458,
+    "MainPhone": "(718) 364-2725",
+    "Discipline": "Dance",
+    "Borough": "Bronx",
+    "Neighborhood": "Belmont"
+  },
+  {
+    "Organization Name": "Brooklyn Ballet, Inc.",
+    "Address": "160 Schermerhorn St",
+    "Postcode": 11201,
+    "MainPhone": "(718) 246-0146",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill"
+  },
+  {
+    "Organization Name": "Brooklyn House of Kulture, Inc.",
+    "Address": "1685 Ocean Ave",
+    "Postcode": 11230,
+    "MainPhone": "(646) 596-1283",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Midwood"
+  },
+  {
+    "Organization Name": "Brooklyn Studios for Dance",
+    "Address": "210 Lafayette Ave.",
+    "Postcode": 11238,
+    "MainPhone": "(917) 945-6890",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Clinton Hill"
+  },
+  {
+    "Organization Name": "CABD, Inc.",
+    "Address": "P.O. Box 340600",
+    "Postcode": 11434,
+    "MainPhone": "(646) 653-4960",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "CAVE Organization, Inc.",
+    "Address": "58 Grand Street, 1st Floor",
+    "Postcode": 11211,
+    "MainPhone": "(718) 388-6780",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "North Side-South Side"
+  },
+  {
+    "Organization Name": "Calpulli Mexican Dance Company, Inc.",
+    "Address": "2512 77th St",
+    "Postcode": 11370,
+    "MainPhone": "(646) 221-6553",
+    "Discipline": "Dance",
+    "Borough": "Queens",
+    "Neighborhood": "Jackson Heights"
+  },
+  {
+    "Organization Name": "Capoeira Foundation, Inc.",
+    "Address": "75 Broad Street",
+    "Postcode": 10004,
+    "MainPhone": "(212) 382-0555",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Battery Park City-Lower Manhattan"
+  },
+  {
+    "Organization Name": "Career Transition for Dancers, Inc.",
+    "Address": "165 West 46 Street, Ste. 701",
+    "Postcode": 10036,
+    "MainPhone": "(212) 764-0172 x222",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "Cedar Lake, Inc.",
+    "Address": "547 West 26th Street",
+    "Postcode": 10001,
+    "MainPhone": "(212) 244-0015",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "Center for Traditional Music and Dance",
+    "Address": "32 Broadway, Ste. 1314",
+    "Postcode": 10004,
+    "MainPhone": "(212) 571-1555 x25",
+    "Discipline": "Folk Arts",
+    "Borough": "Manhattan",
+    "Neighborhood": "Battery Park City-Lower Manhattan"
+  },
+  {
+    "Organization Name": "Chamber Dance Project",
+    "Address": "P.O. Box 4499",
+    "Postcode": 10163,
+    "MainPhone": "(914) 332-7762",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Complexions - A Concept in Dance",
+    "Address": "c/o NMBC",
+    "Postcode": 10019,
+    "MainPhone": "(212) 777-7771",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Composers Concordance, Inc.",
+    "Address": "1510 york ave #2b",
+    "Postcode": 10075,
+    "MainPhone": "(212) 663-8826",
+    "Discipline": "Music",
+    "Borough": "Manhattan",
+    "Neighborhood": "Yorkville"
+  },
+  {
+    "Organization Name": "Construction Company Theater/Dance Associates, Inc.",
+    "Address": "10 East 18th Street, #3",
+    "Postcode": 10003,
+    "MainPhone": "(212) 924-7882",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "Cora Incorporated",
+    "Address": "358 Van Brunt Street",
+    "Postcode": 11231,
+    "MainPhone": "(732) 267-1859",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Carroll Gardens-Columbia Street-Red Hook"
+  },
+  {
+    "Organization Name": "CorbinDances, Inc.",
+    "Address": "196 West 134th Street",
+    "Postcode": 10030,
+    "MainPhone": "(646) 734-6338",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Central Harlem North-Polo Grounds"
+  },
+  {
+    "Organization Name": "Covenant Ballet Theatre of Brooklyn, Inc.",
+    "Address": "4750 Bedford Avenue, #8A",
+    "Postcode": 11235,
+    "MainPhone": "(718) 891-6199",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Sheepshead Bay-Gerritsen Beach-Manhattan Beach"
+  },
+  {
+    "Organization Name": "Creative Outlet Dance Theatre of Brooklyn, Inc.",
+    "Address": "80 Hanson Place, Suite 303",
+    "Postcode": 11217,
+    "MainPhone": "(718) 636-9312 x103",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Fort Greene"
+  },
+  {
+    "Organization Name": "Cumbe: Center for African and Diaspora Dance, Inc.",
+    "Address": "1368 Fulton Street",
+    "Postcode": 11216,
+    "MainPhone": "(718) 935-9700",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Crown Heights North"
+  },
+  {
+    "Organization Name": "Cunningham Dance Foundation, Inc.",
+    "Address": "55 Bethune Street",
+    "Postcode": 10014,
+    "MainPhone": "(212) 255-8240 x17",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "West Village"
+  },
+  {
+    "Organization Name": "Curran Events Inc",
+    "Address": "21 First Avenue",
+    "Postcode": 10003,
+    "MainPhone": "(212) 254-5018",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "DDJW INCORPORATED",
+    "Address": "511 West 151st Street, Apt. C1",
+    "Postcode": 10031,
+    "MainPhone": "(212) 694-0477",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hamilton Heights"
+  },
+  {
+    "Organization Name": "DMF Youth, Inc.",
+    "Address": "320 West 83rd Street Suite 1A",
+    "Postcode": 10024,
+    "MainPhone": "(714) 612-3440",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Upper West Side"
+  },
+  {
+    "Organization Name": "Dance 2000: The Felice Lesser Dance Theater Foundation, Inc.",
+    "Address": "484 West 43rd Street,  #9T",
+    "Postcode": 10036,
+    "MainPhone": "(212) 594-3388",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Clinton"
+  },
+  {
+    "Organization Name": "Dance Continuum, Inc.",
+    "Address": "545 W 111th St",
+    "Postcode": 10025,
+    "MainPhone": "(212) 219-0005",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Morningside Heights"
+  },
+  {
+    "Organization Name": "Dance Entropy, Inc.",
+    "Address": "37-24 24th Street",
+    "Postcode": 11101,
+    "MainPhone": "(718) 956-3037",
+    "Discipline": "Dance",
+    "Borough": "Queens",
+    "Neighborhood": "Queensbridge-Ravenswood-Long Island City"
+  },
+  {
+    "Organization Name": "Dance Films Association, Inc.",
+    "Address": "75 Broad Street",
+    "Postcode": 10004,
+    "MainPhone": "(212) 727-0764",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Battery Park City-Lower Manhattan"
+  },
+  {
+    "Organization Name": "Dance Giant Steps, Inc.",
+    "Address": "93 Montague Street, Ste. 303",
+    "Postcode": 11201,
+    "MainPhone": "(713) 666-6395",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Brooklyn Heights-Cobble Hill"
+  },
+  {
+    "Organization Name": "Dance Iquail",
+    "Address": "Po Box 559",
+    "Postcode": 10030,
+    "MainPhone": "(646) 457-7484",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Dance New Amsterdam",
+    "Address": "280 Broadway, 2nd floor",
+    "Postcode": 10007,
+    "MainPhone": "(212) 625-8369 x201",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "SoHo-TriBeCa-Civic Center-Little Italy"
+  },
+  {
+    "Organization Name": "Dance Notation Bureau, Inc.",
+    "Address": "111 John Street",
+    "Postcode": 10038,
+    "MainPhone": "(212) 571-7011",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Battery Park City-Lower Manhattan"
+  },
+  {
+    "Organization Name": "Dance Parade, Inc.",
+    "Address": "455 FDR Drive, Suite B104",
+    "Postcode": 10002,
+    "MainPhone": "(262) 880-1270",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Lower East Side"
+  },
+  {
+    "Organization Name": "Dance Project Sequence, Inc.",
+    "Address": "37-18 Northern Blvd., #315",
+    "Postcode": 11101,
+    "MainPhone": "(212) 517-4177",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Dance Project of Washington Heights",
+    "Address": "2092 Amsterdam Avenue,#4R",
+    "Postcode": 10032,
+    "MainPhone": "(646) 528-9675",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Washington Heights South"
+  },
+  {
+    "Organization Name": "Dance Ring, Inc.",
+    "Address": "131 East 10 Street",
+    "Postcode": 10003,
+    "MainPhone": "(212) 679-0401",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Village"
+  },
+  {
+    "Organization Name": "Dance Service New York City, Inc.",
+    "Address": "218 East 18th Street",
+    "Postcode": 10003,
+    "MainPhone": "(212) 366-6900 x201",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Gramercy"
+  },
+  {
+    "Organization Name": "Dance Theatre of Harlem, Inc.",
+    "Address": "466 West 152nd Street",
+    "Postcode": 10031,
+    "MainPhone": "(212) 690-2800 x401",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hamilton Heights"
+  },
+  {
+    "Organization Name": "Dance to Unite, Inc.",
+    "Address": "222 West 14th Street",
+    "Postcode": 10011,
+    "MainPhone": "(917) 744-1080",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "West Village"
+  },
+  {
+    "Organization Name": "DanceBreak Foundation",
+    "Address": "350 West 42nd Street, Apt 39D",
+    "Postcode": 10036,
+    "MainPhone": "(212) 315-1516",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Clinton"
+  },
+  {
+    "Organization Name": "DanceWorks, Inc.",
+    "Address": "75 Broad Street",
+    "Postcode": 10004,
+    "MainPhone": "(212) 278-8111 x301",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Battery Park City-Lower Manhattan"
+  },
+  {
+    "Organization Name": "Dancenow/NYC",
+    "Address": "P.O. Box 20029",
+    "Postcode": 10014,
+    "MainPhone": "(917) 664-8065",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Dances For A Variable Population",
+    "Address": "560 Riverside Dr. Apt 9K",
+    "Postcode": 10027,
+    "MainPhone": "(347) 683-2691",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Morningside Heights"
+  },
+  {
+    "Organization Name": "Dances and Drums of Africa",
+    "Address": "397 Bridge Street, 2nd Floor",
+    "Postcode": 11201,
+    "MainPhone": "(718) 254-0670",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill"
+  },
+  {
+    "Organization Name": "Dancewave, Inc.",
+    "Address": "182 4th Avenue",
+    "Postcode": 11217,
+    "MainPhone": "(718) 522-4696",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Park Slope-Gowanus"
+  },
+  {
+    "Organization Name": "Dancing Classrooms, Inc.",
+    "Address": "1350 Avenue of the Americas, 2nd Floor",
+    "Postcode": 10019,
+    "MainPhone": "(212) 244-9442",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "Dancing Dreams",
+    "Address": "23-91 Bell Blvd",
+    "Postcode": 11360,
+    "MainPhone": "(718) 428-2600",
+    "Discipline": "Dance",
+    "Borough": "Queens",
+    "Neighborhood": "Ft. Totten-Bay Terrace-Clearview"
+  },
+  {
+    "Organization Name": "Dancing in the Streets, Inc.",
+    "Address": "C/O Coworks",
+    "Postcode": 10455,
+    "MainPhone": "(212) 625-3505 x21",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Dansology, Inc.",
+    "Address": "515 East 6th Street",
+    "Postcode": 10009,
+    "MainPhone": "(212) 375-0186",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Village"
+  },
+  {
+    "Organization Name": "Danspace Project, Inc.",
+    "Address": "St. Mark's Church",
+    "Postcode": 10003,
+    "MainPhone": "(212) 674-8112",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Discalced, Inc.",
+    "Address": "3 Lafayette Avenue",
+    "Postcode": 11217,
+    "MainPhone": "(718) 624-8400 x216",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Fort Greene"
+  },
+  {
+    "Organization Name": "Djoniba Dance and Drum Centre, Inc.",
+    "Address": "P.O. Box 1074",
+    "Postcode": 10276,
+    "MainPhone": "(212) 254-9466",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Dorrance Dance Incorporated",
+    "Address": "PO Box 1935",
+    "Postcode": 10101,
+    "MainPhone": "(212) 802-1432",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Dova, Inc.",
+    "Address": "260 West Broadway, Suite 4",
+    "Postcode": 10013,
+    "MainPhone": "(212) 279-3344",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "SoHo-TriBeCa-Civic Center-Little Italy"
+  },
+  {
+    "Organization Name": "Dusan Tynek Dance Theatre Foundation, Inc.",
+    "Address": "415 Ninth Street,  Apt. 54",
+    "Postcode": 11215,
+    "MainPhone": "(718) 249-7708",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Park Slope-Gowanus"
+  },
+  {
+    "Organization Name": "Dwana Smallwood Performing Arts Center, Inc.",
+    "Address": "857 Lexington Avenue",
+    "Postcode": 11221,
+    "MainPhone": "(646) 489-3517",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Stuyvesant Heights"
+  },
+  {
+    "Organization Name": "Dynamic Forms, Inc.",
+    "Address": "107 Suffolk Street, Ste. 310",
+    "Postcode": 10002,
+    "MainPhone": "(212) 375-9214",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Lower East Side"
+  },
+  {
+    "Organization Name": "E. Monte Motion, Inc.",
+    "Address": "481 8th Avenue, Ste. 543",
+    "Postcode": 10001,
+    "MainPhone": "(212) 868-4488",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "Edge School of the Arts Dance Legacy",
+    "Address": "147-36 94th Avenue",
+    "Postcode": 11435,
+    "MainPhone": "(347) 321-5873",
+    "Discipline": "Dance",
+    "Borough": "Queens",
+    "Neighborhood": "Jamaica"
+  },
+  {
+    "Organization Name": "El Mundo del Flamenco NY Center for Flamenco",
+    "Address": "Dance New Amsterdam",
+    "Postcode": 10007,
+    "MainPhone": "(917) 667-2695",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Elaine Kaufman Cultural Center/Lucy Moses School for Music and Dance",
+    "Address": "129 West 67th Street",
+    "Postcode": 10023,
+    "MainPhone": "(212) 501-3313",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Lincoln Square"
+  },
+  {
+    "Organization Name": "Elite Learners, Inc.",
+    "Address": "1407 Linden Blvd",
+    "Postcode": 11212,
+    "MainPhone": "(347) 742-7913",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Brownsville"
+  },
+  {
+    "Organization Name": "Equus Projects, Inc.",
+    "Address": "121 West 17th St. Apt. 4B",
+    "Postcode": 10011,
+    "MainPhone": "(212) 924-1336",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "Errol Grimes Dance Group",
+    "Address": "50 Taaffe Place",
+    "Postcode": 11205,
+    "MainPhone": "(718) 596-0560",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Clinton Hill"
+  },
+  {
+    "Organization Name": "Eva Dean Dance Company, Inc.",
+    "Address": "725 Union Street, Ste. B",
+    "Postcode": 11215,
+    "MainPhone": "(718) 857-8368",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Park Slope-Gowanus"
+  },
+  {
+    "Organization Name": "Everybody Dance Now",
+    "Address": "115 Broadway",
+    "Postcode": 10006,
+    "MainPhone": "(646) 761-5269",
+    "Discipline": "Dance",
+    "Borough": "Queens",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Evidence, Inc.",
+    "Address": "80 Hanson Place, Ste. 605",
+    "Postcode": 11217,
+    "MainPhone": "(718) 230-4633",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Fort Greene"
+  },
+  {
+    "Organization Name": "Federation Employment & Guidance Service, Inc.",
+    "Address": "315 Hudson Street",
+    "Postcode": 10013,
+    "MainPhone": "(212) 366-8032",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "SoHo-TriBeCa-Civic Center-Little Italy"
+  },
+  {
+    "Organization Name": "Fist and Heel Performance Group, Inc.",
+    "Address": "476 Dean Street, Ste. 2",
+    "Postcode": 11217,
+    "MainPhone": "(718) 270-6979",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Park Slope-Gowanus"
+  },
+  {
+    "Organization Name": "Flex Program",
+    "Address": "1303 Saint Johns Place",
+    "Postcode": 11213,
+    "MainPhone": "(917) 476-5497",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Crown Heights North"
+  },
+  {
+    "Organization Name": "Foundation for Dance Promotion, Inc.",
+    "Address": "27 West 120th Street, #1",
+    "Postcode": 10027,
+    "MainPhone": "(212) 426-6655 x111",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Central Harlem South"
+  },
+  {
+    "Organization Name": "Foundation for Independent Artists, Inc.",
+    "Address": "246 West 38th Street, 4th Floor",
+    "Postcode": 10018,
+    "MainPhone": "(212) 278-8111 x301",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "Foundation for the Advance of Dance",
+    "Address": "55 Bethune Street, 630A",
+    "Postcode": 10014,
+    "MainPhone": "(212) 989-2250",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "West Village"
+  },
+  {
+    "Organization Name": "Gallim Dance Company, Inc.",
+    "Address": "520 Clinton Avenue",
+    "Postcode": 11238,
+    "MainPhone": "(516) 510-3330",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Clinton Hill"
+  },
+  {
+    "Organization Name": "Gelsey Kirkland Academy of Classical Ballet",
+    "Address": "Gelsey Kirkland Academy of Classical Ballet",
+    "Postcode": 10013,
+    "MainPhone": "(212) 600-0047",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Gina Gibney Dance, Inc.",
+    "Address": "890 Broadway, Studio 5-2",
+    "Postcode": 10003,
+    "MainPhone": "(212) 677-8560",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "Gotham Arts Exchange, Inc.",
+    "Address": "168 West 123rd Street",
+    "Postcode": 10027,
+    "MainPhone": "(212) 928-6517",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Central Harlem South"
+  },
+  {
+    "Organization Name": "Gotham Dance, Inc.",
+    "Address": "140 Second Avenue",
+    "Postcode": 10003,
+    "MainPhone": "(212) 777-1340",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Village"
+  },
+  {
+    "Organization Name": "Groove With Me, Inc.",
+    "Address": "186 East 123rd Street, 2nd Floor",
+    "Postcode": 10035,
+    "MainPhone": "(212) 987-5910",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Harlem North"
+  },
+  {
+    "Organization Name": "H.T. Dance Company, Inc.",
+    "Address": "70 Mulberry Street",
+    "Postcode": 10013,
+    "MainPhone": "(212) 349-0126",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Chinatown"
+  },
+  {
+    "Organization Name": "High Frequency Wavelengths",
+    "Address": "560 Riverside Drive, Apt. 3P",
+    "Postcode": 10027,
+    "MainPhone": "(646) 712-0459",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Morningside Heights"
+  },
+  {
+    "Organization Name": "High Tide Dance, Inc.",
+    "Address": "139 Fulton Street, Ste. 310",
+    "Postcode": 10038,
+    "MainPhone": "(212) 233-0330",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Battery Park City-Lower Manhattan"
+  },
+  {
+    "Organization Name": "House of the Roses Volunteer Dance Company, Inc.",
+    "Address": "P.O. Box 921",
+    "Postcode": 10150,
+    "MainPhone": "(718) 850-0122",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Ice Theatre of New York, Inc.",
+    "Address": "59 Chelsea Piers, Suite #5911",
+    "Postcode": 10011,
+    "MainPhone": "(212) 929-5811",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "Il Piccolo Teatro Dell'Opera, Inc.",
+    "Address": "41 Schermerhorn Street #179",
+    "Postcode": 11201,
+    "MainPhone": "(917) 453-2607",
+    "Discipline": "Dance",
+    "Borough": "Queens",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Infinity Dance Theater Company, Ltd.",
+    "Address": "220 West 93rd Street, Apt. 6C",
+    "Postcode": 10025,
+    "MainPhone": "(212) 877-3490",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Upper West Side"
+  },
+  {
+    "Organization Name": "Inta, Inc.",
+    "Address": "PO Box 230770",
+    "Postcode": 10023,
+    "MainPhone": "(212) 278-8111 x300",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Isadora Duncan Dance Foundation",
+    "Address": "141 West 26th Street, 3rd Floor",
+    "Postcode": 10001,
+    "MainPhone": "(917) 836-9514",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "Jamel Gaines Creative Outlet Inc",
+    "Address": "80 Hanson Place",
+    "Postcode": 11217,
+    "MainPhone": "(917) 500-8774",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Fort Greene"
+  },
+  {
+    "Organization Name": "Japanese Folk Dance Institute of New York, Inc.",
+    "Address": "568 Grand Street, #J-1206",
+    "Postcode": 10002,
+    "MainPhone": "(212) 982-6952",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Lower East Side"
+  },
+  {
+    "Organization Name": "Jessica Lang Dance, Inc.",
+    "Address": "27-28 Thompson Avenue",
+    "Postcode": 11101,
+    "MainPhone": "(646) 246-7134",
+    "Discipline": "Dance",
+    "Borough": "Queens",
+    "Neighborhood": "Hunters Point-Sunnyside-West Maspeth"
+  },
+  {
+    "Organization Name": "Joan Miller and the Chamber Arts Dance Players, Inc.",
+    "Address": "1380 Riverside Drive, #10B",
+    "Postcode": 10033,
+    "MainPhone": "(212) 568-8854",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Washington Heights North"
+  },
+  {
+    "Organization Name": "Jody Sperling Time Lapse Dance, Inc.",
+    "Address": "825 West End Avenue, Apt. 13G",
+    "Postcode": 10025,
+    "MainPhone": "(212) 866-1759",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Upper West Side"
+  },
+  {
+    "Organization Name": "Jose Limon Dance Foundation, Inc.",
+    "Address": "307 West 38th Street, Suite 1105",
+    "Postcode": 10018,
+    "MainPhone": "(212) 777-3353 x16",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Clinton"
+  },
+  {
+    "Organization Name": "Joyce Theater Foundation, Inc.",
+    "Address": "175 Eighth Avenue",
+    "Postcode": 10011,
+    "MainPhone": "(212) 691-9740 x210",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "K.S. J.A.M.M. Dance Troupe, Inc.",
+    "Address": "15 Dunham Place",
+    "Postcode": 11249,
+    "MainPhone": "(347) 789-4849",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "North Side-South Side"
+  },
+  {
+    "Organization Name": "KDNY Incorporated",
+    "Address": "132 East 43rd Street, Ste. 118",
+    "Postcode": 10017,
+    "MainPhone": "(646) 529-6412",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Turtle Bay-East Midtown"
+  },
+  {
+    "Organization Name": "KW Projects, Inc.",
+    "Address": "145 17th Street, #2",
+    "Postcode": 11215,
+    "MainPhone": "(646) 330-7609",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Park Slope-Gowanus"
+  },
+  {
+    "Organization Name": "Kalavant Center for Music and Dance",
+    "Address": "326 East 11th Street, Ste. 2",
+    "Postcode": 10003,
+    "MainPhone": "(212) 475-2348",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Village"
+  },
+  {
+    "Organization Name": "Kathryn Posin Dance Foundation",
+    "Address": "20 Bond Street",
+    "Postcode": 10012,
+    "MainPhone": "(212) 777-1515",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "West Village"
+  },
+  {
+    "Organization Name": "Keep Empowering Youth Achievement",
+    "Address": "PO Box 340 111",
+    "Postcode": 11413,
+    "MainPhone": "(347) 529-9270",
+    "Discipline": "Dance",
+    "Borough": "Queens",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Keep Rising to the Top, Inc.",
+    "Address": "119 East 102 Street, Apt. 5B",
+    "Postcode": 10029,
+    "MainPhone": "(212) 410-9426",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Harlem South"
+  },
+  {
+    "Organization Name": "Keigwin and Company, Inc.",
+    "Address": "246 West 38th Street, Eighth Floor",
+    "Postcode": 10018,
+    "MainPhone": "(212) 278-0691",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "Kerri Edge Children's Dance Ensemble, Inc.",
+    "Address": "193-19 Nashville Boulevard",
+    "Postcode": 11413,
+    "MainPhone": "(718) 527-2011",
+    "Discipline": "Dance",
+    "Borough": "Queens",
+    "Neighborhood": "St. Albans"
+  },
+  {
+    "Organization Name": "Korean Community Service of Metropolitan New York",
+    "Address": "35-56 159th Street",
+    "Postcode": 11358,
+    "MainPhone": "(718) 886-8203",
+    "Discipline": "Dance",
+    "Borough": "Queens",
+    "Neighborhood": "Murray Hill"
+  },
+  {
+    "Organization Name": "KowTeff School of African Dance",
+    "Address": "168 Macon Street",
+    "Postcode": 11216,
+    "MainPhone": "(718) 789-5870",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Bedford"
+  },
+  {
+    "Organization Name": "Kyle Abraham Abraham In Motion, Inc.",
+    "Address": "P.O. Box 986",
+    "Postcode": 10113,
+    "MainPhone": "(212) 691-6500",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "La Asociacion Benefica Cultural Padre Billini, Inc.",
+    "Address": "25-28 89th Street",
+    "Postcode": 11369,
+    "MainPhone": "(718) 651-8427",
+    "Discipline": "Dance",
+    "Borough": "Queens",
+    "Neighborhood": "Jackson Heights"
+  },
+  {
+    "Organization Name": "La Donna Dance, Inc.",
+    "Address": "140 Second Avenue, Ste. 501",
+    "Postcode": 10003,
+    "MainPhone": "(212) 982-1227",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Village"
+  },
+  {
+    "Organization Name": "Latsky Dance, Inc.",
+    "Address": "400 West 43rd Street, #21S",
+    "Postcode": 10036,
+    "MainPhone": "(212) 679-7399",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Clinton"
+  },
+  {
+    "Organization Name": "Laurie Foundation for the Performing Arts, Inc.",
+    "Address": "547 West 26th Street",
+    "Postcode": 10001,
+    "MainPhone": "(212) 244-0015",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "Les Ballets Trockadero de Monte Carlo, Inc.",
+    "Address": "Box 1325 Gracie Station",
+    "Postcode": 10028,
+    "MainPhone": "(202) 251-4176",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Liberata Dance Theatre, Inc.",
+    "Address": "440 West 34th Street, Apt. 13G",
+    "Postcode": 10001,
+    "MainPhone": "(212) 971-6054",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "Liberated Movement, Inc.",
+    "Address": "87-09 34th Ave",
+    "Postcode": 11372,
+    "MainPhone": "(646) 244-7889",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Life Through Dance, Inc.",
+    "Address": "345 Riverside Drive, Apt. 5A",
+    "Postcode": 10025,
+    "MainPhone": "(646) 250-1847",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Morningside Heights"
+  },
+  {
+    "Organization Name": "Little Branches of Borinquen, Inc.",
+    "Address": "2038 Davidson Avenue",
+    "Postcode": 10453,
+    "MainPhone": "(718) 731-6360",
+    "Discipline": "Dance",
+    "Borough": "Bronx",
+    "Neighborhood": "University Heights-Morris Heights"
+  },
+  {
+    "Organization Name": "Loco-Motion Dance Theatre for Children, Inc.",
+    "Address": "112 St. Marks Place #2",
+    "Postcode": 11217,
+    "MainPhone": "(212) 995-9027",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Village"
+  },
+  {
+    "Organization Name": "Loco7 Dance Puppet Theatre Company Incorporated",
+    "Address": "69 East 4th Street, apt 4c",
+    "Postcode": 10003,
+    "MainPhone": "(646) 642-5990",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Village"
+  },
+  {
+    "Organization Name": "Loft Practice Organization, Inc.",
+    "Address": "212 E Broadway 1103g",
+    "Postcode": 10002,
+    "MainPhone": "(201) 881-3086",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Lower East Side"
+  },
+  {
+    "Organization Name": "Lubovitch Dance Foundation, Inc.",
+    "Address": "229 West 42nd Street, 8th Floor",
+    "Postcode": 10036,
+    "MainPhone": "(212) 221-7909",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "Mafata Dance Company, Inc.",
+    "Address": "301 Admiral Lane",
+    "Postcode": 10473,
+    "MainPhone": "(718) 518-8099",
+    "Discipline": "Dance",
+    "Borough": "Bronx",
+    "Neighborhood": "Soundview-Castle Hill-Clason Point-Harding Park"
+  },
+  {
+    "Organization Name": "Maimouna Keita School of African Dance, Inc.",
+    "Address": "P.O. Box 470972",
+    "Postcode": 11247,
+    "MainPhone": "(718) 455-1406",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Main Street Theatre & Dance Alliance",
+    "Address": "548 Main Street",
+    "Postcode": 10044,
+    "MainPhone": "(212) 371-4449",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Lenox Hill-Roosevelt Island"
+  },
+  {
+    "Organization Name": "Marie-Christine Giordano Dance Company",
+    "Address": "220 25th Street, Ste. 202",
+    "Postcode": 11232,
+    "MainPhone": "(718) 369-6459",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Sunset Park West"
+  },
+  {
+    "Organization Name": "Martha Graham Center of Contemporary Dance, Inc.",
+    "Address": "55 Bethune Street",
+    "Postcode": 10014,
+    "MainPhone": "(917) 553-5984",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "West Village"
+  },
+  {
+    "Organization Name": "Mexicanos Unidos de Queens, Inc.",
+    "Address": "94-28 32nd Avenue",
+    "Postcode": 11369,
+    "MainPhone": "(718) 779-8508",
+    "Discipline": "Dance",
+    "Borough": "Queens",
+    "Neighborhood": "East Elmhurst"
+  },
+  {
+    "Organization Name": "Millennium Dance Company",
+    "Address": "138 west 180th street",
+    "Postcode": 10453,
+    "MainPhone": "(718) 993-2555",
+    "Discipline": "Dance",
+    "Borough": "Bronx",
+    "Neighborhood": "University Heights-Morris Heights"
+  },
+  {
+    "Organization Name": "Mind to Move, Inc.",
+    "Address": "129 Columbia Heights",
+    "Postcode": 11201,
+    "MainPhone": "(917) 767-6350",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Brooklyn Heights-Cobble Hill"
+  },
+  {
+    "Organization Name": "Misnomer, Inc.",
+    "Address": "588 10th Street, Apt. 4",
+    "Postcode": 11215,
+    "MainPhone": "(917) 602-0478",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Park Slope-Gowanus"
+  },
+  {
+    "Organization Name": "Monica Bill Barnes & Company, Inc.",
+    "Address": "41 Perry Street, Apt. 2A",
+    "Postcode": 10014,
+    "MainPhone": "(917) 903-0149",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "West Village"
+  },
+  {
+    "Organization Name": "Morballet, Inc.",
+    "Address": "315 W 105th St",
+    "Postcode": 10025,
+    "MainPhone": "(203) 313-4300",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Upper West Side"
+  },
+  {
+    "Organization Name": "Morphoses, Ltd.",
+    "Address": "800 Fifth Avenue #18B",
+    "Postcode": 10065,
+    "MainPhone": "(212) 813-9818",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Upper East Side-Carnegie Hill"
+  },
+  {
+    "Organization Name": "Movement Research, Inc.",
+    "Address": "150 First Avenue",
+    "Postcode": 10009,
+    "MainPhone": "(212) 598-0551 x2",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Village"
+  },
+  {
+    "Organization Name": "Moving For Life, Inc.",
+    "Address": "55 Ave C, South Storefront",
+    "Postcode": 10009,
+    "MainPhone": "(212) 222-1351",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Lower East Side"
+  },
+  {
+    "Organization Name": "Muller Works Foundation",
+    "Address": "131 West 24th Street, 4th Floor",
+    "Postcode": 10011,
+    "MainPhone": "(212) 691-3803",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "NW&D, Inc.",
+    "Address": "c/o The Field",
+    "Postcode": 10013,
+    "MainPhone": "(212) 645-6462",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Nai-Ni Chen Dance Company, Inc.",
+    "Address": "1133 Broadway, Suite 706",
+    "Postcode": 10010,
+    "MainPhone": "(800) 650-0246",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "National Dance Institute, Inc.",
+    "Address": "217 West 147th Street",
+    "Postcode": 10039,
+    "MainPhone": "(212) 226-0083 x216",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Central Harlem North-Polo Grounds"
+  },
+  {
+    "Organization Name": "Neville Dance Theatre, Inc",
+    "Address": "PO Box 1625",
+    "Postcode": 10101,
+    "MainPhone": "(917) 517-2175",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "New Dance Alliance, Inc.",
+    "Address": "182 Duane Street",
+    "Postcode": 10013,
+    "MainPhone": "(212) 226-7624",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "SoHo-TriBeCa-Civic Center-Little Italy"
+  },
+  {
+    "Organization Name": "New England Dinosaur, Inc.",
+    "Address": "130 West 56th Street",
+    "Postcode": 10019,
+    "MainPhone": "(212) 757-9669",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "New York City Ballet",
+    "Address": "David H. Koch Theater",
+    "Postcode": 10023,
+    "MainPhone": "(212) 870-5500",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Lincoln Square"
+  },
+  {
+    "Organization Name": "New York Dance & Arts Innovations, Inc.",
+    "Address": "127 West 78th Street, #4",
+    "Postcode": 10024,
+    "MainPhone": "(203) 509-9062",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Upper West Side"
+  },
+  {
+    "Organization Name": "New York Dance Center",
+    "Address": "890 Broadway, 8th Floor",
+    "Postcode": 10003,
+    "MainPhone": "(212) 777-7710",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "New York Live Arts, Inc.",
+    "Address": "219 West 19th Street",
+    "Postcode": 10011,
+    "MainPhone": "(212) 691-6500",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "New York United Jewish Association",
+    "Address": "PO Box 340753",
+    "Postcode": 11234,
+    "MainPhone": "(718) 407-1832",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Noche Flamenca, Inc.",
+    "Address": "168 W. 86th Street",
+    "Postcode": 10024,
+    "MainPhone": "(917) 775-4035",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Upper West Side"
+  },
+  {
+    "Organization Name": "Notes in Motion",
+    "Address": "77 Bleecker Street, Apt. 318",
+    "Postcode": 10012,
+    "MainPhone": "(212) 995-9446",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "West Village"
+  },
+  {
+    "Organization Name": "One World Arts, Inc",
+    "Address": "One World Arts, Inc",
+    "Postcode": 10464,
+    "MainPhone": "(718) 885-2574",
+    "Discipline": "Dance",
+    "Borough": "Bronx",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Opus Dance Theatre and Community Services, Inc.",
+    "Address": "1486 5th Avenue Suite 2S",
+    "Postcode": 10035,
+    "MainPhone": "(212) 996-8413",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Central Harlem South"
+  },
+  {
+    "Organization Name": "Overfoot, Inc.",
+    "Address": "234 East 4th Street, Apt. 16",
+    "Postcode": 10009,
+    "MainPhone": "(212) 777-6227",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Village"
+  },
+  {
+    "Organization Name": "Palissimo, Inc.",
+    "Address": "415 East 52nd Street, 8FB",
+    "Postcode": 10022,
+    "MainPhone": "(212) 781-5540",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Turtle Bay-East Midtown"
+  },
+  {
+    "Organization Name": "Parsons Dance Foundation",
+    "Address": "229 West 42nd Street, 8th Floor",
+    "Postcode": 10036,
+    "MainPhone": "(212) 869-9275",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "Pascal Rioult Dance Theatre",
+    "Address": "34-01 Steinway Street",
+    "Postcode": 11101,
+    "MainPhone": "(212) 398-5901",
+    "Discipline": "Dance",
+    "Borough": "Queens",
+    "Neighborhood": "Astoria"
+  },
+  {
+    "Organization Name": "Paul Taylor Dance Foundation, Inc.",
+    "Address": "551 Grand Street",
+    "Postcode": 10002,
+    "MainPhone": "(212) 431-5562 x12",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Lower East Side"
+  },
+  {
+    "Organization Name": "Pepatian, Inc.",
+    "Address": "P. O. Box 86",
+    "Postcode": 10451,
+    "MainPhone": "(718) 307-7847",
+    "Discipline": "Dance",
+    "Borough": "Bronx",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Periapsis Music and Dance, Inc.",
+    "Address": "523 Prospect Place",
+    "Postcode": 11238,
+    "MainPhone": "(412) 480-1147",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Peridance Ensemble, Ltd.",
+    "Address": "126 East 13th Street",
+    "Postcode": 10003,
+    "MainPhone": "(212) 505-0886",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Village"
+  },
+  {
+    "Organization Name": "Pick Up Performance Company, Inc.",
+    "Address": "440 West 34th Street",
+    "Postcode": 10001,
+    "MainPhone": "(212) 244-7622",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "Purelements: An Evolution in Dance",
+    "Address": "1958 Fulton Street",
+    "Postcode": 11233,
+    "MainPhone": "(347) 533-8933",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Ocean Hill"
+  },
+  {
+    "Organization Name": "Racing Thoughts, Inc.",
+    "Address": "55 North Moore Street, #3",
+    "Postcode": 10013,
+    "MainPhone": "(212) 226-5109",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "SoHo-TriBeCa-Civic Center-Little Italy"
+  },
+  {
+    "Organization Name": "Reversing The Projections. Inc",
+    "Address": "113-35 Farmers Boulevard",
+    "Postcode": 11412,
+    "MainPhone": "(718) 217-5117",
+    "Discipline": "Dance",
+    "Borough": "Queens",
+    "Neighborhood": "St. Albans"
+  },
+  {
+    "Organization Name": "Rio Grande Union, Inc.",
+    "Address": "541 Broadway, Third Floor",
+    "Postcode": 10012,
+    "MainPhone": "(212) 966-6999",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "SoHo-TriBeCa-Civic Center-Little Italy"
+  },
+  {
+    "Organization Name": "Rod Rodgers Dance Company, Inc.",
+    "Address": "62 East 4th Street",
+    "Postcode": 10003,
+    "MainPhone": "(212) 674-9066",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Village"
+  },
+  {
+    "Organization Name": "Ruth Williams Dance Foundation, Inc.",
+    "Address": "2090 Adam Clayton Powell Jr. Boulevard",
+    "Postcode": 10027,
+    "MainPhone": "(212) 662-6403",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "S.I.T.U., Inc.",
+    "Address": "127 Second Avenue, #19",
+    "Postcode": 10003,
+    "MainPhone": "(212) 260-3546",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Village"
+  },
+  {
+    "Organization Name": "SENS Production, Inc.",
+    "Address": "148 Classon Avenue",
+    "Postcode": 11205,
+    "MainPhone": "(718) 302-5024",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Clinton Hill"
+  },
+  {
+    "Organization Name": "STEM From Dance, Inc.",
+    "Address": "315 Empire Blvd.",
+    "Postcode": 11225,
+    "MainPhone": "(516) 521-9740",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Crown Heights South"
+  },
+  {
+    "Organization Name": "SYREN Modern Dance, Inc.",
+    "Address": "470 Lenox Avenue, 17H",
+    "Postcode": 10037,
+    "MainPhone": "(917) 650-5134",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Central Harlem North-Polo Grounds"
+  },
+  {
+    "Organization Name": "Sachiyo Ito and Company, Inc.",
+    "Address": "405 West 23rd Street, Ste. 4G",
+    "Postcode": 10011,
+    "MainPhone": "(212) 627-0265",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "Saeko Ichinohe and Company, Inc.",
+    "Address": "159 West 53rd Street, Suite 22-H",
+    "Postcode": 10019,
+    "MainPhone": "(212) 757-2531",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "Salvatore LaRussa Dance Co.",
+    "Address": "66-79 73 Place",
+    "Postcode": 11379,
+    "MainPhone": "(917) 686-7429",
+    "Discipline": "Dance",
+    "Borough": "Queens",
+    "Neighborhood": "Middle Village"
+  },
+  {
+    "Organization Name": "Sarah Michelson, Inc.",
+    "Address": "140 Second Ave #501",
+    "Postcode": 10003,
+    "MainPhone": "(212) 375-8283",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Village"
+  },
+  {
+    "Organization Name": "School of American Ballet, Inc.",
+    "Address": "70 Lincoln Center Plaza, Fifth Floor",
+    "Postcode": 10023,
+    "MainPhone": "(212) 769-6600",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Lincoln Square"
+  },
+  {
+    "Organization Name": "Shen Wei Dance Arts, Inc.",
+    "Address": "219 West 19th Street, 2nd Floor",
+    "Postcode": 10011,
+    "MainPhone": "(212) 962-1113",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "Silver-Brown Foundation",
+    "Address": "11 Sterling Place, Suite 5C",
+    "Postcode": 11217,
+    "MainPhone": "(917) 482-8404",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Park Slope-Gowanus"
+  },
+  {
+    "Organization Name": "Sisters With Purpose Inc.",
+    "Address": "1310 Pennsylvania Avenue",
+    "Postcode": 11239,
+    "MainPhone": "(646) 460-4101",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Starrett City"
+  },
+  {
+    "Organization Name": "Spanish Dance Arts Company, Inc.",
+    "Address": "4 West 43rd Street, Ste. 608",
+    "Postcode": 10036,
+    "MainPhone": "(212) 736-4499",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "Spanish-English Ensemble Theatre, Inc.",
+    "Address": "P.O. Box 1200",
+    "Postcode": 10003,
+    "MainPhone": "(212) 598-4320",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Staten Island Ballet Theater, Inc.",
+    "Address": "3081 Richmond Road",
+    "Postcode": 10306,
+    "MainPhone": "(718) 980-0500",
+    "Discipline": "Dance",
+    "Borough": "Staten Island",
+    "Neighborhood": "Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill"
+  },
+  {
+    "Organization Name": "Stefanie Nelson Dance Group",
+    "Address": "468 Riverside Drive, #24",
+    "Postcode": 10027,
+    "MainPhone": "(347) 831-3384",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Morningside Heights"
+  },
+  {
+    "Organization Name": "Stephen Petronio Dance Company, Inc.",
+    "Address": "140 Second Avenue",
+    "Postcode": 10003,
+    "MainPhone": "(212) 473-1660",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Village"
+  },
+  {
+    "Organization Name": "Streb, Inc.",
+    "Address": "51 North 1st Street",
+    "Postcode": 11249,
+    "MainPhone": "(718) 384-6491",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "North Side-South Side"
+  },
+  {
+    "Organization Name": "TADA! Theater and Dance Alliance, Inc.",
+    "Address": "15 West 28th Street, Third Floor",
+    "Postcode": 10001,
+    "MainPhone": "(212) 252-1619 x21",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "Tamar Rogoff Performance Projects, Inc.",
+    "Address": "170 Avenue C",
+    "Postcode": 10009,
+    "MainPhone": "(212) 533-8589",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Lower East Side"
+  },
+  {
+    "Organization Name": "Tamarind Art Council",
+    "Address": "142 East 39th Street",
+    "Postcode": 10016,
+    "MainPhone": "(212) 200-8000 x102",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Murray Hill-Kips Bay"
+  },
+  {
+    "Organization Name": "Thelma Hill Performing Arts Center",
+    "Address": "1525 Pacific Street",
+    "Postcode": 11213,
+    "MainPhone": "(718) 875-9710",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Crown Heights North"
+  },
+  {
+    "Organization Name": "Thin Man Dance, Inc.",
+    "Address": "140 Second Avenue, Ste. 501",
+    "Postcode": 10003,
+    "MainPhone": "(212) 375-0187",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Village"
+  },
+  {
+    "Organization Name": "Thresh Inc",
+    "Address": "200 W 20th Street Apt 512",
+    "Postcode": 10011,
+    "MainPhone": "(917) 216-2664",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "Threshold Dance Projects, Inc.",
+    "Address": "229 West 42nd Street, Suite 502",
+    "Postcode": 10036,
+    "MainPhone": "(212) 719-3301",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "Tickle the Sleeping Giant",
+    "Address": "140 2nd Avenue, #404",
+    "Postcode": 10003,
+    "MainPhone": "(646) 246-1799",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Village"
+  },
+  {
+    "Organization Name": "Together in Dance, Inc.",
+    "Address": "195 Plymouth Street, #4-2",
+    "Postcode": 11201,
+    "MainPhone": "(718) 768-3632",
+    "Discipline": "Dance",
+    "Borough": "Queens",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Torkomada, Inc.",
+    "Address": "2070 7th Avenue # 10M",
+    "Postcode": 10027,
+    "MainPhone": "(347) 512-0541",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Central Harlem South"
+  },
+  {
+    "Organization Name": "Tradition in Tap, Inc.",
+    "Address": "P.O. Box 1050",
+    "Postcode": 10276,
+    "MainPhone": "(646) 383-4949",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Trilok Fusion Arts",
+    "Address": "138 South Oxford Street, 2B",
+    "Postcode": 11217,
+    "MainPhone": "(718) 398-0333",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Fort Greene"
+  },
+  {
+    "Organization Name": "Trisha Brown Company, Inc.",
+    "Address": "341 West 38th Street",
+    "Postcode": "10018-2918",
+    "MainPhone": "(212) 977-5365 x23",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Clinton"
+  },
+  {
+    "Organization Name": "Triskelion Arts - Kick/StanDance, Inc.",
+    "Address": "106 Calyer Street",
+    "Postcode": 11222,
+    "MainPhone": "(718) 599-3577",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Greenpoint"
+  },
+  {
+    "Organization Name": "UBW, Inc.",
+    "Address": "138 South Oxford Street, Apt. 4B",
+    "Postcode": 11217,
+    "MainPhone": "(718) 398-7414",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Fort Greene"
+  },
+  {
+    "Organization Name": "UNIONDOCS, Inc.",
+    "Address": "322 Union Ave",
+    "Postcode": 11211,
+    "MainPhone": "(718) 395-7902",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "North Side-South Side"
+  },
+  {
+    "Organization Name": "USA Mali Charitable Association",
+    "Address": "136th st",
+    "Postcode": 10030,
+    "MainPhone": "(917) 557-2298",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "United States Sierra Leonean Association",
+    "Address": "141 Park Hill Avenue",
+    "Postcode": 10304,
+    "MainPhone": "(715) 524-4529",
+    "Discipline": "Dance",
+    "Borough": "Staten Island",
+    "Neighborhood": "Grymes Hill-Clifton-Fox Hills"
+  },
+  {
+    "Organization Name": "Uptown Dance Academy, Inc.",
+    "Address": "1425 Amsterdam Avenue, Ste. 5G",
+    "Postcode": 10027,
+    "MainPhone": "(917) 202-1601",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Manhattanville"
+  },
+  {
+    "Organization Name": "Urban Ballet Theater",
+    "Address": "5 West 102nd Street, Apt. 5B",
+    "Postcode": 10025,
+    "MainPhone": "(212) 663-7140",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Upper West Side"
+  },
+  {
+    "Organization Name": "Victory Music & Dance Company, Inc.",
+    "Address": "660 Mother Gaston Blvd.",
+    "Postcode": 11212,
+    "MainPhone": "(917) 270-6528",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Brownsville"
+  },
+  {
+    "Organization Name": "Volcano Love, Inc.",
+    "Address": "524 Bergen Street",
+    "Postcode": 11217,
+    "MainPhone": "(718) 399-3161",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Prospect Heights"
+  },
+  {
+    "Organization Name": "WCV, Inc.",
+    "Address": "140 Second Avenue, Ste. 501",
+    "Postcode": 10003,
+    "MainPhone": "(917) 374-2750",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Village"
+  },
+  {
+    "Organization Name": "White Wave Rising: Young Soon Kim Dance Company",
+    "Address": "753 Lexington Avenue, Suite 2B",
+    "Postcode": 11221,
+    "MainPhone": "(718) 855-8822",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Stuyvesant Heights"
+  },
+  {
+    "Organization Name": "Williamsburg Art Nexus, Inc.",
+    "Address": "23-51 26th Street",
+    "Postcode": 11105,
+    "MainPhone": "(718) 384-8060",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Sunset Park West"
+  },
+  {
+    "Organization Name": "World Dance Theatre",
+    "Address": "43-18 42nd Street, Apt. 2R",
+    "Postcode": 11104,
+    "MainPhone": "(646) 330-5152",
+    "Discipline": "Dance",
+    "Borough": "Queens",
+    "Neighborhood": "Hunters Point-Sunnyside-West Maspeth"
+  },
+  {
+    "Organization Name": "Yaa Samar Dance Theatre",
+    "Address": "228 Norman Avenue, #2",
+    "Postcode": 11222,
+    "MainPhone": "(646) 734-4342",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Greenpoint"
+  },
+  {
+    "Organization Name": "Young Dancers in Repertory, Inc.",
+    "Address": "P.O. Box 205037",
+    "Postcode": 11220,
+    "MainPhone": "(347) 702-7155",
+    "Discipline": "Dance",
+    "Borough": "Brooklyn",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "ZGD, Inc.",
+    "Address": "246 West 38th Street, 4th Floor",
+    "Postcode": 10018,
+    "MainPhone": "(212) 869-7429",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "human future dance corps",
+    "Address": "219 West 19th Street",
+    "Postcode": 10011,
+    "MainPhone": "(212) 691-6500 x378",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "iLAND, Inc.",
+    "Address": "140 Second Avenue, Ste. 501",
+    "Postcode": 10003,
+    "MainPhone": "(917) 860-8239",
+    "Discipline": "Dance",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Village"
+  },
+  {
+    "Organization Name": "A Public Space Literary Projects, Inc.",
+    "Address": "323 Dean Street",
+    "Postcode": 11217,
+    "MainPhone": "(718) 858-8067",
+    "Discipline": "Literature",
+    "Borough": "Brooklyn",
+    "Neighborhood": "DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill"
+  },
+  {
+    "Organization Name": "Academy of American Poets",
+    "Address": "75 Maiden Lane",
+    "Postcode": 10038,
+    "MainPhone": "(212) 274-0343 x19",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "Battery Park City-Lower Manhattan"
+  },
+  {
+    "Organization Name": "African Voices Communications, Inc.",
+    "Address": "325 Lafayette Avenue",
+    "Postcode": 11238,
+    "MainPhone": "(212) 865-2982",
+    "Discipline": "Literature",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Clinton Hill"
+  },
+  {
+    "Organization Name": "Asian American Writers' Workshop",
+    "Address": "110-112 West 27th Street",
+    "Postcode": 10001,
+    "MainPhone": "(212) 494-0061",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "Autonomedia, Inc.",
+    "Address": "P.O. Box 568 Williamsburgh Station",
+    "Postcode": 11211,
+    "MainPhone": "(718) 963-2603",
+    "Discipline": "Literature",
+    "Borough": "Brooklyn",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Behind the Book, Inc.",
+    "Address": "216 West 135th Street, Ground Floor",
+    "Postcode": 10030,
+    "MainPhone": "(212) 222-3627",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "Central Harlem North-Polo Grounds"
+  },
+  {
+    "Organization Name": "Belladonna Series, Inc.",
+    "Address": "925 Bergen St",
+    "Postcode": 11238,
+    "MainPhone": "(917) 474-2003",
+    "Discipline": "Literature",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Crown Heights North"
+  },
+  {
+    "Organization Name": "Bowery Arts and Science",
+    "Address": "310 Bowery, 2nd Floor",
+    "Postcode": 10012,
+    "MainPhone": "(212) 614-0504",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "West Village"
+  },
+  {
+    "Organization Name": "Box Turtle Press/Attitude Art, Inc.",
+    "Address": "94 Franklin Street",
+    "Postcode": 10013,
+    "MainPhone": "(646) 246-3652",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "SoHo-TriBeCa-Civic Center-Little Italy"
+  },
+  {
+    "Organization Name": "Brooklyn Book Festival, Inc.",
+    "Address": "249 Smith Street",
+    "Postcode": 11231,
+    "MainPhone": "(718) 802-3901",
+    "Discipline": "Literature",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Carroll Gardens-Columbia Street-Red Hook"
+  },
+  {
+    "Organization Name": "Brooklyn Poets, Inc.",
+    "Address": "135 Jackson Street",
+    "Postcode": 11211,
+    "MainPhone": "(718) 374-1953",
+    "Discipline": "Literature",
+    "Borough": "Brooklyn",
+    "Neighborhood": "East Williamsburg"
+  },
+  {
+    "Organization Name": "Brooklyn Rail",
+    "Address": "99 Commercial Street #32",
+    "Postcode": 11222,
+    "MainPhone": "(718) 349-8427",
+    "Discipline": "Literature",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Greenpoint"
+  },
+  {
+    "Organization Name": "Caribbean Cultural Theatre, Inc.",
+    "Address": "138 South Oxford Street",
+    "Postcode": 11217,
+    "MainPhone": "(718) 783-8345",
+    "Discipline": "Literature",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Fort Greene"
+  },
+  {
+    "Organization Name": "Cave Canem Foundation, Inc.",
+    "Address": "20 Jay Street",
+    "Postcode": 11201,
+    "MainPhone": "(718) 858-0000",
+    "Discipline": "Literature",
+    "Borough": "Brooklyn",
+    "Neighborhood": "DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill"
+  },
+  {
+    "Organization Name": "Council of Literary Magazines and Presses",
+    "Address": "154 Christopher Street, Ste. 3C",
+    "Postcode": 10014,
+    "MainPhone": "(212) 741-9110 x14",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "West Village"
+  },
+  {
+    "Organization Name": "Cultural Center for Soviet Refugees, Inc.",
+    "Address": "139 East 33rd Street, Apt. 9M",
+    "Postcode": 10016,
+    "MainPhone": "(212) 686-0199",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "Murray Hill-Kips Bay"
+  },
+  {
+    "Organization Name": "Electric Lit, Inc.",
+    "Address": "147 Prince Street",
+    "Postcode": 11201,
+    "MainPhone": "(610) 999-3779",
+    "Discipline": "Literature",
+    "Borough": "Brooklyn",
+    "Neighborhood": "DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill"
+  },
+  {
+    "Organization Name": "Epiphany Magazine, Inc.",
+    "Address": "71 Bedford St.",
+    "Postcode": 10014,
+    "MainPhone": "(646) 221-8834",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "West Village"
+  },
+  {
+    "Organization Name": "Ether Sea Projects, Inc.",
+    "Address": "925 Bergen Street",
+    "Postcode": 11238,
+    "MainPhone": "(718) 288-5530",
+    "Discipline": "Literature",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Crown Heights North"
+  },
+  {
+    "Organization Name": "Feminist Press, Inc.",
+    "Address": "365 Fifth Avenue, Ste. 5406",
+    "Postcode": 10016,
+    "MainPhone": "(212) 817-7929",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "Fiction, Inc.",
+    "Address": "Dept of Engl NAC 6th Floor, City College of New York",
+    "Postcode": 10031,
+    "MainPhone": "(212) 966-3659",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Futurepoem, Inc.",
+    "Address": "PO Box 7687",
+    "Postcode": 10116,
+    "MainPhone": "(646) 827-9876",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Girls Write Now, Inc.",
+    "Address": "247 West 37 Street",
+    "Postcode": 10018,
+    "MainPhone": "(212) 691-6590 x202",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "Haitian American Cultural and Educational Foundation",
+    "Address": "91-40 Lamont Avenue, #4M",
+    "Postcode": 11373,
+    "MainPhone": "(516) 482-1658",
+    "Discipline": "Literature",
+    "Borough": "Queens",
+    "Neighborhood": "Elmhurst"
+  },
+  {
+    "Organization Name": "House of SpeakEasy",
+    "Address": "117 East 19th Street",
+    "Postcode": 10003,
+    "MainPhone": "(347) 413-4889",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "Gramercy"
+  },
+  {
+    "Organization Name": "Housing Works Used Book Cafe, Inc.",
+    "Address": "126 Crosby Street",
+    "Postcode": 10012,
+    "MainPhone": "(212) 966-0466 x1112",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "SoHo-TriBeCa-Civic Center-Little Italy"
+  },
+  {
+    "Organization Name": "Hudson Review, Inc.",
+    "Address": "684 Park Avenue",
+    "Postcode": 10065,
+    "MainPhone": "(212) 650-0020",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "Upper East Side-Carnegie Hill"
+  },
+  {
+    "Organization Name": "Intercultural Alliance of Artists & Scholars, Inc.",
+    "Address": "140-21 31st Road, 4G",
+    "Postcode": 11354,
+    "MainPhone": "(718) 545-0763",
+    "Discipline": "Literature",
+    "Borough": "Queens",
+    "Neighborhood": "Flushing"
+  },
+  {
+    "Organization Name": "Kundiman, Inc.",
+    "Address": "113 West 60th Street, Room 924",
+    "Postcode": 10023,
+    "MainPhone": "(347) 693-6506",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "Lincoln Square"
+  },
+  {
+    "Organization Name": "Kweli Journal, Inc.",
+    "Address": "POB 693",
+    "Postcode": 10021,
+    "MainPhone": "(646) 709-7026",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Literary Freedom Project",
+    "Address": "557 Grand Concourse",
+    "Postcode": 10451,
+    "MainPhone": "(347) 454-2161",
+    "Discipline": "Literature",
+    "Borough": "Bronx",
+    "Neighborhood": "West Concourse"
+  },
+  {
+    "Organization Name": "Mercantile Library Association of the City of New York",
+    "Address": "17 East 47th Street",
+    "Postcode": 10017,
+    "MainPhone": "(212) 755-6710",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "Midtown-Midtown South"
+  },
+  {
+    "Organization Name": "NY Writers Coalition",
+    "Address": "80 Hanson Place, Apt. 603",
+    "Postcode": 11217,
+    "MainPhone": "(718) 398-2883",
+    "Discipline": "Literature",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Fort Greene"
+  },
+  {
+    "Organization Name": "National Book Foundation, Inc.",
+    "Address": "90 Broad Street",
+    "Postcode": 10004,
+    "MainPhone": "(212) 685-0261",
+    "Discipline": "Literature",
+    "Borough": "Brooklyn",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "New Review, Inc.",
+    "Address": "611 Broadway, Ste. 902",
+    "Postcode": 10012,
+    "MainPhone": "(212) 353-1478",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "West Village"
+  },
+  {
+    "Organization Name": "Newtown Literary Alliance",
+    "Address": "61-15 97th Street",
+    "Postcode": 11374,
+    "MainPhone": "(347) 774-4375",
+    "Discipline": "Literature",
+    "Borough": "Queens",
+    "Neighborhood": "Rego Park"
+  },
+  {
+    "Organization Name": "Nightboat Books, Inc.",
+    "Address": "310 Nassau Avenue, #202",
+    "Postcode": 11222,
+    "MainPhone": "(718) 930-1062",
+    "Discipline": "Literature",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Greenpoint"
+  },
+  {
+    "Organization Name": "PEN American Center, Inc.",
+    "Address": "588 Broadway, Ste. 303",
+    "Postcode": 10012,
+    "MainPhone": "(212) 334-1660 x103",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "SoHo-TriBeCa-Civic Center-Little Italy"
+  },
+  {
+    "Organization Name": "Paris Review Foundation, Inc.",
+    "Address": "544 West 27th St",
+    "Postcode": 10001,
+    "MainPhone": "(212) 343-1333",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "Pen Parentis, Ltd.",
+    "Address": "176 Broadway 14F",
+    "Postcode": 10038,
+    "MainPhone": "(212) 501-2031",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "Battery Park City-Lower Manhattan"
+  },
+  {
+    "Organization Name": "Poetry Outreach Center",
+    "Address": "160 Convent Avenue",
+    "Postcode": 10031,
+    "MainPhone": "(212) 650-6356",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "Manhattanville"
+  },
+  {
+    "Organization Name": "Poetry Project, Ltd.",
+    "Address": "131 East 10th Street",
+    "Postcode": 10003,
+    "MainPhone": "(212) 674-0910",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "East Village"
+  },
+  {
+    "Organization Name": "Poetry Society of America",
+    "Address": "15 Gramercy Park",
+    "Postcode": 10003,
+    "MainPhone": "(212) 254-9628",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "Gramercy"
+  },
+  {
+    "Organization Name": "Poets & Writers, Inc.",
+    "Address": "90 Broad Street, Suite 2100",
+    "Postcode": 10004,
+    "MainPhone": "(212) 226-3586 x222",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "Battery Park City-Lower Manhattan"
+  },
+  {
+    "Organization Name": "Poets House, Inc.",
+    "Address": "10 River Terrace",
+    "Postcode": 10282,
+    "MainPhone": "(212) 431-7920",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "Battery Park City-Lower Manhattan"
+  },
+  {
+    "Organization Name": "Rattapallax, Incorporated",
+    "Address": "532 La Guardia Place, Ste. 353",
+    "Postcode": 10012,
+    "MainPhone": "(646) 416-4702",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "West Village"
+  },
+  {
+    "Organization Name": "ReLIT NY, Inc.",
+    "Address": "PO Box 1833",
+    "Postcode": 10016,
+    "MainPhone": "(917) 573-0034",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Restless Books Inc",
+    "Address": "232 3rd St",
+    "Postcode": 11215,
+    "MainPhone": "(864) 378-5822",
+    "Discipline": "Literature",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Park Slope-Gowanus"
+  },
+  {
+    "Organization Name": "Royal People Group, Inc.",
+    "Address": "147-12 Archer Ave",
+    "Postcode": 11435,
+    "MainPhone": "(718) 291-1094",
+    "Discipline": "Literature",
+    "Borough": "Queens",
+    "Neighborhood": "Jamaica"
+  },
+  {
+    "Organization Name": "Slice Literary, Inc.",
+    "Address": "PO Box 659",
+    "Postcode": 10014,
+    "MainPhone": "(848) 228-6077",
+    "Discipline": "Literature",
+    "Borough": "Brooklyn",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Teachers & Writers Collaborative, Inc.",
+    "Address": "540 President Street",
+    "Postcode": 11215,
+    "MainPhone": "(212) 691-6590 x208",
+    "Discipline": "Literature",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Park Slope-Gowanus"
+  },
+  {
+    "Organization Name": "Ugly Duckling Presse",
+    "Address": "232 Third St. #E002",
+    "Postcode": 11215,
+    "MainPhone": "(347) 948-5170",
+    "Discipline": "Literature",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Park Slope-Gowanus"
+  },
+  {
+    "Organization Name": "United Sherpa Association (USA) Inc.",
+    "Address": "41-01 75th St",
+    "Postcode": 11373,
+    "MainPhone": "(718) 779-7300",
+    "Discipline": "Literature",
+    "Borough": "Queens",
+    "Neighborhood": "Elmhurst"
+  },
+  {
+    "Organization Name": "Uptown Stories",
+    "Address": "178 Bennett Avenue",
+    "Postcode": 10033,
+    "MainPhone": "(917) 596-4795",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "Washington Heights North"
+  },
+  {
+    "Organization Name": "Urban Word NYC",
+    "Address": "217 West 18th Street",
+    "Postcode": 10011,
+    "MainPhone": "(212) 334-6414",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "Hudson Yards-Chelsea-Flatiron-Union Square"
+  },
+  {
+    "Organization Name": "Voices UnBroken, Inc.",
+    "Address": "P.O. Box 342",
+    "Postcode": 10461,
+    "MainPhone": "(718) 292-3018",
+    "Discipline": "Literature",
+    "Borough": "Bronx",
+    "Neighborhood": ""
+  },
+  {
+    "Organization Name": "Wendy's Subway Inc.",
+    "Address": "379 Bushwick Avenue",
+    "Postcode": 11206,
+    "MainPhone": "(646) 842-0971",
+    "Discipline": "Literature",
+    "Borough": "Brooklyn",
+    "Neighborhood": "Bushwick South"
+  },
+  {
+    "Organization Name": "Words without Borders",
+    "Address": "147 Prince Street",
+    "Postcode": 11201,
+    "MainPhone": "(917) 499-8329",
+    "Discipline": "Literature",
+    "Borough": "Brooklyn",
+    "Neighborhood": "DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill"
+  },
+  {
+    "Organization Name": "Writers Guild of America, East Foundation",
+    "Address": "250 Hudson Street",
+    "Postcode": 10013,
+    "MainPhone": "(212) 767-7843",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "SoHo-TriBeCa-Civic Center-Little Italy"
+  },
+  {
+    "Organization Name": "Writers Room, Inc.",
+    "Address": "740 Broadway, 12th Floor",
+    "Postcode": 10003,
+    "MainPhone": "(212) 254-6995",
+    "Discipline": "Literature",
+    "Borough": "Manhattan",
+    "Neighborhood": "West Village"
+  },
+  {
+    "Organization Name": "n+1 Foundation",
+    "Address": "68 Jay Street",
+    "Postcode": 11201,
+    "MainPhone": "(718) 797-0750",
+    "Discipline": "Literature",
+    "Borough": "Brooklyn",
+    "Neighborhood": "DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill"
+  }
+]

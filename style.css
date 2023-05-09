@@ -132,84 +132,92 @@ body {
 
     .visualart{
         position: absolute;
-        width: 357px;
-        height: 366px;
-        left: 467px;
-        top: 260px;
+        width: 265px;
+        height: 255px;
+        left: 45px;
+        top: 485px;
+    }
+
+    .mutlidiscipline{
+        position: absolute;
+        width: 300px;
+        height: 150px;
+        left: 730px;
+        top: 660px;
     }
     .science{
         position: absolute;
-        width: 366px;
-        height: 395px;
-        left: 90px;
-        top: 610px;
+        width: 305px;
+        height: 328px;
+        left: 50px;
+        top: 765px;
     }
     .music{
         position: absolute;
-        width: 330px;
-        height: 300px;
-        left: 495px;
-        top: 640px;
+        width: 275px;
+        height: 250px;
+        left: 370px;
+        top: 645px;
     }
     .literature{
         position: absolute;
-        width: 375px;
-        height: 310px;
-        left: 865px;
-        top: 755px;
+        width: 305px;
+        height: 250px;
+        left: 730px;
+        top: 840px;
     }
     .theater{
         position: absolute;
-        width: 445px;
-        height: 385px;
-        left: 843px;
-        top: 320px;
+        width: 350px;
+        height: 310px;
+        left: 1040px;
+        top: 660px;
     }
     .museums{
         position: absolute;
-        width: 324px;
+        width: 290px;
         height: 260px;
-        left: 1300px;
-        top: 358px;
+        left: 1410px;
+        top: 351px;
     }
     .dance{
         position: absolute;
-        width: 275px;
-        height: 435px;
-        left: 1327px;
-        top: 645px;
+        width: 250px;
+        height: 400px;
+        left: 1450px;
+        top: 641px;
     }
     .photography{
         position: absolute;
-        width: 365px;
-        height: 275px;
-        left: 90px;
-        top: 290px;
+        width: 307px;
+        height: 230px;
+        left: 45px;
+        top: 225px;
     }
     
         .popup {
-            width: 285px;
-            height: 200px;
+            width: 860px;
+            height: 385px;
             background-color: #388388;
             border: 1px solid #388388;
             border-radius: 30px;
             padding: 10px;
             position: fixed;
-            left:172px;
-            top: 405px;
+            left:400px;
+            top: 230px;
             display: none;
           }
       #popupTitle{
         position: fixed;
-        width: 286px;
+        width: 860px;
         height: 24px;
-        left: 172px;
-        top: 405px;
+        left: 400px;
+        top: 235px;
         font-family: 'National Park ';
         font-style: normal;
         font-weight: 700;
-        font-size: 20px;
-        line-height: 24px;
+        font-size: 45px;
+        line-height: 53px;
         /* identical to box height */
         text-align: center;
         color: #FFFFFF;
@@ -217,58 +225,58 @@ body {
 
       #popupAddress{
         position: fixed;
-        width: 286px;
-        height: 21px;
-        left:172px;
-        top: 450px;
+        width: 860px;
+        height: 42px;
+        left:400px;
+        top: 350px;
         font-family: 'National Park ';
         font-style: normal;
         font-weight: 700;
-        font-size: 18px;
-        line-height: 21px;
+        font-size: 36px;
+        line-height: 42px;
         text-align: center;
         color: #FFFFFF;
       }
 
       #popupBorough{
         position: fixed;
-        width: 286px;
-        height: 21px;
-        left:172px;
-        top: 495px;
+        width: 860px;
+        height: 42px;
+        left:400px;
+        top: 415px;
         font-family: 'National Park ';
         font-style: normal;
         font-weight: 700;
-        font-size: 18px;
-        line-height: 21px;
+        font-size: 36px;
+        line-height: 42px;
         text-align: center;
         color: #FFFFFF;
       }
       #popupMainPhone{
         position: fixed;
-        width: 286px;
-        height: 21px;
-        left:172px;
-        top: 520px;
+        width: 860px;
+        height: 42px;
+        left:400px;
+        top: 465px;
         font-family: 'National Park ';
         font-style: normal;
         font-weight: 700;
-        font-size: 18px;
-        line-height: 21px;
+        font-size: 36px;
+        line-height: 42px;
         text-align: center;
         color: #FFFFFF;
       }
       #popupDiscipline{
         position: fixed;
-        width: 285px;
-        height: 21px;
-        left:172px;
-        top: 550px;
+        width: 860px;
+        height: 42px;
+        left:400px;
+        top: 520px;
         font-family: 'National Park ';
         font-style: normal;
         font-weight: 700;
-        font-size: 18px;
-        line-height: 21px;
+        font-size: 36px;
+        line-height: 42px;
         text-align: center;
         color: #FFFFFF;
       }
@@ -287,7 +295,6 @@ body {
         background: none
       }
       
-
 
       .currentweather{
         position: absolute;
