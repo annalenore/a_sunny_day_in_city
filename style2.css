@@ -58,7 +58,7 @@ body {
     position: absolute;
     width: 1728px;
     height: 295px;
-    top: 280px;
+    top: 250px;
     font-family: 'National Park ';
     font-style: normal;
     font-weight: 700;
@@ -71,7 +71,7 @@ body {
     position: absolute;
     width: 1728px;
     height: 151px;
-    top: 430px;
+    top: 400px;
     font-family: 'National Park ';
     font-style: normal;
     font-weight: 700;
@@ -85,7 +85,7 @@ body {
     position: absolute;
     width: 1728px;
     height: 151px;
-    top: 820px;
+    top: 800px;
     font-family: 'National Park ';
     font-style: normal;
     font-weight: 700;
@@ -102,6 +102,36 @@ body {
     top: 570px;
   }
 
+  .rainyweather{
+    position: absolute;
+    width: 260px;
+    height: 280px;
+    left: 717.43px;
+    top: 570px;
+  }
+  .littlerainy{
+    position: absolute;
+    width: 203px;
+    height: 213px;
+    left: 1480px;
+    top: 1193px;
+  }
+  .rainy{
+    position: absolute;
+    width: 1728px;
+    height: 151px;
+    left: 0px;
+    top: 840px;
+    font-family: 'National Park ';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 128px;
+    line-height: 151px;
+    /* identical to box height */
+    text-align: center;
+    color: #FFFFFF;
+  }
+
   .popup{
     width: 517px;
     height: 380px;
@@ -111,19 +141,31 @@ body {
     padding: 10px;
     position: fixed;
     left:600px;
-    top: 550px;
+    top: 620px;
+    display: none;
+  }
+  .popup1{
+    width: 525px;
+    height: 380px;
+    background-color: #F29B32;
+    border: 1px solid #F29B32;
+    border-radius: 30px;
+    padding: 10px;
+    position: fixed;
+    left:600px;
+    top: 620px;
     display: none;
   }
   #popupTitle{
     width: 510px;
-    height: 70px;
+    height: 50px;
     left: 600px;
-    top: 600px;
+    top: 620px;
     font-family: 'National Park ';
     font-style: normal;
     font-weight: 700;
-    font-size: 36px;
-    line-height: 40px;
+    font-size: 34px;
+    line-height: 36px;
     /* identical to box height */
     text-align: center;
     color: #FFFFFF;
